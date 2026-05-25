@@ -4,11 +4,10 @@ import streamlit as st
 # ======================
 # API KEY (Cloud + Local)
 # ======================
-try:
+if "OPENAI_API_KEY" in st.secrets:
     OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
-except Exception:
+else:
     OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-
 # ======================
 # Models
 # ======================

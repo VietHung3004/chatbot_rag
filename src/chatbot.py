@@ -8,13 +8,13 @@ import re
 # =========================
 llm = ChatOpenAI(
     model=LLM_MODEL,
-    openai_api_key=OPENAI_API_KEY,
+    api_key=OPENAI_API_KEY,
     temperature=0.3
 )
 
 llm_strict = ChatOpenAI(
     model=LLM_MODEL,
-    openai_api_key=OPENAI_API_KEY,
+    api_key=OPENAI_API_KEY,
     temperature=0
 )
 
