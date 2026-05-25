@@ -1,8 +1,12 @@
 import os
 import streamlit as st
 
+# =========================
+# OPENAI API
+# =========================
 if "OPENAI_API_KEY" in st.secrets:
     os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
+
 from src.chatbot import (
     rewrite_query,
     generate_answer,
@@ -21,6 +25,9 @@ st.set_page_config(
     layout="wide"
 )
 
+# =========================
+# HEADER
+# =========================
 st.image("logo.svg", width=250)
 st.caption("Chatbot tư vấn điện thoại thông minh")
 
@@ -38,6 +45,12 @@ if "chat_history" not in st.session_state:
 # =========================
 with st.sidebar:
 
+    # QR ở trên cùng
+    st.image("qr_chatbot.png", width=220)
+    st.caption("📱 Quét QR để mở Chatbot")
+
+    st.divider()
+
     st.header("⚙️ Điều khiển")
 
     st.markdown("""
@@ -48,6 +61,8 @@ with st.sidebar:
 - So sánh Samsung và iPhone
 - Thủ tục trả góp
 """)
+
+    st.divider()
 
     if st.button("🗑️ Xóa hội thoại"):
         st.session_state.messages = []
@@ -67,7 +82,7 @@ for message in st.session_state.messages:
 # =========================
 if query := st.chat_input("Nhập câu hỏi về điện thoại..."):
 
-    # 👉 hiện tin nhắn user
+    # Hiển thị tin nhắn user
     st.session_state.messages.append({
         "role": "user",
         "content": query
@@ -81,13 +96,13 @@ if query := st.chat_input("Nhập câu hỏi về điện thoại..."):
     # =========================
     with st.spinner("AI đang nhập câu trả lời..."):
 
-        # 🔄 Rewrite query
+        # Rewrite query
         rewritten_query = rewrite_query(
             query,
             st.session_state.chat_history
         )
 
-        # 🧠 xử lý coreference
+        # Xử lý coreference
         if any(x in query.lower() for x in ["nó", "cái này", "con này"]):
 
             product = extract_product_with_llm(
@@ -102,10 +117,10 @@ if query := st.chat_input("Nhập câu hỏi về điện thoại..."):
                         product
                     )
 
-        # 🔍 Search
+        # Search dữ liệu
         docs, route = search(rewritten_query)
 
-        # 🤖 Generate answer
+        # Sinh câu trả lời
         answer = generate_answer(
             query,
             docs,
@@ -113,19 +128,19 @@ if query := st.chat_input("Nhập câu hỏi về điện thoại..."):
             st.session_state.chat_history
         )
 
-        # 💾 Update memory
+        # Cập nhật lịch sử chat
         st.session_state.chat_history = update_history(
             st.session_state.chat_history,
             query,
             answer
         )
 
-    # 👉 lưu assistant message
+    # Lưu assistant message
     st.session_state.messages.append({
         "role": "assistant",
         "content": answer
     })
 
-    # 👉 hiển thị assistant
+    # Hiển thị assistant
     with st.chat_message("assistant"):
         st.markdown(answer)
