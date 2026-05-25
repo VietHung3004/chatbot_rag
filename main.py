@@ -53,17 +53,6 @@ with st.sidebar:
 
     st.header("⚙️ Điều khiển")
 
-    st.markdown("""
-### 💡 Gợi ý:
-- Điện thoại chơi game tốt
-- iPhone nào đáng mua?
-- Máy pin trâu dưới 5 triệu
-- So sánh Samsung và iPhone
-- Thủ tục trả góp
-""")
-
-    st.divider()
-
     if st.button("🗑️ Xóa hội thoại"):
         st.session_state.messages = []
         st.session_state.chat_history = []
@@ -102,7 +91,7 @@ if query := st.chat_input("Nhập câu hỏi về điện thoại..."):
             st.session_state.chat_history
         )
 
-        # Xử lý coreference
+        # Xử lý tham chiếu "nó", "cái này",...
         if any(x in query.lower() for x in ["nó", "cái này", "con này"]):
 
             product = extract_product_with_llm(
@@ -110,17 +99,16 @@ if query := st.chat_input("Nhập câu hỏi về điện thoại..."):
             )
 
             if product:
-
                 for token in ["nó", "cái này", "con này"]:
                     rewritten_query = rewritten_query.replace(
                         token,
                         product
                     )
 
-        # Search dữ liệu
+        # Search
         docs, route = search(rewritten_query)
 
-        # Sinh câu trả lời
+        # Generate answer
         answer = generate_answer(
             query,
             docs,
@@ -128,7 +116,7 @@ if query := st.chat_input("Nhập câu hỏi về điện thoại..."):
             st.session_state.chat_history
         )
 
-        # Cập nhật lịch sử chat
+        # Update history
         st.session_state.chat_history = update_history(
             st.session_state.chat_history,
             query,
