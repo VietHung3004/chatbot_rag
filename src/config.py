@@ -1,13 +1,20 @@
 import os
 import streamlit as st
 
-# ======================
-# API KEY (Cloud + Local)
-# ======================
-if "OPENAI_API_KEY" in st.secrets:
-    OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
-else:
-    OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+def get_openai_key():
+    try:
+        key = st.secrets.get("OPENAI_API_KEY")
+        if key:
+            return key
+    except Exception:
+        pass
+
+    return os.getenv("OPENAI_API_KEY")
+
+OPENAI_API_KEY = get_openai_key()
+
+if not OPENAI_API_KEY:
+    raise ValueError("❌ OPENAI_API_KEY NOT FOUND (Streamlit Secrets or Env)")
 # ======================
 # Models
 # ======================
