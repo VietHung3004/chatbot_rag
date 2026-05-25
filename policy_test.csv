@@ -1,0 +1,53 @@
+query,expected
+Phí ship đơn dưới 300k là bao nhiêu,Chi phí giao hàng|Thời gian vận chuyển|Giá cả
+Đơn hàng dưới bao nhiêu thì được miễn phí ship,Chi phí giao hàng|Giá cả
+Mua hàng online thì có mất phí giao không,Chi phí giao hàng|Thời gian vận chuyển
+Shop có giao hàng tận nơi không,Thời gian vận chuyển|Nhận hàng và kiểm tra
+Đặt hàng xong bao lâu thì có người gọi xác nhận,Đặt hàng và xác nhận đơn hàng
+Làm sao biết đơn hàng của mình đã được xác nhận,Đặt hàng và xác nhận đơn hàng|Tiến hành đặt hàng
+Đặt hàng trên web xong có chắc chắn nhận được hàng không,Đặt hàng và xác nhận đơn hàng|Các trường hợp hủy đơn hàng
+Đơn hàng sau khi đặt có bị hủy không,Các trường hợp hủy đơn hàng
+Trong trường hợp nào đơn hàng bị hủy,Các trường hợp hủy đơn hàng
+Shop có giữ đơn sau khi đặt không,Chính sách đặt hàng và giữ hàng
+Giữ đơn trong bao lâu nếu chưa thanh toán,Chính sách đặt hàng và giữ hàng
+Nếu không nhận hàng thì đơn có bị hủy không,Chính sách đặt hàng và giữ hàng|Các trường hợp hủy đơn hàng
+Khi nhận hàng có được mở ra kiểm tra không,Chính sách kiểm hàng và khiếu nại|Nhận hàng và kiểm tra
+Có cần quay video khi mở hộp không,Chính sách kiểm hàng và khiếu nại|Nhận hàng và kiểm tra
+Nếu máy bị lỗi khi nhận thì xử lý sao,Chính sách kiểm hàng và khiếu nại|Cam kết lỗi đổi liền
+Giao hàng ở Hà Nội mất bao lâu,Thời gian vận chuyển
+Ở TP.HCM đặt hôm nay thì khi nào nhận được,Thời gian vận chuyển
+Giao hàng tỉnh thì bao lâu nhận được,Thời gian vận chuyển
+Có giao hàng vào chủ nhật không,Thời gian vận chuyển
+Có những cách thanh toán nào,Hướng dẫn thanh toán|Hình thức thanh toán
+Thanh toán online có được không,Hướng dẫn thanh toán
+Có trả tiền khi nhận hàng không,Hướng dẫn thanh toán
+Nếu chuyển khoản rồi thì có cần xác nhận lại không,Hướng dẫn thanh toán|Đặt hàng và xác nhận đơn hàng
+Bao lâu thì được hoàn tiền nếu hủy đơn,Thời gian hoàn tiền
+Hoàn tiền về tài khoản hay tiền mặt,Thời gian hoàn tiền|Các trường hợp hủy đơn hàng
+Nếu shop hủy đơn thì có mất tiền không,Các trường hợp hủy đơn hàng
+Đổi trả hàng có áp dụng cho mọi sản phẩm không,Chính sách đổi trả sản phẩm|Điều kiện đổi trả chung
+Điều kiện để được đổi máy mới là gì,Điều kiện đổi mới|Cam kết lỗi đổi liền
+Máy bị rơi vỡ có được đổi không,Điều kiện đổi mới|Trường hợp không bảo hành|Điều kiện đổi trả chung
+Đổi trả trong vòng bao nhiêu ngày,Thời gian đổi sản phẩm
+Có thể trả lại máy nếu không thích không,Chính sách đổi trả sản phẩm|Điều kiện đổi trả chung
+Trả góp điện thoại cần những gì,Trả góp Shinhan Finance|Samsung Finance Plus|Trả góp Kredivo
+Có trả góp cho iPhone không,Trả góp qua công ty tài chính|Trả góp Shinhan Finance
+Trả góp có cần trả trước không,Trả góp Shinhan Finance|Samsung Finance Plus
+Trả góp có lãi suất không,Trả góp Shinhan Finance|Trả góp Kredivo
+Có trả góp 0% không,Trả góp Payoo|Samsung Finance Plus|Home PayLater
+Trả góp xong có được lấy máy luôn không,Trả góp qua công ty tài chính
+Bảo hành điện thoại bao lâu,Chính sách bảo hành sản phẩm|Nguyên tắc bảo hành
+Máy lỗi thì có được bảo hành không,Cam kết lỗi đổi liền|Trường hợp không bảo hành
+Những trường hợp nào không được bảo hành,Trường hợp không bảo hành
+Bảo hành có mất phí không,Nguyên tắc bảo hành
+Mang máy đi bảo hành ở đâu,Thời gian tiếp nhận bảo hành
+Có phải xóa dữ liệu trước khi bảo hành không,Lưu ý bảo hành
+Có cần đăng xuất tài khoản trước khi bảo hành không,Lưu ý bảo hành
+Có xuất hóa đơn VAT không,Chính sách xuất hóa đơn
+Làm sao để lấy hóa đơn điện tử,Chính sách xuất hóa đơn
+Thông tin khách hàng có được bảo mật không,Bảo mật thông tin
+Shop có bán dữ liệu khách hàng không,Bảo mật thông tin
+Nếu xảy ra tranh chấp thì giải quyết thế nào,Giải quyết tranh chấp
+Có hỗ trợ chăm sóc khách hàng không,Chăm sóc khách hàng
+Tôi cần hỗ trợ thì liên hệ ai,Chăm sóc khách hàng
+Có hotline không,Chăm sóc khách hàng

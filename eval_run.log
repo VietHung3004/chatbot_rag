@@ -1,0 +1,47 @@
+2026-05-23 01:29:52,312 [INFO] 🚀 RAG EVALUATION START | 293 rows | model=gpt-4o-mini
+2026-05-23 01:29:52,313 [INFO] [1/293] iPhone 17 Pro Max có chip gì?
+2026-05-23 01:29:53,235 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 01:29:53,263 [INFO] Loading faiss with AVX512 support.
+2026-05-23 01:29:53,263 [INFO] Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2026-05-23 01:29:53,263 [INFO] Loading faiss with AVX2 support.
+2026-05-23 01:29:53,281 [INFO] Successfully loaded faiss with AVX2 support.
+2026-05-23 01:29:54,078 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-23 01:29:59,863 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 01:30:01,242 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 01:30:02,401 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 01:30:03,739 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 01:30:03,742 [INFO]   Faithfulness=1.00 | AnswerRel=1.00 | ContextRel=1.00 | Recall@1=1 @5=1 @10=1
+2026-05-23 01:30:03,743 [INFO] [2/293] iPhone 17 Pro Max pin bao nhiêu?
+2026-05-23 01:30:04,251 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 01:30:04,686 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-23 01:30:05,543 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 01:30:06,689 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 01:30:07,694 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 01:30:09,150 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 01:30:09,154 [INFO]   Faithfulness=0.00 | AnswerRel=1.00 | ContextRel=1.00 | Recall@1=1 @5=1 @10=1
+2026-05-23 01:30:09,155 [INFO] [3/293] iPhone 17 Pro Max có những phiên bản bộ nhớ nào?
+2026-05-23 01:30:09,885 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 01:30:10,377 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-23 01:30:14,426 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 01:30:15,444 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 01:30:16,629 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 01:30:19,778 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 01:30:19,780 [INFO]   Faithfulness=1.00 | AnswerRel=1.00 | ContextRel=1.00 | Recall@1=1 @5=1 @10=1
+2026-05-23 01:30:19,780 [INFO] [4/293] iPhone 17 Pro Max giá thấp nhất là bao nhiêu?
+2026-05-23 01:30:20,403 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 01:30:20,778 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-23 01:30:22,847 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 01:30:23,871 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 01:30:25,020 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 01:30:26,398 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 01:30:26,401 [INFO]   Faithfulness=1.00 | AnswerRel=1.00 | ContextRel=1.00 | Recall@1=1 @5=1 @10=1
+2026-05-23 01:30:26,401 [INFO] [5/293] iPhone 17 Pro có màn hình bao nhiêu inch?
+2026-05-23 01:30:27,432 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 01:30:27,863 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-23 01:30:28,827 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 01:30:29,934 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 01:30:31,145 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 01:30:32,780 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 01:30:32,781 [INFO]   Faithfulness=1.00 | AnswerRel=1.00 | ContextRel=1.00 | Recall@1=1 @5=1 @10=1
+2026-05-23 01:30:32,781 [INFO] [6/293] iPhone 17 có chip gì?

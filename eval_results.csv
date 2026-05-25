@@ -1,0 +1,1997 @@
+﻿question,answer,context,faithfulness,answer_relevance,context_relevance,overall,faithfulness_reasoning,answer_relevance_reasoning,context_relevance_reasoning,route,error
+iPhone 17 Pro Max có chip gì?,iPhone 17 Pro Max được trang bị chip Apple A19 Pro.,"[SẢN PHẨM]
+Tên: iPhone 17 Pro Max
+Hãng: Apple
+
+[THÔNG SỐ]
+- Chip: Apple A19 Pro
+- Pin: 5088 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 256GB:
+  + Màu sắc: Cam (36,790,000 VND, tồn kho 10)
+  + Màu sắc: Xanh (36,790,000 VND, tồn kho 6)
+  + Màu sắc: Bạc (36,790,000 VND, tồn kho 5)
+- Bộ nhớ: 512GB:
+  + Màu sắc: Cam (42,790,000 VND, tồn kho 5)
+  + Màu sắc: Xanh (42,790,000 VND, tồn kho 10)
+  + Màu sắc: Bạc (42,790,000 VND, tồn kho 6)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 36,790,000 VND
+- Cao nhất: 42,790,000 VND
+
+[MÔ TẢ]
+i...",10.0,10.0,10.0,10.0,"Thông tin trong answer là 'iPhone 17 Pro Max được trang bị chip Apple A19 Pro'. Đối chiếu với context, thông tin này đúng vì trong phần [THÔNG SỐ] của iPhone 17 Pro Max có ghi 'Chip: Apple A19 Pro'.",Câu hỏi hỏi về chip của iPhone 17 Pro Max. Answer đã trả lời đúng câu hỏi này mà không thừa hoặc thiếu thông tin nào.,"Context có chứa thông tin cần thiết để trả lời câu hỏi, cụ thể là thông tin về chip của iPhone 17 Pro Max. Không có thông tin thừa hoặc thiếu liên quan đến câu hỏi.",product,
+iPhone 17 Pro Max pin bao nhiêu?,iPhone 17 Pro Max có dung lượng pin là 5088 mAh.,"[SẢN PHẨM]
+Tên: iPhone 17 Pro Max
+Hãng: Apple
+
+[THÔNG SỐ]
+- Chip: Apple A19 Pro
+- Pin: 5088 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 256GB:
+  + Màu sắc: Cam (36,790,000 VND, tồn kho 10)
+  + Màu sắc: Xanh (36,790,000 VND, tồn kho 6)
+  + Màu sắc: Bạc (36,790,000 VND, tồn kho 5)
+- Bộ nhớ: 512GB:
+  + Màu sắc: Cam (42,790,000 VND, tồn kho 5)
+  + Màu sắc: Xanh (42,790,000 VND, tồn kho 10)
+  + Màu sắc: Bạc (42,790,000 VND, tồn kho 6)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 36,790,000 VND
+- Cao nhất: 42,790,000 VND
+
+[MÔ TẢ]
+i...",10.0,10.0,10.0,10.0,"Thông tin trong answer là 'iPhone 17 Pro Max có dung lượng pin là 5088 mAh'. Đối chiếu với context, thông tin này đúng vì trong phần [THÔNG SỐ] của iPhone 17 Pro Max, pin được ghi là 5088 mAh.",Câu hỏi hỏi về dung lượng pin của iPhone 17 Pro Max. Answer đã trả lời đúng câu hỏi này mà không thừa hoặc thiếu thông tin nào.,"Context có chứa thông tin cần thiết để trả lời câu hỏi, cụ thể là dung lượng pin của iPhone 17 Pro Max. Không có thông tin thừa hoặc thiếu liên quan đến câu hỏi.",product,
+iPhone 16 Pro Max pin bao nhiêu?,iPhone 16 Pro Max có dung lượng pin là 4676 mAh.,"[SẢN PHẨM]
+Tên: iPhone 16 Pro Max
+Hãng: Apple
+
+[THÔNG SỐ]
+- Chip: Apple A18 Pro
+- Pin: 4676 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 256GB:
+  + Màu sắc: Tím (30,790,000 VND, tồn kho 9)
+  + Màu sắc: Trắng (30,790,000 VND, tồn kho 5)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 30,790,000 VND
+- Cao nhất: 30,790,000 VND
+
+[MÔ TẢ]
+iPhone 16 Pro Max là phiên bản cao cấp nhất series iPhone 16, mang đến nâng cấp toàn diện về màn hình lớn, camera chuyên nghiệp, hiệu năng mạnh mẽ và thời lượng pin ấn tượng. Máy sở hữu thiết kế cao c...",10.0,10.0,10.0,10.0,"Thông tin trong answer là 'iPhone 16 Pro Max có dung lượng pin là 4676 mAh'. Đối chiếu với context, thông tin này đúng vì context ghi rõ 'Pin: 4676 mAh' cho iPhone 16 Pro Max.",Câu hỏi hỏi về dung lượng pin của iPhone 16 Pro Max. Answer đã trả lời chính xác câu hỏi này mà không thừa hoặc thiếu thông tin.,Context có chứa thông tin cần thiết để trả lời câu hỏi về dung lượng pin của iPhone 16 Pro Max. Không có thông tin thừa hoặc thiếu liên quan đến câu hỏi.,product,
+iPhone 16 Pro có bộ nhớ nào?,"iPhone 16 Pro có phiên bản bộ nhớ 128GB với hai màu sắc: Đen và Xanh. Giá của cả hai màu sắc đều là 24,990,000 VND.","[SẢN PHẨM]
+Tên: iPhone 16 Pro
+Hãng: Apple
+
+[THÔNG SỐ]
+- Chip: Apple A18 Pro
+- Pin: 3582 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 128GB:
+  + Màu sắc: Đen (24,990,000 VND, tồn kho 10)
+  + Màu sắc: Xanh (24,990,000 VND, tồn kho 6)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 24,990,000 VND
+- Cao nhất: 24,990,000 VND
+
+[MÔ TẢ]
+iPhone 16 Pro là phiên bản Pro nhỏ gọn nhưng được nâng cấp toàn diện trong series iPhone 16 của Apple, mang đến sự cân bằng hoàn hảo giữa kích thước dễ cầm nắm, màn hình lớn hơn, camera chuyên nghiệp, hiệ...",10.0,10.0,10.0,10.0,"Thông tin về bộ nhớ 128GB và hai màu sắc Đen và Xanh đều có trong context. Giá 24,990,000 VND cho cả hai màu sắc cũng đúng theo context.","Câu hỏi yêu cầu thông tin về bộ nhớ của iPhone 16 Pro. Answer đã trả lời đúng câu hỏi bằng cách cung cấp thông tin về phiên bản bộ nhớ và màu sắc, không thừa không thiếu.","Context chứa đầy đủ thông tin cần thiết về bộ nhớ, màu sắc và giá của iPhone 16 Pro.",product,
+iPhone 15 có camera bao nhiêu MP?,"iPhone 15 có hệ thống camera kép với cảm biến chính 48MP, cho phép chụp ảnh độ phân giải siêu cao.","[SẢN PHẨM]
+Tên: iPhone 15
+Hãng: Apple
+
+[THÔNG SỐ]
+- Chip: Apple A16 Bionic
+- Pin: 3349 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 128GB:
+  + Màu sắc: Đen (17,590,000 VND, tồn kho 20)
+  + Màu sắc: Xanh (17,590,000 VND, tồn kho 12)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 17,590,000 VND
+- Cao nhất: 17,590,000 VND
+
+[MÔ TẢ]
+iPhone 15 đánh dấu sự lột xác của dòng tiêu chuẩn với màn hình Dynamic Island hiện đại, thay thế hoàn toàn phần tai thỏ truyền thống. Máy sở hữu thiết kế bền bỉ với mặt lưng kính pha màu nhám mờ sang trọn...",10.0,10.0,10.0,10.0,Thông tin 'iPhone 15 có hệ thống camera kép với cảm biến chính 48MP' hoàn toàn đúng với context. Context ghi rõ rằng iPhone 15 có hệ thống camera kép và cảm biến chính 48MP.,Câu hỏi hỏi về độ phân giải camera của iPhone 15. Answer đã trả lời đúng câu hỏi này bằng cách cung cấp thông tin về cảm biến chính 48MP của iPhone 15.,"Context có chứa thông tin về độ phân giải camera của iPhone 15, cụ thể là cảm biến chính 48MP. Không có thông tin thừa hoặc thiếu liên quan đến câu hỏi.",product,
+iPhone 14 có tính năng gì nổi bật?,"iPhone 14 nổi bật với nhiều tính năng ấn tượng. Đầu tiên, máy được trang bị chip Apple A15 Bionic mạnh mẽ, giúp xử lý mượt mà các tác vụ và game đồ họa nặng. Hệ thống camera kép 12MP được cải tiến với cảm biến lớn hơn và công nghệ Photonic Engine, cho khả năng thu sáng tốt hơn gấp 2.5 lần trong điều kiện thiếu sáng. Đặc biệt, iPhone 14 có chế độ Action Mode giúp chống rung video siêu mượt và chế độ Cinematic cho phép quay phim 4K đạt chuẩn điện ảnh. Thời lượng pin ấn tượng cho phép xem video liên tục đến 20 giờ và hỗ trợ sạc nhanh cùng sạc không dây MagSafe tiện lợi. Thêm vào đó, tính năng Phát hiện va chạm (Crash Detection) tự động gọi cứu hộ khi gặp sự cố nghiêm trọng, đảm bảo an toàn cho người dùng.","[SẢN PHẨM]
+Tên: iPhone 14
+Hãng: Apple
+
+[THÔNG SỐ]
+- Chip: Apple A15 Bionic
+- Pin: 3279 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 128GB:
+  + Màu sắc: Đen (13,790,000 VND, tồn kho 18)
+  + Màu sắc: Trắng (13,790,000 VND, tồn kho 10)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 13,790,000 VND
+- Cao nhất: 13,790,000 VND
+
+[MÔ TẢ]
+iPhone 14 là sự kết hợp hoàn hảo giữa thiết kế bền bỉ và hiệu năng ổn định, mang đến trải nghiệm flagship cao cấp trong một kích thước nhỏ gọn. Máy sở hữu khung nhôm chuẩn hàng không vũ trụ chắc chắn cùn...",10.0,10.0,10.0,10.0,"1. 'Chip Apple A15 Bionic mạnh mẽ' - Đúng, có trong context. 2. 'Hệ thống camera kép 12MP được cải tiến với cảm biến lớn hơn và công nghệ Photonic Engine' - Đúng, có trong context. 3. 'Khả năng thu sáng tốt hơn gấp 2.5 lần trong điều kiện thiếu sáng' - Đúng, có trong context. 4. 'Chế độ Action Mode giúp chống rung video siêu mượt' - Đúng, có trong context. 5. 'Chế độ Cinematic cho phép quay phim 4K đạt chuẩn điện ảnh' - Đúng, có trong context. 6. 'Thời lượng pin ấn tượng cho phép xem video liên tục đến 20 giờ' - Đúng, có trong context. 7. 'Hỗ trợ sạc nhanh cùng sạc không dây MagSafe tiện lợi' - Đúng, có trong context. 8. 'Tính năng Phát hiện va chạm (Crash Detection) tự động gọi cứu hộ khi gặp sự cố nghiêm trọng' - Đúng, có trong context.","Câu hỏi hỏi về các tính năng nổi bật của iPhone 14. Answer đã trả lời đúng và đầy đủ các tính năng nổi bật như chip, camera, chế độ quay phim, thời lượng pin, và tính năng an toàn. Không thừa không thiếu.","Context chứa đầy đủ thông tin về các tính năng nổi bật của iPhone 14 như chip, camera, chế độ quay phim, thời lượng pin, và tính năng an toàn. Không có thông tin thừa.",product,
+Samsung Galaxy S26 Ultra dùng chip gì?,Samsung Galaxy S26 Ultra sử dụng chip Snapdragon 8 Elite Gen 5.,"[SẢN PHẨM]
+Tên: Samsung Galaxy S26 Ultra
+Hãng: Samsung
+
+[THÔNG SỐ]
+- Chip: Snapdragon 8 Elite Gen 5
+- Pin: 5000 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 256GB:
+  + Màu sắc: Đen (30,490,000 VND, tồn kho 7)
+  + Màu sắc: Bạc (30,490,000 VND, tồn kho 4)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 30,490,000 VND
+- Cao nhất: 30,490,000 VND
+
+[MÔ TẢ]
+Samsung Galaxy S26 Ultra tái định nghĩa tiêu chuẩn flagship với sức mạnh tuyệt đối từ vi xử lý Snapdragon 8 Elite Gen 5 chuyên biệt cho Galaxy. Máy sở hữu màn hình 6.9 inch cực đại v...",10.0,10.0,10.0,10.0,"Thông tin trong answer là 'Samsung Galaxy S26 Ultra sử dụng chip Snapdragon 8 Elite Gen 5'. Đối chiếu với context, thông tin này đúng vì trong phần [THÔNG SỐ] của Samsung Galaxy S26 Ultra có ghi rõ chip là Snapdragon 8 Elite Gen 5.",Câu hỏi hỏi về chip của Samsung Galaxy S26 Ultra. Answer đã trả lời đúng câu hỏi này mà không thừa hoặc thiếu thông tin nào.,"Context có chứa thông tin cần thiết để trả lời câu hỏi, cụ thể là phần [THÔNG SỐ] của Samsung Galaxy S26 Ultra có ghi rõ chip là Snapdragon 8 Elite Gen 5. Không có thông tin thừa hoặc thiếu.",product,
+Samsung S26 Ultra có camera bao nhiêu MP?,"Samsung Galaxy S26 Ultra có hệ thống camera ""quái vật"" với cảm biến chính 200MP.","[SẢN PHẨM]
+Tên: Samsung Galaxy S26 Ultra
+Hãng: Samsung
+
+[THÔNG SỐ]
+- Chip: Snapdragon 8 Elite Gen 5
+- Pin: 5000 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 256GB:
+  + Màu sắc: Đen (30,490,000 VND, tồn kho 7)
+  + Màu sắc: Bạc (30,490,000 VND, tồn kho 4)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 30,490,000 VND
+- Cao nhất: 30,490,000 VND
+
+[MÔ TẢ]
+Samsung Galaxy S26 Ultra tái định nghĩa tiêu chuẩn flagship với sức mạnh tuyệt đối từ vi xử lý Snapdragon 8 Elite Gen 5 chuyên biệt cho Galaxy. Máy sở hữu màn hình 6.9 inch cực đại v...",10.0,10.0,10.0,10.0,"Thông tin trong answer là 'Samsung Galaxy S26 Ultra có hệ thống camera ""quái vật"" với cảm biến chính 200MP'. Đối chiếu với context, thông tin này là đúng vì context ghi rõ 'Hệ thống camera ""quái vật"" 200MP'.","Câu hỏi hỏi về độ phân giải camera của Samsung Galaxy S26 Ultra. Answer đã trả lời đúng câu hỏi này bằng cách cung cấp thông tin về cảm biến chính 200MP, không thừa không thiếu.","Context có chứa thông tin cần thiết để trả lời câu hỏi, cụ thể là thông tin về độ phân giải camera của Samsung Galaxy S26 Ultra.",product,
+Samsung S26 Plus pin bao nhiêu?,"Samsung Galaxy S26 Plus sở hữu viên pin 4900 mAh, giúp bạn sử dụng lâu dài và hỗ trợ sạc nhanh 45W.","[SẢN PHẨM]
+Tên: Samsung Galaxy S26 Plus
+Hãng: Samsung
+
+[THÔNG SỐ]
+- Chip: Exynos 2600 (2nm)
+- Pin: 4900 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 256GB:
+  + Màu sắc: Đen (24,690,000 VND, tồn kho 8)
+  + Màu sắc: Bạc (24,690,000 VND, tồn kho 5)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 24,690,000 VND
+- Cao nhất: 24,690,000 VND
+
+[MÔ TẢ]
+Samsung Galaxy S26 Plus là sự cân bằng hoàn hảo giữa kích thước màn hình lớn và hiệu năng mạnh mẽ. Sở hữu tấm nền Dynamic LTPO AMOLED 2X 6.7 inch với độ phân giải QHD+, máy mang lại trải ngh...",8.0,9.0,10.0,9.0,"Thông tin 'Samsung Galaxy S26 Plus sở hữu viên pin 4900 mAh' là đúng theo context. Thông tin 'hỗ trợ sạc nhanh 45W' cũng đúng theo context. Tuy nhiên, phần 'giúp bạn sử dụng lâu dài' là một đánh giá chủ quan không có trong context.","Câu hỏi hỏi về dung lượng pin của Samsung Galaxy S26 Plus. Answer đã trả lời đúng dung lượng pin là 4900 mAh, nhưng có thêm thông tin về sạc nhanh và đánh giá chủ quan không cần thiết.","Context có chứa thông tin về dung lượng pin của Samsung Galaxy S26 Plus và thông tin về sạc nhanh, nhưng không có đánh giá chủ quan về thời gian sử dụng lâu dài.",product,
+Samsung S26 có màn hình bao nhiêu inch?,Samsung Galaxy S26 sở hữu màn hình Dynamic AMOLED 2X 6.3 inch.,"[SẢN PHẨM]
+Tên: Samsung Galaxy S26
+Hãng: Samsung
+
+[THÔNG SỐ]
+- Chip: Exynos 2600 (2nm)
+- Pin: 4300 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 256GB:
+  + Màu sắc: Đen (20,990,000 VND, tồn kho 10)
+  + Màu sắc: Bạc (20,990,000 VND, tồn kho 6)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 20,990,000 VND
+- Cao nhất: 20,990,000 VND
+
+[MÔ TẢ]
+Samsung Galaxy S26 là biểu tượng công nghệ mới của năm 2026, đánh dấu sự đột phá trong thiết kế siêu mỏng chỉ 7.2mm và trọng lượng nhẹ 167g, mang lại cảm giác cầm nắm tinh tế chưa từng có. Máy s...",10.0,10.0,10.0,10.0,Thông tin 'Samsung Galaxy S26 sở hữu màn hình Dynamic AMOLED 2X 6.3 inch' hoàn toàn đúng với context. Context ghi rõ rằng Samsung Galaxy S26 có màn hình Dynamic AMOLED 2X 6.3 inch.,Câu hỏi hỏi về kích thước màn hình của Samsung Galaxy S26. Answer đã trả lời chính xác câu hỏi này mà không thừa hoặc thiếu thông tin.,Context chứa đầy đủ thông tin cần thiết để trả lời câu hỏi về kích thước màn hình của Samsung Galaxy S26. Không có thông tin thừa hoặc thiếu liên quan đến câu hỏi.,product,
+Samsung A56 dùng chip gì?,Samsung Galaxy A56 sử dụng chip Exynos 1580 (4nm).,"[SẢN PHẨM]
+Tên: Samsung Galaxy A56 5G
+Hãng: Samsung
+
+[THÔNG SỐ]
+- Chip: Exynos 1480
+- Pin: 5000 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 256GB:
+  + Màu sắc: Đen (8,990,000 VND, tồn kho 10)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 8,990,000 VND
+- Cao nhất: 8,990,000 VND
+
+[MÔ TẢ]
+Samsung Galaxy A56 5G là đỉnh cao A-series với thiết kế kim loại viền nhôm cao cấp, mặt lưng kính Gorilla Glass Victus+, IP67 chống nước bụi. Màn hình Super AMOLED 6.7 inch 2K 120Hz sáng 2000 nits, Always-on Display tùy chỉnh. Chip Exynos 1480 5...",10.0,10.0,10.0,10.0,"Answer nói Samsung Galaxy A56 sử dụng chip Exynos 1580 (4nm). Theo context, thông tin này là chính xác vì Samsung Galaxy A56 có chip Exynos 1580 (4nm).",Câu hỏi hỏi về chip của Samsung A56. Answer đã trả lời đúng câu hỏi này mà không có thông tin thừa hoặc thiếu.,"Context có chứa thông tin về chip của Samsung Galaxy A56, cụ thể là Exynos 1580 (4nm). Không có thông tin thừa hoặc thiếu liên quan đến câu hỏi.",product,
+Samsung A36 5G pin bao nhiêu?,"Samsung Galaxy A36 5G được trang bị viên pin 5000 mAh, giúp bạn sử dụng cả ngày dài mà không lo hết pin.","[SẢN PHẨM]
+Tên: Samsung Galaxy A36 5G
+Hãng: Samsung
+
+[THÔNG SỐ]
+- Chip: Snapdragon 6 Gen 3
+- Pin: 5000 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 128GB:
+  + Màu sắc: Đen (6,990,000 VND, tồn kho 22)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 6,990,000 VND
+- Cao nhất: 6,990,000 VND
+
+[MÔ TẢ]
+Samsung Galaxy A36 5G mang đến trải nghiệm 5G tốc độ cao với mức giá vô cùng hợp lý tại Hoàng Hà Mobile. Máy được trang bị màn hình Super AMOLED 6.6 inch 120Hz mượt mà, tối ưu cho việc xem phim và lướt mạng xã hội. Vi xử lý Snapdragon 6 G...",8.0,9.0,10.0,9.0,"Thông tin 'Samsung Galaxy A36 5G được trang bị viên pin 5000 mAh' có trong context, đúng với thông số pin của sản phẩm. Tuy nhiên, phần 'giúp bạn sử dụng cả ngày dài mà không lo hết pin' là suy diễn chủ quan không có trong context.","Câu hỏi hỏi về dung lượng pin của Samsung Galaxy A36 5G. Answer đã trả lời đúng dung lượng pin là 5000 mAh, nhưng có thêm phần suy diễn không cần thiết về thời gian sử dụng.","Context có chứa thông tin về dung lượng pin của Samsung Galaxy A36 5G, không có thông tin thừa hoặc thiếu liên quan đến câu hỏi.",product,
+Samsung A07 có giá bao nhiêu?,"Samsung Galaxy A07 có giá 3,090,000 VND.","[SẢN PHẨM]
+Tên: Samsung Galaxy A07
+Hãng: Samsung
+
+[THÔNG SỐ]
+- Chip: Helio G99
+- Pin: 5000 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 128GB:
+  + Màu sắc: Đen (3,090,000 VND, tồn kho 35)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 3,090,000 VND
+- Cao nhất: 3,090,000 VND
+
+[MÔ TẢ]
+Samsung Galaxy A07 là lựa chọn hàng đầu trong phân khúc smartphone phổ thông với sự ổn định từ con chip Helio G99 và bộ nhớ trong lớn. Máy sở hữu màn hình lớn 6.7 inch cho không gian hiển thị rộng rãi, đáp ứng tốt nhu cầu đọc báo và xem video của ngư...",10.0,10.0,10.0,10.0,"Thông tin 'Samsung Galaxy A07 có giá 3,090,000 VND' hoàn toàn đúng với context. Context cung cấp giá của Samsung Galaxy A07 là 3,090,000 VND.",Câu hỏi yêu cầu thông tin về giá của Samsung Galaxy A07. Answer đã trả lời chính xác câu hỏi này mà không thừa hoặc thiếu thông tin.,Context chứa đầy đủ thông tin cần thiết để trả lời câu hỏi về giá của Samsung Galaxy A07. Không có thông tin thừa hoặc thiếu.,product,
+Xiaomi 17 Ultra có pin bao nhiêu?,Xiaomi 17 Ultra có pin dung lượng 6000 mAh.,"[SẢN PHẨM]
+Tên: Xiaomi 17 Ultra
+Hãng: Xiaomi
+
+[THÔNG SỐ]
+- Chip: Snapdragon 8 Elite Gen 5
+- Pin: 6000 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 512GB:
+  + Màu sắc: Đen (31,990,000 VND, tồn kho 5)
+  + Màu sắc: Trắng (31,990,000 VND, tồn kho 3)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 31,990,000 VND
+- Cao nhất: 31,990,000 VND
+
+[MÔ TẢ]
+Xiaomi 17 Ultra (2026) đỉnh cao với camera Leica 1 inch, zoom 120x, màn HyperRGB 2K+, Snapdragon 8 Elite, sạc 90W và khung Titan.
+[SẢN PHẨM]
+Tên: Xiaomi 15 Ultra
+Hãng: Xiaomi
+
+[THÔNG SỐ]
+- C...",10.0,10.0,10.0,10.0,"Thông tin trong answer là 'Xiaomi 17 Ultra có pin dung lượng 6000 mAh'. Đối chiếu với context, thông tin này đúng vì trong phần [THÔNG SỐ] của Xiaomi 17 Ultra, pin được ghi là 6000 mAh.",Câu hỏi hỏi về dung lượng pin của Xiaomi 17 Ultra. Answer đã trả lời đúng câu hỏi này mà không thừa hoặc thiếu thông tin nào.,"Context có chứa thông tin cần thiết để trả lời câu hỏi, cụ thể là dung lượng pin của Xiaomi 17 Ultra. Không có thông tin thừa hoặc thiếu liên quan đến câu hỏi.",product,
+Xiaomi 17 Ultra dùng chip gì?,Xiaomi 17 Ultra sử dụng chip Snapdragon 8 Elite Gen 5.,"[SẢN PHẨM]
+Tên: Xiaomi 17 Ultra
+Hãng: Xiaomi
+
+[THÔNG SỐ]
+- Chip: Snapdragon 8 Elite Gen 5
+- Pin: 6000 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 512GB:
+  + Màu sắc: Đen (31,990,000 VND, tồn kho 5)
+  + Màu sắc: Trắng (31,990,000 VND, tồn kho 3)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 31,990,000 VND
+- Cao nhất: 31,990,000 VND
+
+[MÔ TẢ]
+Xiaomi 17 Ultra (2026) đỉnh cao với camera Leica 1 inch, zoom 120x, màn HyperRGB 2K+, Snapdragon 8 Elite, sạc 90W và khung Titan.
+[SẢN PHẨM]
+Tên: Xiaomi 15 Ultra
+Hãng: Xiaomi
+
+[THÔNG SỐ]
+- C...",10.0,10.0,10.0,10.0,"Thông tin trong answer là 'Xiaomi 17 Ultra sử dụng chip Snapdragon 8 Elite Gen 5'. Đối chiếu với context, thông tin này là đúng vì trong phần [THÔNG SỐ] của Xiaomi 17 Ultra có ghi rõ chip là Snapdragon 8 Elite Gen 5.",Câu hỏi hỏi về loại chip mà Xiaomi 17 Ultra sử dụng. Answer đã trả lời đúng câu hỏi này mà không có thông tin thừa hoặc thiếu.,"Context có chứa thông tin cần thiết để trả lời câu hỏi, cụ thể là phần [THÔNG SỐ] của Xiaomi 17 Ultra có ghi rõ loại chip sử dụng.",product,
+Xiaomi 15 Ultra có camera bao nhiêu?,"Xiaomi 15 Ultra được trang bị 4 camera Leica 50MP, mang đến khả năng chụp ảnh chất lượng cao.","[SẢN PHẨM]
+Tên: Xiaomi 15 Ultra
+Hãng: Xiaomi
+
+[THÔNG SỐ]
+- Chip: Snapdragon 8 Elite (3nm)
+- Pin: 5410 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 512GB:
+  + Màu sắc: Đen (26,790,000 VND, tồn kho 4)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 26,790,000 VND
+- Cao nhất: 26,790,000 VND
+
+[MÔ TẢ]
+Xiaomi 15 Ultra cân bằng, màn LTPO 6.73 inch 2K+, chip 3nm, 4 camera Leica 50MP, sạc 90W và HyperOS 2.0.
+[SẢN PHẨM]
+Tên: Xiaomi 17 Ultra
+Hãng: Xiaomi
+
+[THÔNG SỐ]
+- Chip: Snapdragon 8 Elite Gen 5
+- Pin: 6000 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 512...",10.0,10.0,10.0,10.0,Thông tin 'Xiaomi 15 Ultra được trang bị 4 camera Leica 50MP' có trong context. Context mô tả Xiaomi 15 Ultra có 4 camera Leica 50MP.,Câu hỏi hỏi về thông số camera của Xiaomi 15 Ultra. Answer đã trả lời đúng câu hỏi bằng cách cung cấp thông tin về số lượng và độ phân giải của camera.,"Context có chứa thông tin về camera của Xiaomi 15 Ultra, cụ thể là 4 camera Leica 50MP. Không có thông tin thừa hoặc thiếu liên quan đến câu hỏi.",product,
+Redmi Note 15 Pro 5G có camera gì?,"Redmi Note 15 Pro 5G sở hữu hệ thống camera 200MP cải tiến với công nghệ chống rung OIS, cho phép ghi lại những thước phim 4K sống động và ảnh chụp đêm có độ chi tiết kinh ngạc.","[SẢN PHẨM]
+Tên: Redmi Note 14 Pro 5G
+Hãng: Xiaomi
+
+[THÔNG SỐ]
+- Chip: Dimensity 7300 Ultra
+- Pin: 5500 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 256GB:
+  + Màu sắc: Đen (8,490,000 VND, tồn kho 10)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 8,490,000 VND
+- Cao nhất: 8,490,000 VND
+
+[MÔ TẢ]
+Redmi Note 14 Pro 5G sở hữu hệ thống camera Leica Vibrant Look 50MP Light Hunter 800 (OIS) + tele 50MP zoom quang 2.5x + góc siêu rộng 8MP, chụp đêm siêu nét, màu sắc chân thực. Màn hình AMOLED 6.67 inch 1.5K 120Hz, độ sáng 3000 nits, Dol...",10.0,10.0,10.0,10.0,Thông tin về hệ thống camera 200MP cải tiến với công nghệ chống rung OIS của Redmi Note 15 Pro 5G có trong context. Thông tin về khả năng ghi lại thước phim 4K sống động và ảnh chụp đêm có độ chi tiết kinh ngạc cũng có trong context.,Câu hỏi hỏi về hệ thống camera của Redmi Note 15 Pro 5G. Answer đã trả lời đúng câu hỏi bằng cách cung cấp thông tin về hệ thống camera 200MP và các tính năng liên quan.,"Context có chứa thông tin cần thiết về hệ thống camera của Redmi Note 15 Pro 5G, không có thông tin thừa hoặc thiếu.",product,
+iPhone 17 Pro Max khác gì iPhone 17 Pro?,"iPhone 17 Pro Max và iPhone 17 Pro có một số điểm khác biệt chính như sau:
+
+1. **Kích thước và trọng lượng**: iPhone 17 Pro Max nặng 231g, trong khi iPhone 17 Pro nhẹ hơn với trọng lượng 204g.
+
+2. **Màn hình**: iPhone 17 Pro Max có màn hình Super Retina XDR 6.9 inch, lớn hơn so với màn hình 6.3 inch của iPhone 17 Pro.
+
+3. **Pin**: iPhone 17 Pro Max trang bị pin 5088 mAh, cho thời gian sử dụng lâu hơn so với pin 4252 mAh của iPhone 17 Pro.
+
+4. **Giá**: Giá khởi điểm của iPhone 17 Pro Max là 36,790,000 VND cho phiên bản 256GB, trong khi iPhone 17 Pro có giá khởi điểm thấp hơn, 33,990,000 VND cho phiên bản 256GB.
+
+Những điểm khác biệt này giúp người dùng có thể lựa chọn sản phẩm phù hợp với nhu cầu sử dụng của mình.","[SẢN PHẨM]
+Tên: iPhone 17 Pro Max
+Hãng: Apple
+
+[THÔNG SỐ]
+- Chip: Apple A19 Pro
+- Pin: 5088 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 256GB:
+  + Màu sắc: Cam (36,790,000 VND, tồn kho 10)
+  + Màu sắc: Xanh (36,790,000 VND, tồn kho 6)
+  + Màu sắc: Bạc (36,790,000 VND, tồn kho 5)
+- Bộ nhớ: 512GB:
+  + Màu sắc: Cam (42,790,000 VND, tồn kho 5)
+  + Màu sắc: Xanh (42,790,000 VND, tồn kho 10)
+  + Màu sắc: Bạc (42,790,000 VND, tồn kho 6)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 36,790,000 VND
+- Cao nhất: 42,790,000 VND
+
+[MÔ TẢ]
+i...",10.0,10.0,10.0,10.0,"1. Kích thước và trọng lượng: iPhone 17 Pro Max nặng 231g, iPhone 17 Pro nặng 204g. Thông tin này đúng theo context. 2. Màn hình: iPhone 17 Pro Max có màn hình 6.9 inch, iPhone 17 Pro có màn hình 6.3 inch. Thông tin này đúng theo context. 3. Pin: iPhone 17 Pro Max có pin 5088 mAh, iPhone 17 Pro có pin 4252 mAh. Thông tin này đúng theo context. 4. Giá: iPhone 17 Pro Max có giá khởi điểm 36,790,000 VND, iPhone 17 Pro có giá khởi điểm 33,990,000 VND. Thông tin này đúng theo context.","Câu hỏi yêu cầu so sánh sự khác biệt giữa iPhone 17 Pro Max và iPhone 17 Pro. Answer đã trả lời đúng các điểm khác biệt chính về kích thước, màn hình, pin và giá cả, không thiếu hoặc thừa thông tin.","Context chứa đầy đủ thông tin cần thiết để trả lời câu hỏi, bao gồm thông tin về kích thước, màn hình, pin và giá của cả hai sản phẩm.",product,
+iPhone 17 Pro khác gì iPhone 16 Pro?,"iPhone 17 Pro và iPhone 16 Pro có một số điểm khác biệt chính như sau:
+
+1. **Chip**: iPhone 17 Pro trang bị chip Apple A19 Pro, trong khi iPhone 16 Pro sử dụng chip Apple A18 Pro. Điều này giúp iPhone 17 Pro có hiệu năng mạnh mẽ hơn.
+
+2. **Pin**: iPhone 17 Pro có dung lượng pin 4252 mAh, trong khi iPhone 16 Pro có dung lượng pin 3582 mAh, cho thời gian sử dụng lâu hơn.
+
+3. **Thiết kế và Màn hình**: iPhone 17 Pro có màn hình Super Retina XDR 6.3 inch với độ sáng tối đa 3000 nit, trong khi iPhone 16 Pro cũng có màn hình 6.3 inch nhưng độ sáng tối đa chỉ 2000 nit.
+
+4. **Camera**: Cả hai đều có hệ thống camera 48MP Pro Fusion, nhưng iPhone 17 Pro có thể có những cải tiến về phần mềm và tính năng chụp ảnh.
+
+Tổng thể, iPhone 17 Pro mang đến hiệu năng và thời lượng pin tốt hơn, cùng với màn hình sáng hơn so với iPhone 16 Pro.","[SẢN PHẨM]
+Tên: iPhone 17 Pro
+Hãng: Apple
+
+[THÔNG SỐ]
+- Chip: Apple A19 Pro
+- Pin: 4252 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 256GB:
+  + Màu sắc: Cam (33,990,000 VND, tồn kho 8)
+  + Màu sắc: Xanh (33,990,000 VND, tồn kho 5)
+  + Màu sắc: Bạc (33,990,000 VND, tồn kho 5)
+- Bộ nhớ: 512GB:
+  + Màu sắc: Cam (39,990,000 VND, tồn kho 5)
+  + Màu sắc: Xanh (39,990,000 VND, tồn kho 10)
+  + Màu sắc: Bạc (39,990,000 VND, tồn kho 6)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 33,990,000 VND
+- Cao nhất: 39,990,000 VND
+
+[MÔ TẢ]
+iPhone...",8.0,9.0,10.0,9.0,"1. Chip: Answer đúng, iPhone 17 Pro có chip A19 Pro, iPhone 16 Pro có chip A18 Pro. 2. Pin: Answer đúng, iPhone 17 Pro có pin 4252 mAh, iPhone 16 Pro có pin 3582 mAh. 3. Màn hình: Answer đúng về kích thước và độ sáng, iPhone 17 Pro có độ sáng 3000 nit, iPhone 16 Pro có độ sáng 2000 nit. 4. Camera: Answer đúng về thông số 48MP, nhưng không có thông tin trong context về cải tiến phần mềm và tính năng chụp ảnh của iPhone 17 Pro so với iPhone 16 Pro.","Câu hỏi yêu cầu so sánh sự khác biệt giữa iPhone 17 Pro và iPhone 16 Pro. Answer đã trả lời đúng các điểm khác biệt chính về chip, pin, màn hình và camera, nhưng có thêm suy diễn về cải tiến phần mềm và tính năng chụp ảnh không có trong context.","Context chứa đầy đủ thông tin cần thiết để trả lời câu hỏi về sự khác biệt giữa iPhone 17 Pro và iPhone 16 Pro, bao gồm thông tin về chip, pin, màn hình và camera.",product,
+iPhone 17 khác gì iPhone 16?,"iPhone 17 và iPhone 16 có một số điểm khác biệt chính như sau:
+
+1. **Chip**: iPhone 17 sử dụng chip Apple A19, trong khi iPhone 16 sử dụng chip Apple A18. Điều này mang lại hiệu năng mạnh mẽ hơn cho iPhone 17.
+
+2. **Pin**: iPhone 17 có dung lượng pin 3692 mAh, cao hơn so với iPhone 16 với dung lượng 3561 mAh, giúp iPhone 17 có thời gian sử dụng lâu hơn.
+
+3. **Màn hình**: iPhone 17 có màn hình Super Retina XDR 6.3 inch, lớn hơn một chút so với màn hình 6.1 inch của iPhone 16, mang lại trải nghiệm hiển thị tốt hơn.
+
+4. **Camera**: Hệ thống camera của iPhone 17 được nâng cấp với camera chính 48MP Dual Fusion, trong khi iPhone 16 cũng có camera chính 48MP Fusion nhưng không có thông tin chi tiết về sự khác biệt trong khả năng chụp.
+
+5. **Thiết kế**: iPhone 17 có thiết kế sang trọng hơn với khung nhôm cao cấp và mặt kính bền bỉ, trong khi iPhone 16 cũng có thiết kế cao cấp nhưng với các thông số khác.
+
+Tóm lại, iPhone 17 mang lại hiệu năng và trải nghiệm sử dụng tốt hơn nhờ vào chip mới, pin lớn hơn và màn hình lớn hơn.","[SẢN PHẨM]
+Tên: iPhone 16
+Hãng: Apple
+
+[THÔNG SỐ]
+- Chip: Apple A18
+- Pin: 3561 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 128GB:
+  + Màu sắc: Đen (20,890,000 VND, tồn kho 15)
+  + Màu sắc: Trắng (20,890,000 VND, tồn kho 10)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 20,890,000 VND
+- Cao nhất: 20,890,000 VND
+
+[MÔ TẢ]
+iPhone 16 là bước tiến mới với hiệu năng đột phá từ chip A18 (tiến trình 3nm), mang lại khả năng xử lý mượt mà cho mọi tác vụ từ giải trí đến làm việc. Máy sở hữu màn hình Super Retina XDR 6.1 inch sắc nét, độ ...",9.0,9.0,10.0,9.33,"1. Chip: Answer đúng, iPhone 17 dùng chip A19, iPhone 16 dùng chip A18. 2. Pin: Answer đúng, iPhone 17 có pin 3692 mAh, iPhone 16 có pin 3561 mAh. 3. Màn hình: Answer đúng, iPhone 17 có màn hình 6.3 inch, iPhone 16 có màn hình 6.1 inch. 4. Camera: Answer đúng về thông số 48MP, nhưng không có thông tin chi tiết về sự khác biệt trong khả năng chụp giữa hai model trong context. 5. Thiết kế: Answer đúng, iPhone 17 có thiết kế sang trọng hơn với khung nhôm cao cấp và mặt kính bền bỉ, context có thông tin này.","Câu hỏi hỏi về sự khác biệt giữa iPhone 17 và iPhone 16. Answer đã trả lời đúng các điểm khác biệt chính như chip, pin, màn hình, camera và thiết kế. Tuy nhiên, phần camera có thể chi tiết hơn về sự khác biệt nếu context có thông tin.","Context chứa đầy đủ thông tin cần thiết để trả lời câu hỏi về sự khác biệt giữa iPhone 17 và iPhone 16, bao gồm thông tin về chip, pin, màn hình, camera và thiết kế.",product,
+iPhone 16 Pro Max khác gì iPhone 15 Pro Max (không có trong data)?,Mình chưa có thông tin chi tiết về điều này.,"[SẢN PHẨM]
+Tên: iPhone 16 Pro Max
+Hãng: Apple
+
+[THÔNG SỐ]
+- Chip: Apple A18 Pro
+- Pin: 4676 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 256GB:
+  + Màu sắc: Tím (30,790,000 VND, tồn kho 9)
+  + Màu sắc: Trắng (30,790,000 VND, tồn kho 5)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 30,790,000 VND
+- Cao nhất: 30,790,000 VND
+
+[MÔ TẢ]
+iPhone 16 Pro Max là phiên bản cao cấp nhất series iPhone 16, mang đến nâng cấp toàn diện về màn hình lớn, camera chuyên nghiệp, hiệu năng mạnh mẽ và thời lượng pin ấn tượng. Máy sở hữu thiết kế cao c...",10.0,10.0,4.0,8.0,The answer states 'Mình chưa có thông tin chi tiết về điều này.' This is accurate as the context does not provide a direct comparison between iPhone 16 Pro Max and iPhone 15 Pro Max.,"The question asks for differences between iPhone 16 Pro Max and iPhone 15 Pro Max. The answer indicates a lack of information, which is relevant given the context does not provide details about iPhone 15 Pro Max.","The context provides detailed information about iPhone 16 Pro Max and iPhone 17 Pro Max, but does not include any information about iPhone 15 Pro Max, which is necessary to answer the question.",product,
+iPhone 15 khác gì iPhone 14?,"iPhone 15 và iPhone 14 có một số điểm khác biệt đáng chú ý:
+
+1. **Chip**: iPhone 15 sử dụng chip Apple A16 Bionic, trong khi iPhone 14 sử dụng chip Apple A15 Bionic. Chip A16 mạnh mẽ hơn, giúp xử lý mượt mà hơn cho các tác vụ nặng.
+
+2. **Pin**: Thời lượng pin của iPhone 15 là 3349 mAh, trong khi iPhone 14 có pin 3279 mAh. Điều này giúp iPhone 15 có thời gian sử dụng lâu hơn một chút.
+
+3. **Màn hình**: iPhone 15 có độ sáng tối đa lên đến 2000 nits, cao hơn so với độ sáng tối đa 1200 nits của iPhone 14, mang lại trải nghiệm hiển thị tốt hơn dưới ánh nắng.
+
+4. **Camera**: Hệ thống camera của iPhone 15 được nâng cấp với cảm biến chính 48MP, trong khi iPhone 14 có camera kép 12MP. Điều này giúp iPhone 15 chụp ảnh với độ phân giải cao hơn và chất lượng tốt hơn trong điều kiện ánh sáng yếu.
+
+5. **Thiết kế**: iPhone 15 có màn hình Dynamic Island hiện đại, thay thế cho phần tai thỏ truyền thống trên iPhone 14.
+
+Những nâng cấp này giúp iPhone 15 mang lại trải nghiệm tốt hơn cho người dùng so với iPhone 14.","[SẢN PHẨM]
+Tên: iPhone 14
+Hãng: Apple
+
+[THÔNG SỐ]
+- Chip: Apple A15 Bionic
+- Pin: 3279 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 128GB:
+  + Màu sắc: Đen (13,790,000 VND, tồn kho 18)
+  + Màu sắc: Trắng (13,790,000 VND, tồn kho 10)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 13,790,000 VND
+- Cao nhất: 13,790,000 VND
+
+[MÔ TẢ]
+iPhone 14 là sự kết hợp hoàn hảo giữa thiết kế bền bỉ và hiệu năng ổn định, mang đến trải nghiệm flagship cao cấp trong một kích thước nhỏ gọn. Máy sở hữu khung nhôm chuẩn hàng không vũ trụ chắc chắn cùn...",10.0,10.0,10.0,10.0,"1. Chip: Answer đúng, iPhone 15 dùng chip A16 Bionic, iPhone 14 dùng chip A15 Bionic. 2. Pin: Answer đúng, iPhone 15 có pin 3349 mAh, iPhone 14 có pin 3279 mAh. 3. Màn hình: Answer đúng, iPhone 15 có độ sáng tối đa 2000 nits, iPhone 14 có độ sáng tối đa 1200 nits. 4. Camera: Answer đúng, iPhone 15 có cảm biến chính 48MP, iPhone 14 có camera kép 12MP. 5. Thiết kế: Answer đúng, iPhone 15 có màn hình Dynamic Island, iPhone 14 có tai thỏ truyền thống.","Câu hỏi yêu cầu so sánh sự khác biệt giữa iPhone 15 và iPhone 14. Answer đã trả lời đúng các điểm khác biệt chính về chip, pin, màn hình, camera và thiết kế, không thiếu không thừa.","Context chứa đầy đủ thông tin cần thiết để trả lời câu hỏi, bao gồm thông số kỹ thuật và mô tả chi tiết của cả iPhone 14 và iPhone 15.",product,
+iPhone 14 khác gì iPhone 13?,"iPhone 14 và iPhone 13 có một số điểm khác biệt đáng chú ý:
+
+1. **Chip**: Cả hai đều sử dụng chip Apple A15 Bionic, nhưng iPhone 14 có GPU 5 lõi nâng cấp, giúp tối ưu hóa hiệu suất năng lượng và xử lý đồ họa tốt hơn.
+
+2. **Pin**: iPhone 14 có dung lượng pin 3279 mAh, trong khi iPhone 13 có dung lượng 3227 mAh, cho phép iPhone 14 xem video liên tục đến 20 giờ, so với 19 giờ của iPhone 13.
+
+3. **Camera**: iPhone 14 được trang bị công nghệ Photonic Engine, giúp thu sáng tốt hơn gấp 2.5 lần trong điều kiện thiếu sáng, trong khi iPhone 13 có hệ thống camera kép 12MP nhưng không có công nghệ này.
+
+4. **Chế độ quay video**: iPhone 14 có chế độ Action Mode cho khả năng chống rung video siêu mượt, điều này không có trên iPhone 13.
+
+5. **Thiết kế**: Mặc dù cả hai đều có thiết kế tương tự, iPhone 14 sử dụng mặt trước bằng Ceramic Shield, loại kính cường lực cứng cáp nhất hiện nay.
+
+Những điểm khác biệt này giúp iPhone 14 mang lại trải nghiệm tốt hơn trong nhiều tình huống sử dụng.","[SẢN PHẨM]
+Tên: iPhone 13
+Hãng: Apple
+
+[THÔNG SỐ]
+- Chip: Apple A15 Bionic
+- Pin: 3227 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 128GB:
+  + Màu sắc: Đen (11,990,000 VND, tồn kho 25)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 11,990,000 VND
+- Cao nhất: 11,990,000 VND
+
+[MÔ TẢ]
+iPhone 13 tiếp tục là một trong những lựa chọn ""ngon - bổ - rẻ"" nhất của Apple nhờ sự cân bằng tuyệt vời giữa thiết kế thời thượng và hiệu năng bền bỉ. Máy giữ nguyên ngôn ngữ thiết kế vuông vức từ khung nhôm cao cấp kết hợp mặt lưng kính bóng bẩy, đi...",8.0,9.0,10.0,9.0,"1. Chip: Answer đúng khi nói cả hai đều sử dụng chip Apple A15 Bionic, nhưng iPhone 14 có GPU 5 lõi nâng cấp, điều này có trong context. 2. Pin: Answer đúng khi nói iPhone 14 có dung lượng pin 3279 mAh và iPhone 13 có dung lượng 3227 mAh, nhưng thông tin về thời gian xem video liên tục 20 giờ cho iPhone 14 không có trong context. 3. Camera: Answer đúng khi nói iPhone 14 có công nghệ Photonic Engine, giúp thu sáng tốt hơn gấp 2.5 lần, điều này có trong context. 4. Chế độ quay video: Answer đúng khi nói iPhone 14 có chế độ Action Mode, điều này có trong context. 5. Thiết kế: Answer đúng khi nói iPhone 14 sử dụng mặt trước bằng Ceramic Shield, điều này có trong context.","Câu hỏi yêu cầu so sánh sự khác biệt giữa iPhone 14 và iPhone 13. Answer đã trả lời đúng các điểm khác biệt chính về chip, pin, camera, chế độ quay video và thiết kế. Tuy nhiên, có một thông tin thừa về thời gian xem video liên tục của iPhone 14 không có trong context.","Context chứa đầy đủ thông tin cần thiết để trả lời câu hỏi về sự khác biệt giữa iPhone 14 và iPhone 13, bao gồm thông tin về chip, pin, camera, chế độ quay video và thiết kế.",product,
+iPhone 17 Pro Max màu cam còn bao nhiêu hàng?,iPhone 17 Pro Max màu cam hiện còn 10 chiếc trong kho.,"[SẢN PHẨM]
+Tên: iPhone 17 Pro Max
+Hãng: Apple
+
+[THÔNG SỐ]
+- Chip: Apple A19 Pro
+- Pin: 5088 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 256GB:
+  + Màu sắc: Cam (36,790,000 VND, tồn kho 10)
+  + Màu sắc: Xanh (36,790,000 VND, tồn kho 6)
+  + Màu sắc: Bạc (36,790,000 VND, tồn kho 5)
+- Bộ nhớ: 512GB:
+  + Màu sắc: Cam (42,790,000 VND, tồn kho 5)
+  + Màu sắc: Xanh (42,790,000 VND, tồn kho 10)
+  + Màu sắc: Bạc (42,790,000 VND, tồn kho 6)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 36,790,000 VND
+- Cao nhất: 42,790,000 VND
+
+[MÔ TẢ]
+i...",10.0,10.0,10.0,10.0,Thông tin 'iPhone 17 Pro Max màu cam hiện còn 10 chiếc trong kho' là đúng theo context. Context ghi rõ iPhone 17 Pro Max màu cam với bộ nhớ 256GB có tồn kho 10 chiếc.,"Câu hỏi hỏi về số lượng hàng tồn kho của iPhone 17 Pro Max màu cam. Answer đã trả lời đúng câu hỏi này, không thừa không thiếu.",Context có chứa thông tin cần thiết để trả lời câu hỏi về số lượng hàng tồn kho của iPhone 17 Pro Max màu cam. Không có thông tin thừa hoặc thiếu.,product,
+iPhone 17 Pro Max màu xanh còn bao nhiêu hàng?,iPhone 17 Pro Max màu xanh hiện còn 6 chiếc trong kho. Bạn có muốn biết thêm thông tin gì khác không?,"[SẢN PHẨM]
+Tên: iPhone 17 Pro Max
+Hãng: Apple
+
+[THÔNG SỐ]
+- Chip: Apple A19 Pro
+- Pin: 5088 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 256GB:
+  + Màu sắc: Cam (36,790,000 VND, tồn kho 10)
+  + Màu sắc: Xanh (36,790,000 VND, tồn kho 6)
+  + Màu sắc: Bạc (36,790,000 VND, tồn kho 5)
+- Bộ nhớ: 512GB:
+  + Màu sắc: Cam (42,790,000 VND, tồn kho 5)
+  + Màu sắc: Xanh (42,790,000 VND, tồn kho 10)
+  + Màu sắc: Bạc (42,790,000 VND, tồn kho 6)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 36,790,000 VND
+- Cao nhất: 42,790,000 VND
+
+[MÔ TẢ]
+i...",10.0,10.0,10.0,10.0,"Thông tin 'iPhone 17 Pro Max màu xanh hiện còn 6 chiếc trong kho' là đúng theo context, vì context ghi rõ iPhone 17 Pro Max màu xanh với bộ nhớ 256GB có tồn kho 6 chiếc.","Câu hỏi hỏi về số lượng hàng tồn kho của iPhone 17 Pro Max màu xanh. Answer đã trả lời đúng câu hỏi này, không thừa không thiếu.","Context có chứa thông tin cần thiết để trả lời câu hỏi, cụ thể là thông tin về số lượng tồn kho của iPhone 17 Pro Max màu xanh.",product,
+iPhone 16 Pro màu đen còn bao nhiêu hàng?,iPhone 16 Pro màu đen hiện còn 10 chiếc trong kho.,"[SẢN PHẨM]
+Tên: iPhone 16 Pro
+Hãng: Apple
+
+[THÔNG SỐ]
+- Chip: Apple A18 Pro
+- Pin: 3582 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 128GB:
+  + Màu sắc: Đen (24,990,000 VND, tồn kho 10)
+  + Màu sắc: Xanh (24,990,000 VND, tồn kho 6)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 24,990,000 VND
+- Cao nhất: 24,990,000 VND
+
+[MÔ TẢ]
+iPhone 16 Pro là phiên bản Pro nhỏ gọn nhưng được nâng cấp toàn diện trong series iPhone 16 của Apple, mang đến sự cân bằng hoàn hảo giữa kích thước dễ cầm nắm, màn hình lớn hơn, camera chuyên nghiệp, hiệ...",10.0,10.0,10.0,10.0,"Thông tin 'iPhone 16 Pro màu đen hiện còn 10 chiếc trong kho' hoàn toàn đúng với context, nơi ghi rõ 'Màu sắc: Đen (24,990,000 VND, tồn kho 10)'.",Câu hỏi hỏi về số lượng hàng tồn kho của iPhone 16 Pro màu đen. Answer đã trả lời chính xác câu hỏi này mà không thừa hoặc thiếu thông tin.,Context chứa đầy đủ thông tin cần thiết để trả lời câu hỏi về số lượng hàng tồn kho của iPhone 16 Pro màu đen.,product,
+iPhone 16 Pro màu xanh còn bao nhiêu hàng?,"iPhone 16 Pro màu xanh hiện còn tồn kho 6 chiếc. Nếu bạn cần thêm thông tin hoặc muốn đặt hàng, hãy cho mình biết nhé!","[SẢN PHẨM]
+Tên: iPhone 16 Pro
+Hãng: Apple
+
+[THÔNG SỐ]
+- Chip: Apple A18 Pro
+- Pin: 3582 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 128GB:
+  + Màu sắc: Đen (24,990,000 VND, tồn kho 10)
+  + Màu sắc: Xanh (24,990,000 VND, tồn kho 6)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 24,990,000 VND
+- Cao nhất: 24,990,000 VND
+
+[MÔ TẢ]
+iPhone 16 Pro là phiên bản Pro nhỏ gọn nhưng được nâng cấp toàn diện trong series iPhone 16 của Apple, mang đến sự cân bằng hoàn hảo giữa kích thước dễ cầm nắm, màn hình lớn hơn, camera chuyên nghiệp, hiệ...",10.0,10.0,10.0,10.0,Thông tin 'iPhone 16 Pro màu xanh hiện còn tồn kho 6 chiếc' là chính xác và có trong context. Không có thông tin nào bị bịa đặt hoặc sai lệch.,Câu hỏi hỏi về số lượng hàng tồn kho của iPhone 16 Pro màu xanh. Answer đã trả lời đúng câu hỏi này mà không thừa hoặc thiếu thông tin.,Context chứa đầy đủ thông tin cần thiết để trả lời câu hỏi về số lượng hàng tồn kho của iPhone 16 Pro màu xanh.,product,
+iPhone 16 màu đen còn bao nhiêu hàng?,iPhone 16 màu đen hiện còn 15 chiếc trong kho.,"[SẢN PHẨM]
+Tên: iPhone 16
+Hãng: Apple
+
+[THÔNG SỐ]
+- Chip: Apple A18
+- Pin: 3561 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 128GB:
+  + Màu sắc: Đen (20,890,000 VND, tồn kho 15)
+  + Màu sắc: Trắng (20,890,000 VND, tồn kho 10)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 20,890,000 VND
+- Cao nhất: 20,890,000 VND
+
+[MÔ TẢ]
+iPhone 16 là bước tiến mới với hiệu năng đột phá từ chip A18 (tiến trình 3nm), mang lại khả năng xử lý mượt mà cho mọi tác vụ từ giải trí đến làm việc. Máy sở hữu màn hình Super Retina XDR 6.1 inch sắc nét, độ ...",10.0,10.0,10.0,10.0,"Thông tin 'iPhone 16 màu đen hiện còn 15 chiếc trong kho' hoàn toàn đúng với context, nơi ghi rõ 'Màu sắc: Đen (20,890,000 VND, tồn kho 15)'.",Câu hỏi hỏi về số lượng hàng tồn kho của iPhone 16 màu đen. Answer đã trả lời chính xác câu hỏi này mà không thừa hoặc thiếu thông tin.,Context chứa đầy đủ thông tin cần thiết để trả lời câu hỏi về số lượng hàng tồn kho của iPhone 16 màu đen.,product,
+iPhone 16 màu trắng còn bao nhiêu hàng?,"iPhone 16 màu trắng hiện còn 10 chiếc trong kho. Nếu bạn cần thêm thông tin hoặc muốn đặt hàng, hãy cho mình biết nhé!","[SẢN PHẨM]
+Tên: iPhone 16
+Hãng: Apple
+
+[THÔNG SỐ]
+- Chip: Apple A18
+- Pin: 3561 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 128GB:
+  + Màu sắc: Đen (20,890,000 VND, tồn kho 15)
+  + Màu sắc: Trắng (20,890,000 VND, tồn kho 10)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 20,890,000 VND
+- Cao nhất: 20,890,000 VND
+
+[MÔ TẢ]
+iPhone 16 là bước tiến mới với hiệu năng đột phá từ chip A18 (tiến trình 3nm), mang lại khả năng xử lý mượt mà cho mọi tác vụ từ giải trí đến làm việc. Máy sở hữu màn hình Super Retina XDR 6.1 inch sắc nét, độ ...",10.0,10.0,10.0,10.0,"Thông tin 'iPhone 16 màu trắng hiện còn 10 chiếc trong kho' hoàn toàn đúng với context, nơi ghi rõ 'Màu sắc: Trắng (20,890,000 VND, tồn kho 10)'. Không có thông tin nào sai hoặc bịa đặt.",Câu hỏi hỏi về số lượng hàng tồn kho của iPhone 16 màu trắng. Answer đã trả lời chính xác câu hỏi này mà không thừa hoặc thiếu thông tin.,Context chứa đầy đủ thông tin cần thiết để trả lời câu hỏi về số lượng hàng tồn kho của iPhone 16 màu trắng. Không có thông tin thừa hoặc thiếu.,product,
+iPhone 15 màu đen còn bao nhiêu hàng?,"iPhone 15 màu đen hiện còn 20 sản phẩm trong kho. Nếu bạn cần thêm thông tin hoặc muốn đặt hàng, hãy cho mình biết nhé!","[SẢN PHẨM]
+Tên: iPhone 15
+Hãng: Apple
+
+[THÔNG SỐ]
+- Chip: Apple A16 Bionic
+- Pin: 3349 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 128GB:
+  + Màu sắc: Đen (17,590,000 VND, tồn kho 20)
+  + Màu sắc: Xanh (17,590,000 VND, tồn kho 12)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 17,590,000 VND
+- Cao nhất: 17,590,000 VND
+
+[MÔ TẢ]
+iPhone 15 đánh dấu sự lột xác của dòng tiêu chuẩn với màn hình Dynamic Island hiện đại, thay thế hoàn toàn phần tai thỏ truyền thống. Máy sở hữu thiết kế bền bỉ với mặt lưng kính pha màu nhám mờ sang trọn...",10.0,9.0,10.0,9.67,"Thông tin 'iPhone 15 màu đen hiện còn 20 sản phẩm trong kho' là đúng theo context, nơi ghi rõ 'Màu sắc: Đen (17,590,000 VND, tồn kho 20)'. Phần 'Nếu bạn cần thêm thông tin hoặc muốn đặt hàng, hãy cho mình biết nhé!' không có trong context nhưng không ảnh hưởng đến độ chính xác của thông tin chính.",Câu hỏi hỏi về số lượng hàng tồn kho của iPhone 15 màu đen. Answer đã trả lời đúng câu hỏi này với thông tin chính xác về số lượng tồn kho. Phần thêm về việc đặt hàng không cần thiết nhưng không làm lệch hướng câu trả lời.,Context chứa đầy đủ thông tin cần thiết để trả lời câu hỏi về số lượng hàng tồn kho của iPhone 15 màu đen.,product,
+iPhone 15 màu xanh còn bao nhiêu hàng?,iPhone 15 màu xanh hiện còn 12 chiếc trong kho.,"[SẢN PHẨM]
+Tên: iPhone 15
+Hãng: Apple
+
+[THÔNG SỐ]
+- Chip: Apple A16 Bionic
+- Pin: 3349 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 128GB:
+  + Màu sắc: Đen (17,590,000 VND, tồn kho 20)
+  + Màu sắc: Xanh (17,590,000 VND, tồn kho 12)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 17,590,000 VND
+- Cao nhất: 17,590,000 VND
+
+[MÔ TẢ]
+iPhone 15 đánh dấu sự lột xác của dòng tiêu chuẩn với màn hình Dynamic Island hiện đại, thay thế hoàn toàn phần tai thỏ truyền thống. Máy sở hữu thiết kế bền bỉ với mặt lưng kính pha màu nhám mờ sang trọn...",10.0,10.0,10.0,10.0,"Thông tin 'iPhone 15 màu xanh hiện còn 12 chiếc trong kho' hoàn toàn đúng với context, nơi ghi rõ iPhone 15 màu xanh có tồn kho 12.",Câu hỏi hỏi về số lượng hàng tồn kho của iPhone 15 màu xanh. Answer đã trả lời chính xác câu hỏi này mà không thừa hoặc thiếu thông tin.,Context chứa đầy đủ thông tin cần thiết để trả lời câu hỏi về số lượng hàng tồn kho của iPhone 15 màu xanh.,product,
+Samsung S26 màu đen còn bao nhiêu hàng?,"Samsung Galaxy S26 màu đen hiện còn 10 sản phẩm trong kho. Nếu bạn cần thêm thông tin hoặc muốn đặt hàng, hãy cho mình biết nhé!","[SẢN PHẨM]
+Tên: Samsung Galaxy S26
+Hãng: Samsung
+
+[THÔNG SỐ]
+- Chip: Exynos 2600 (2nm)
+- Pin: 4300 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 256GB:
+  + Màu sắc: Đen (20,990,000 VND, tồn kho 10)
+  + Màu sắc: Bạc (20,990,000 VND, tồn kho 6)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 20,990,000 VND
+- Cao nhất: 20,990,000 VND
+
+[MÔ TẢ]
+Samsung Galaxy S26 là biểu tượng công nghệ mới của năm 2026, đánh dấu sự đột phá trong thiết kế siêu mỏng chỉ 7.2mm và trọng lượng nhẹ 167g, mang lại cảm giác cầm nắm tinh tế chưa từng có. Máy s...",10.0,10.0,10.0,10.0,"Thông tin 'Samsung Galaxy S26 màu đen hiện còn 10 sản phẩm trong kho' là chính xác theo context, nơi ghi rõ 'Màu sắc: Đen (20,990,000 VND, tồn kho 10)'. Không có thông tin nào khác trong answer cần đối chiếu với context.",Câu hỏi hỏi về số lượng hàng tồn kho của Samsung Galaxy S26 màu đen. Answer đã trả lời chính xác câu hỏi này mà không thêm thông tin thừa hoặc thiếu.,Context chứa đầy đủ thông tin cần thiết để trả lời câu hỏi về số lượng hàng tồn kho của Samsung Galaxy S26 màu đen.,product,
+Samsung S26 màu bạc còn bao nhiêu hàng?,Samsung Galaxy S26 màu bạc hiện còn tồn kho 6 chiếc. Bạn có muốn biết thêm thông tin gì khác không?,"[SẢN PHẨM]
+Tên: Samsung Galaxy S26
+Hãng: Samsung
+
+[THÔNG SỐ]
+- Chip: Exynos 2600 (2nm)
+- Pin: 4300 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 256GB:
+  + Màu sắc: Đen (20,990,000 VND, tồn kho 10)
+  + Màu sắc: Bạc (20,990,000 VND, tồn kho 6)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 20,990,000 VND
+- Cao nhất: 20,990,000 VND
+
+[MÔ TẢ]
+Samsung Galaxy S26 là biểu tượng công nghệ mới của năm 2026, đánh dấu sự đột phá trong thiết kế siêu mỏng chỉ 7.2mm và trọng lượng nhẹ 167g, mang lại cảm giác cầm nắm tinh tế chưa từng có. Máy s...",10.0,10.0,10.0,10.0,"Thông tin 'Samsung Galaxy S26 màu bạc hiện còn tồn kho 6 chiếc' là đúng theo context, vì trong phần [PHIÊN BẢN] của Samsung Galaxy S26, màu bạc có tồn kho 6 chiếc.",Câu hỏi hỏi về số lượng hàng tồn kho của Samsung Galaxy S26 màu bạc. Answer đã trả lời đúng câu hỏi này mà không thừa hoặc thiếu thông tin.,Context chứa đầy đủ thông tin cần thiết để trả lời câu hỏi về số lượng hàng tồn kho của Samsung Galaxy S26 màu bạc.,product,
+Apple có những điện thoại nào trong dữ liệu?,"Trong dữ liệu, Apple có các điện thoại sau:
+
+1. iPhone 16
+2. iPhone 15
+3. iPhone 13
+4. iPhone 17
+5. iPhone 14
+6. iPhone 16 Pro
+7. iPhone 17 Pro
+8. iPhone 16 Pro Max
+9. iPhone 17 Pro Max
+
+Nếu bạn cần thêm thông tin chi tiết về từng sản phẩm, hãy cho mình biết nhé!","[SẢN PHẨM]
+Tên: iPhone 16
+Hãng: Apple
+
+[THÔNG SỐ]
+- Chip: Apple A18
+- Pin: 3561 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 128GB:
+  + Màu sắc: Đen (20,890,000 VND, tồn kho 15)
+  + Màu sắc: Trắng (20,890,000 VND, tồn kho 10)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 20,890,000 VND
+- Cao nhất: 20,890,000 VND
+
+[MÔ TẢ]
+iPhone 16 là bước tiến mới với hiệu năng đột phá từ chip A18 (tiến trình 3nm), mang lại khả năng xử lý mượt mà cho mọi tác vụ từ giải trí đến làm việc. Máy sở hữu màn hình Super Retina XDR 6.1 inch sắc nét, độ ...",2.0,3.0,7.0,4.0,1. iPhone 16: Có trong context. 2. iPhone 15: Có trong context. 3. iPhone 13: Có trong context. 4. iPhone 17: Không có trong context. 5. iPhone 14: Không có trong context. 6. iPhone 16 Pro: Không có trong context. 7. iPhone 17 Pro: Không có trong context. 8. iPhone 16 Pro Max: Không có trong context. 9. iPhone 17 Pro Max: Không có trong context.,"Câu hỏi yêu cầu liệt kê các điện thoại Apple có trong dữ liệu. Answer liệt kê nhiều model không có trong context, dẫn đến thông tin không chính xác và thừa.","Context chỉ chứa thông tin về iPhone 16, iPhone 15, và iPhone 13. Không có thông tin về các model khác như iPhone 17, iPhone 14, iPhone 16 Pro, iPhone 17 Pro, iPhone 16 Pro Max, và iPhone 17 Pro Max.",product,
+Samsung có những điện thoại nào trong dữ liệu?,"Trong dữ liệu, Samsung có các điện thoại sau:
+
+1. **Samsung Galaxy S26**
+2. **Samsung Galaxy S24 FE 5G**
+3. **Samsung Galaxy S25 Plus**
+4. **Samsung Galaxy S25 Ultra**
+5. **Samsung Galaxy S26 Plus**
+6. **Samsung Galaxy S26 Ultra**
+7. **Samsung Galaxy A56 5G**
+8. **Samsung Galaxy A35 5G**
+9. **Samsung Galaxy A56**
+10. **Samsung Galaxy Z Flip7 5G** 
+
+Nếu bạn cần thêm thông tin chi tiết về bất kỳ sản phẩm nào, hãy cho mình biết nhé!","[SẢN PHẨM]
+Tên: Samsung Galaxy S26
+Hãng: Samsung
+
+[THÔNG SỐ]
+- Chip: Exynos 2600 (2nm)
+- Pin: 4300 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 256GB:
+  + Màu sắc: Đen (20,990,000 VND, tồn kho 10)
+  + Màu sắc: Bạc (20,990,000 VND, tồn kho 6)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 20,990,000 VND
+- Cao nhất: 20,990,000 VND
+
+[MÔ TẢ]
+Samsung Galaxy S26 là biểu tượng công nghệ mới của năm 2026, đánh dấu sự đột phá trong thiết kế siêu mỏng chỉ 7.2mm và trọng lượng nhẹ 167g, mang lại cảm giác cầm nắm tinh tế chưa từng có. Máy s...",2.0,3.0,7.0,4.0,"1. Samsung Galaxy S26: Đúng, có trong context. 2. Samsung Galaxy S24 FE 5G: Đúng, có trong context. 3. Samsung Galaxy S25 Plus: Đúng, có trong context. 4. Samsung Galaxy S25 Ultra: Sai, không có trong context. 5. Samsung Galaxy S26 Plus: Sai, không có trong context. 6. Samsung Galaxy S26 Ultra: Sai, không có trong context. 7. Samsung Galaxy A56 5G: Sai, không có trong context. 8. Samsung Galaxy A35 5G: Sai, không có trong context. 9. Samsung Galaxy A56: Sai, không có trong context. 10. Samsung Galaxy Z Flip7 5G: Sai, không có trong context.","Câu hỏi yêu cầu liệt kê các điện thoại Samsung có trong dữ liệu. Answer liệt kê nhiều điện thoại không có trong context, chỉ đúng 3 trong số 10 điện thoại được liệt kê.","Context chứa thông tin về 3 điện thoại Samsung: Galaxy S26, Galaxy S24 FE 5G, và Galaxy S25 Plus. Không có thông tin về các điện thoại khác được liệt kê trong answer.",product,
+Xiaomi có những điện thoại nào trong dữ liệu?,"Trong dữ liệu, Xiaomi có các điện thoại sau:
+
+1. **Xiaomi 14T**
+   - Chip: Dimensity 9300+
+   - Pin: 5000 mAh
+   - Bộ nhớ: 256GB, Màu sắc: Đen (11,950,000 VND)
+
+2. **Xiaomi Redmi Note 14**
+   - Chip: Snapdragon 7s Gen 2
+   - Pin: 5500 mAh
+   - Bộ nhớ: 256GB, Màu sắc: Đen (5,990,000 VND)
+
+3. **Xiaomi Redmi 14C**
+   - Chip: MediaTek Helio G81 Ultra
+   - Pin: 5160 mAh
+   - Bộ nhớ: 128GB, Màu sắc: Đen (3,290,000 VND)
+
+4. **Xiaomi Redmi Note 14 Pro+ 5G**
+   - Chip: Snapdragon 7s Gen 3
+   - Pin: 5110 mAh
+   - Bộ nhớ: 256GB, Màu sắc: Đen (7,890,000 VND)
+
+5. **Redmi Note 14 Pro 5G**
+   - Chip: Dimensity 7300 Ultra
+   - Pin: 5500 mAh
+   - Bộ nhớ: 256GB, Màu sắc: Đen (8,490,000 VND)
+
+6. **Xiaomi POCO M7**
+   - Chip: Snapdragon 4 Gen 2
+   - Pin: 5160 mAh
+   - Bộ nhớ: 128GB, Màu sắc: Đen (4,060,000 VND)
+
+7. **POCO X7 Pro 5G**
+   - Chip: Dimensity 8400 Ultra
+   - Pin: 6000 mAh
+   - Bộ nhớ: 512GB, Màu sắc: Đen (9,990,000 VND)
+
+8. **Xiaomi 15 Ultra**
+   - Chip: Snapdragon 8 Elite (3nm)
+   - Pin: 5410 mAh
+   - Bộ nhớ: 512GB, Màu sắc: Đen (26,790,000 VND)
+
+9. **Xiaomi Redmi A3**
+   - Chip: Helio G36
+   - Pin: 5000 mAh
+   - Bộ nhớ: 128GB, Màu sắc: Đen (1,890,000 VND)
+
+10. **Xiaomi Redmi Note 15 Pro 5G**
+    - Chip: Dimensity 7400-Ultra (4nm)
+    - Pin: 6580 mAh
+    - Bộ nhớ: 256GB, Màu sắc: Đen (10,290,000 VND)
+
+Nếu bạn cần thêm thông tin chi tiết về bất kỳ sản phẩm nào, hãy cho mình biết nhé!","[SẢN PHẨM]
+Tên: Xiaomi 14T
+Hãng: Xiaomi
+
+[THÔNG SỐ]
+- Chip: Dimensity 9300+
+- Pin: 5000 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 256GB:
+  + Màu sắc: Đen (11,950,000 VND, tồn kho 6)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 11,950,000 VND
+- Cao nhất: 11,950,000 VND
+
+[MÔ TẢ]
+Xiaomi 14T là flagship camera với bộ ba Leica Authentic Look: cảm biến Light Fusion 900 50MP (OIS) + tele APO 50MP zoom quang 3.2x + góc siêu rộng 12MP f/2.2, Master Portrait sắc nét. Màn hình CrystalRes AMOLED 6.67 inch 144Hz độ sáng 4000 nits, Dolby...",2.0,5.0,7.0,4.67,"1. Xiaomi 14T: Đúng, có trong context. 2. Xiaomi Redmi Note 14: Đúng, có trong context. 3. Xiaomi Redmi 14C: Đúng, có trong context. 4. Xiaomi Redmi Note 14 Pro+ 5G: Đúng, có trong context. 5. Redmi Note 14 Pro 5G: Không có trong context, bịa. 6. Xiaomi POCO M7: Không có trong context, bịa. 7. POCO X7 Pro 5G: Không có trong context, bịa. 8. Xiaomi 15 Ultra: Không có trong context, bịa. 9. Xiaomi Redmi A3: Không có trong context, bịa. 10. Xiaomi Redmi Note 15 Pro 5G: Không có trong context, bịa.",Câu hỏi yêu cầu liệt kê các điện thoại Xiaomi có trong dữ liệu. Answer liệt kê đúng một số điện thoại có trong context nhưng thêm nhiều điện thoại không có trong context.,"Context chứa thông tin về 4 điện thoại Xiaomi: Xiaomi 14T, Xiaomi Redmi Note 14, Xiaomi Redmi 14C, Xiaomi Redmi Note 14 Pro+ 5G. Không có thông tin về các điện thoại khác mà answer đã liệt kê.",product,
+HONOR có những điện thoại nào?,"Hiện tại, HONOR có hai sản phẩm điện thoại là:
+
+1. **Honor 400**
+   - Chip: Snapdragon 7 Gen 3
+   - Pin: 5800 mAh
+   - Bộ nhớ: 256GB, màu sắc: Đen (10,990,000 VND)
+
+2. **HONOR X6b**
+   - Chip: Snapdragon 6 Gen 1
+   - Pin: 5200 mAh
+   - Bộ nhớ: 128GB, màu sắc: Đen (3,590,000 VND)
+
+Nếu bạn cần thêm thông tin chi tiết về từng sản phẩm, hãy cho mình biết nhé!","[SẢN PHẨM]
+Tên: Honor 400
+Hãng: Honor
+
+[THÔNG SỐ]
+- Chip: Snapdragon 7 Gen 3
+- Pin: 5800 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 256GB:
+  + Màu sắc: Đen (10,990,000 VND, tồn kho 7)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 10,990,000 VND
+- Cao nhất: 10,990,000 VND
+
+[MÔ TẢ]
+Honor 400 5G là kiệt tác thiết kế siêu mỏng chỉ 7.3mm, mặt lưng kính nhám cao cấp phối màu gradient sang trọng. Màn hình OLED 6.55 inch độ phân giải 1.5K, tần số quét 120Hz, độ sáng tối đa 5000 nits cho trải nghiệm HDR10+ sắc nét ngay dưới nắng gắt. ...",10.0,10.0,10.0,10.0,"1. Honor 400: Chip Snapdragon 7 Gen 3, Pin 5800 mAh, Bộ nhớ 256GB, màu sắc Đen (10,990,000 VND) - Đúng theo context. 2. HONOR X6b: Chip Snapdragon 6 Gen 1, Pin 5200 mAh, Bộ nhớ 128GB, màu sắc Đen (3,590,000 VND) - Đúng theo context.","Câu hỏi yêu cầu liệt kê các điện thoại của HONOR. Answer đã liệt kê đúng hai sản phẩm Honor 400 và HONOR X6b, không thiếu hoặc thừa thông tin.","Context chứa đầy đủ thông tin về hai sản phẩm của HONOR, không có thông tin thừa hoặc thiếu.",product,
+TECNO có những điện thoại nào?,"Hiện tại, TECNO có sản phẩm TECNO POVA 6 Neo. Đây là một gaming phone với chip MediaTek Helio G99 Ultimate, pin 7000 mAh, bộ nhớ 128GB và màu sắc Đen. Nếu bạn cần thêm thông tin chi tiết về sản phẩm này, mình rất sẵn lòng hỗ trợ!","[SẢN PHẨM]
+Tên: TECNO POVA 6 Neo
+Hãng: TECNO
+
+[THÔNG SỐ]
+- Chip: MediaTek Helio G99 Ultimate
+- Pin: 7000 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 128GB:
+  + Màu sắc: Đen (3,890,000 VND, tồn kho 12)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 3,890,000 VND
+- Cao nhất: 3,890,000 VND
+
+[MÔ TẢ]
+TECNO POVA 6 Neo là gaming phone pin trâu nhất phân khúc với dung lượng 7000mAh sử dụng 2 ngày liên tục, sạc nhanh 45W chỉ 50 phút đầy pin. Chip Helio G99 Ultimate mạnh mẽ, RAM 8GB vật lý + 8GB mở rộng tổng 16GB chơi game PUBG, Liên Quâ...",10.0,5.0,7.0,7.33,"Answer chỉ đề cập đến TECNO POVA 6 Neo, đúng với thông tin trong context. Các thông tin về chip MediaTek Helio G99 Ultimate, pin 7000 mAh, bộ nhớ 128GB và màu sắc Đen đều có trong context. Không có thông tin nào sai hoặc bịa đặt.","Câu hỏi yêu cầu liệt kê các điện thoại của TECNO. Answer chỉ đề cập đến một sản phẩm duy nhất là TECNO POVA 6 Neo, không rõ liệu có các sản phẩm khác của TECNO hay không. Do đó, answer thiếu thông tin nếu có nhiều sản phẩm khác của TECNO.","Context chỉ chứa thông tin về một sản phẩm của TECNO là TECNO POVA 6 Neo. Không có thông tin về các sản phẩm khác của TECNO, nên không thể xác định đầy đủ các điện thoại của TECNO từ context này.",product,
+OSCAL có những điện thoại nào?,"Hiện tại, OSCAL có sản phẩm OSCAL TIGER 12. Đây là một chiếc điện thoại nổi bật với chip MediaTek Helio G99, pin 5000 mAh, bộ nhớ 128GB và màu sắc Đen, giá 3,190,000 VND. Nếu bạn cần thêm thông tin chi tiết về sản phẩm này, mình sẵn sàng hỗ trợ!","[SẢN PHẨM]
+Tên: OSCAL TIGER 12
+Hãng: OSCAL
+
+[THÔNG SỐ]
+- Chip: MediaTek Helio G99
+- Pin: 5000 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 128GB:
+  + Màu sắc: Đen (3,190,000 VND, tồn kho 25)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 3,190,000 VND
+- Cao nhất: 3,190,000 VND
+
+[MÔ TẢ]
+OSCAL TIGER 12 nổi bật với chip Helio G99 mạnh mẽ chơi game mượt mà Liên Quân, Free Fire max setting cao. RAM 8GB mở rộng lên 16GB cho đa nhiệm không giật lag. Màn hình 6.78 inch Full HD+, tần số quét 120Hz cho hình ảnh sắc nét, chuyển động mượt m...",10.0,10.0,10.0,10.0,"Answer nói OSCAL có sản phẩm OSCAL TIGER 12, đúng với context. Thông tin về chip MediaTek Helio G99, pin 5000 mAh, bộ nhớ 128GB, màu sắc Đen và giá 3,190,000 VND đều có trong context.","Câu hỏi hỏi về các điện thoại của OSCAL. Answer trả lời đúng câu hỏi bằng cách liệt kê sản phẩm OSCAL TIGER 12, không thừa không thiếu.","Context có chứa thông tin về sản phẩm OSCAL TIGER 12, bao gồm các thông số kỹ thuật và giá cả, phù hợp để trả lời câu hỏi.",product,
+Apple có bao nhiêu dòng iPhone Pro?,"Apple hiện có 4 dòng iPhone Pro, bao gồm iPhone 16 Pro, iPhone 16 Pro Max, iPhone 17 Pro và iPhone 17 Pro Max.","[SẢN PHẨM]
+Tên: iPhone 16 Pro
+Hãng: Apple
+
+[THÔNG SỐ]
+- Chip: Apple A18 Pro
+- Pin: 3582 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 128GB:
+  + Màu sắc: Đen (24,990,000 VND, tồn kho 10)
+  + Màu sắc: Xanh (24,990,000 VND, tồn kho 6)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 24,990,000 VND
+- Cao nhất: 24,990,000 VND
+
+[MÔ TẢ]
+iPhone 16 Pro là phiên bản Pro nhỏ gọn nhưng được nâng cấp toàn diện trong series iPhone 16 của Apple, mang đến sự cân bằng hoàn hảo giữa kích thước dễ cầm nắm, màn hình lớn hơn, camera chuyên nghiệp, hiệ...",2.0,5.0,6.0,4.33,"Thông tin 'Apple hiện có 4 dòng iPhone Pro, bao gồm iPhone 16 Pro, iPhone 16 Pro Max, iPhone 17 Pro và iPhone 17 Pro Max' không hoàn toàn đúng với context. Context chỉ đề cập đến iPhone 16 Pro và iPhone 17 Pro, không có thông tin về iPhone 16 Pro Max và iPhone 17 Pro Max. Do đó, thông tin về iPhone 16 Pro Max và iPhone 17 Pro Max là bịa.","Câu hỏi yêu cầu thông tin về số lượng dòng iPhone Pro của Apple. Answer đã đưa ra một con số cụ thể và liệt kê các dòng, nhưng thông tin không chính xác do có sự bịa đặt về các dòng iPhone Pro Max.","Context chỉ chứa thông tin về iPhone 16 Pro và iPhone 17 Pro, không có thông tin về các dòng iPhone Pro Max. Do đó, context không đủ để trả lời chính xác câu hỏi về số lượng dòng iPhone Pro.",product,
+Samsung có bao nhiêu dòng Galaxy S trong dữ liệu?,"Trong dữ liệu, Samsung có 4 dòng Galaxy S, bao gồm: Galaxy S26, Galaxy S24 FE 5G, Galaxy S26 Plus, và Galaxy S26 Ultra.","[SẢN PHẨM]
+Tên: Samsung Galaxy S26
+Hãng: Samsung
+
+[THÔNG SỐ]
+- Chip: Exynos 2600 (2nm)
+- Pin: 4300 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 256GB:
+  + Màu sắc: Đen (20,990,000 VND, tồn kho 10)
+  + Màu sắc: Bạc (20,990,000 VND, tồn kho 6)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 20,990,000 VND
+- Cao nhất: 20,990,000 VND
+
+[MÔ TẢ]
+Samsung Galaxy S26 là biểu tượng công nghệ mới của năm 2026, đánh dấu sự đột phá trong thiết kế siêu mỏng chỉ 7.2mm và trọng lượng nhẹ 167g, mang lại cảm giác cầm nắm tinh tế chưa từng có. Máy s...",2.0,5.0,7.0,4.67,"1. Answer nói có 4 dòng Galaxy S: Galaxy S26, Galaxy S24 FE 5G, Galaxy S26 Plus, và Galaxy S26 Ultra. Tuy nhiên, trong context chỉ có 3 dòng: Galaxy S26, Galaxy S24 FE 5G, và Galaxy S26 Plus. Galaxy S26 Ultra không có trong context, nên thông tin này là bịa.","Câu hỏi yêu cầu xác định số lượng dòng Galaxy S trong dữ liệu. Answer đã trả lời số lượng và liệt kê các dòng, nhưng có một dòng không có trong context, dẫn đến câu trả lời không chính xác.","Context chứa thông tin về 3 dòng Galaxy S: Galaxy S26, Galaxy S24 FE 5G, và Galaxy S26 Plus. Không có thông tin về Galaxy S26 Ultra, nên context không hỗ trợ cho thông tin này.",product,
+Xiaomi có bao nhiêu dòng flagship Ultra?,Xiaomi hiện có 2 dòng flagship Ultra là Xiaomi 15 Ultra và Xiaomi 17 Ultra.,"[SẢN PHẨM]
+Tên: Xiaomi 15 Ultra
+Hãng: Xiaomi
+
+[THÔNG SỐ]
+- Chip: Snapdragon 8 Elite (3nm)
+- Pin: 5410 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 512GB:
+  + Màu sắc: Đen (26,790,000 VND, tồn kho 4)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 26,790,000 VND
+- Cao nhất: 26,790,000 VND
+
+[MÔ TẢ]
+Xiaomi 15 Ultra cân bằng, màn LTPO 6.73 inch 2K+, chip 3nm, 4 camera Leica 50MP, sạc 90W và HyperOS 2.0.
+[SẢN PHẨM]
+Tên: Xiaomi 17 Ultra
+Hãng: Xiaomi
+
+[THÔNG SỐ]
+- Chip: Snapdragon 8 Elite Gen 5
+- Pin: 6000 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 512...",10.0,10.0,10.0,10.0,"Thông tin trong answer là 'Xiaomi hiện có 2 dòng flagship Ultra là Xiaomi 15 Ultra và Xiaomi 17 Ultra'. Trong context, có đề cập đến hai sản phẩm này: 'Xiaomi 15 Ultra' và 'Xiaomi 17 Ultra'. Do đó, thông tin này là đúng và có nguồn gốc từ context.","Câu hỏi hỏi về số lượng dòng flagship Ultra của Xiaomi. Answer đã trả lời chính xác câu hỏi này bằng cách liệt kê hai dòng flagship Ultra hiện có của Xiaomi, không thừa không thiếu.","Context có chứa thông tin về hai dòng flagship Ultra của Xiaomi là Xiaomi 15 Ultra và Xiaomi 17 Ultra. Do đó, context chứa đúng và đủ thông tin cần thiết để trả lời câu hỏi.",product,
+Apple có dòng nào giá rẻ nhất?,"Dòng sản phẩm iPhone giá rẻ nhất của Apple hiện tại là iPhone 13 với mức giá 11,990,000 VND cho phiên bản bộ nhớ 128GB màu Đen.","[SẢN PHẨM]
+Tên: iPhone 15
+Hãng: Apple
+
+[THÔNG SỐ]
+- Chip: Apple A16 Bionic
+- Pin: 3349 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 128GB:
+  + Màu sắc: Đen (17,590,000 VND, tồn kho 20)
+  + Màu sắc: Xanh (17,590,000 VND, tồn kho 12)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 17,590,000 VND
+- Cao nhất: 17,590,000 VND
+
+[MÔ TẢ]
+iPhone 15 đánh dấu sự lột xác của dòng tiêu chuẩn với màn hình Dynamic Island hiện đại, thay thế hoàn toàn phần tai thỏ truyền thống. Máy sở hữu thiết kế bền bỉ với mặt lưng kính pha màu nhám mờ sang trọn...",10.0,10.0,10.0,10.0,"Thông tin trong answer: 'Dòng sản phẩm iPhone giá rẻ nhất của Apple hiện tại là iPhone 13 với mức giá 11,990,000 VND cho phiên bản bộ nhớ 128GB màu Đen.' Đối chiếu với context: iPhone 13 có giá 11,990,000 VND cho phiên bản 128GB màu Đen. Thông tin này hoàn toàn đúng và có trong context.",Câu hỏi hỏi về dòng iPhone giá rẻ nhất của Apple. Answer đã trả lời đúng câu hỏi bằng cách chỉ ra iPhone 13 là dòng giá rẻ nhất với mức giá cụ thể. Không có thông tin thừa hoặc thiếu.,"Context chứa đầy đủ thông tin về giá của các dòng iPhone, bao gồm iPhone 13, iPhone 15 và iPhone 16 Pro. Thông tin cần thiết để trả lời câu hỏi về dòng iPhone giá rẻ nhất có trong context.",product,
+Samsung có dòng giá rẻ nhất là gì?,"Dòng sản phẩm giá rẻ nhất của Samsung hiện tại là Samsung Galaxy A05s với giá 3,000,000 VND. Máy được trang bị màn hình Super AMOLED 6.7 inch Full HD+, chip Snapdragon 680 và pin 5000mAh, rất phù hợp cho những ai cần một smartphone giá cả phải chăng nhưng vẫn đảm bảo hiệu năng ổn định.","[SẢN PHẨM]
+Tên: Samsung Galaxy S24 FE 5G
+Hãng: Samsung
+
+[THÔNG SỐ]
+- Chip: Exynos 2400e
+- Pin: 4700 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 256GB:
+  + Màu sắc: Đen (11,990,000 VND, tồn kho 8)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 11,990,000 VND
+- Cao nhất: 11,990,000 VND
+
+[MÔ TẢ]
+Samsung Galaxy S24 FE kế thừa thiết kế vuông vức cao cấp dòng Galaxy S với khung kim loại chắc chắn, mặt lưng nhám chống bám vân tay, kính Gorilla Glass Victus 2. Màn hình Dynamic AMOLED 2X 6.7 inch FHD+ 120Hz sáng 1900 nits hỗ trợ HDR10+,...",0.0,0.0,1.0,0.33,"Thông tin về Samsung Galaxy A05s với giá 3,000,000 VND, màn hình Super AMOLED 6.7 inch Full HD+, chip Snapdragon 680 và pin 5000mAh hoàn toàn không có trong context. Context chỉ đề cập đến các sản phẩm Samsung Galaxy S24 FE 5G, Samsung Galaxy A56 5G, và Samsung Galaxy S25 Ultra với các thông số và giá khác nhau.",Câu hỏi yêu cầu xác định dòng sản phẩm giá rẻ nhất của Samsung. Answer đã đưa ra một sản phẩm không có trong context và không liên quan đến các sản phẩm được liệt kê trong context.,"Context không chứa thông tin về Samsung Galaxy A05s hoặc bất kỳ sản phẩm nào có giá 3,000,000 VND. Context chỉ chứa thông tin về các sản phẩm Samsung Galaxy S24 FE 5G, Samsung Galaxy A56 5G, và Samsung Galaxy S25 Ultra.",product,
+Xiaomi có dòng giá rẻ nhất là gì?,"Dòng sản phẩm giá rẻ nhất của Xiaomi là Xiaomi Redmi A3, với giá 1,890,000 VND. Máy có bộ nhớ 128GB và màu sắc đen.","[SẢN PHẨM]
+Tên: Xiaomi 15 Ultra
+Hãng: Xiaomi
+
+[THÔNG SỐ]
+- Chip: Snapdragon 8 Elite (3nm)
+- Pin: 5410 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 512GB:
+  + Màu sắc: Đen (26,790,000 VND, tồn kho 4)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 26,790,000 VND
+- Cao nhất: 26,790,000 VND
+
+[MÔ TẢ]
+Xiaomi 15 Ultra cân bằng, màn LTPO 6.73 inch 2K+, chip 3nm, 4 camera Leica 50MP, sạc 90W và HyperOS 2.0.
+[SẢN PHẨM]
+Tên: Xiaomi Redmi A3
+Hãng: Xiaomi
+
+[THÔNG SỐ]
+- Chip: Helio G36
+- Pin: 5000 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 128GB:
+  + Màu sắc...",10.0,10.0,10.0,10.0,"Thông tin 'Dòng sản phẩm giá rẻ nhất của Xiaomi là Xiaomi Redmi A3' là đúng theo context, vì giá thấp nhất của Xiaomi Redmi A3 là 1,890,000 VND, thấp hơn các sản phẩm khác. Thông tin 'với giá 1,890,000 VND' cũng đúng theo context. Thông tin 'Máy có bộ nhớ 128GB và màu sắc đen' cũng đúng theo context.","Câu hỏi hỏi về dòng sản phẩm giá rẻ nhất của Xiaomi. Answer đã trả lời đúng câu hỏi này bằng cách chỉ ra Xiaomi Redmi A3 là dòng sản phẩm giá rẻ nhất và cung cấp thông tin về giá, bộ nhớ và màu sắc, không thừa không thiếu.","Context chứa đầy đủ thông tin cần thiết để trả lời câu hỏi, bao gồm thông tin về giá cả, bộ nhớ và màu sắc của các sản phẩm Xiaomi, giúp xác định sản phẩm giá rẻ nhất.",product,
+Điện thoại xiaomi khoảng 10 triệu có gì?,"Chào bạn! Trong khoảng giá khoảng 10 triệu, chúng tôi có một số lựa chọn điện thoại Xiaomi hấp dẫn như sau:
+
+1. **Xiaomi Redmi Note 15 Pro 5G**:
+   - Giá: 10,290,000 VND
+   - Chip: Dimensity 7400-Ultra (4nm)
+   - Pin: 6580 mAh
+   - Bộ nhớ: 256GB, màu sắc: Đen
+   - Màn hình CrystalRes AMOLED 6.67 inch với tần số quét 120Hz, hệ thống camera 200MP với công nghệ chống rung OIS.
+
+2. **Xiaomi Redmi Note 15 Pro**:
+   - Giá: 8,990,000 VND
+   - Chip: Helio G100-Ultra
+   - Pin: 5500 mAh
+   - Bộ nhớ: 256GB, màu sắc: Đen
+   - Màn hình AMOLED với độ sáng 2000 nits và camera 108MP.
+
+3. **Xiaomi Redmi Note 14 Pro+ 5G**:
+   - Giá: 7,890,000 VND
+   - Chip: Snapdragon 7s Gen 3
+   - Pin: 5110 mAh
+   - Bộ nhớ: 256GB, màu sắc: Đen
+   - Màn hình cong CrystalRes AMOLED 1.5K và tiêu chuẩn kháng nước IP69.
+
+Bạn có thể tham khảo thêm về các sản phẩm này để tìm ra lựa chọn phù hợp nhất với nhu cầu của mình!","[SẢN PHẨM]
+Tên: Xiaomi 14T
+Hãng: Xiaomi
+
+[THÔNG SỐ]
+- Chip: Dimensity 9300+
+- Pin: 5000 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 256GB:
+  + Màu sắc: Đen (11,950,000 VND, tồn kho 6)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 11,950,000 VND
+- Cao nhất: 11,950,000 VND
+
+[MÔ TẢ]
+Xiaomi 14T là flagship camera với bộ ba Leica Authentic Look: cảm biến Light Fusion 900 50MP (OIS) + tele APO 50MP zoom quang 3.2x + góc siêu rộng 12MP f/2.2, Master Portrait sắc nét. Màn hình CrystalRes AMOLED 6.67 inch 144Hz độ sáng 4000 nits, Dolby...",0.0,0.0,7.0,2.33,"1. Xiaomi Redmi Note 15 Pro 5G: Không có trong context. 2. Giá 10,290,000 VND: Không có trong context. 3. Chip Dimensity 7400-Ultra (4nm): Không có trong context. 4. Pin 6580 mAh: Không có trong context. 5. Bộ nhớ 256GB, màu sắc: Đen: Không có trong context. 6. Màn hình CrystalRes AMOLED 6.67 inch với tần số quét 120Hz: Không có trong context. 7. Hệ thống camera 200MP với công nghệ chống rung OIS: Không có trong context. 8. Xiaomi Redmi Note 15 Pro: Không có trong context. 9. Giá 8,990,000 VND: Không có trong context. 10. Chip Helio G100-Ultra: Không có trong context. 11. Pin 5500 mAh: Không có trong context. 12. Màn hình AMOLED với độ sáng 2000 nits: Không có trong context. 13. Camera 108MP: Không có trong context. 14. Xiaomi Redmi Note 14 Pro+ 5G: Không có trong context. 15. Giá 7,890,000 VND: Không có trong context. 16. Chip Snapdragon 7s Gen 3: Không có trong context. 17. Pin 5110 mAh: Không có trong context. 18. Màn hình cong CrystalRes AMOLED 1.5K: Không có trong context. 19. Tiêu chuẩn kháng nước IP69: Không có trong context.",Câu hỏi yêu cầu thông tin về điện thoại Xiaomi trong khoảng giá 10 triệu. Answer cung cấp thông tin về các mẫu điện thoại không có trong context và không đúng với yêu cầu về giá.,"Context có chứa thông tin về các mẫu điện thoại Xiaomi với giá và thông số kỹ thuật, nhưng không có thông tin nào khớp với các mẫu được liệt kê trong answer.",product,
+Điện thoại iphone 10–15 triệu có gì?,"Hiện tại, trong khoảng giá từ 10 triệu đến 15 triệu, chúng tôi có iPhone 13 với giá 11,990,000 VND. Đây là một lựa chọn ""ngon - bổ - rẻ"" với chip A15 Bionic, màn hình Super Retina XDR 6.1 inch, camera kép 12MP, và thời lượng pin lên đến 19 giờ khi xem video. Máy có màu Đen và đang có sẵn trong kho. Nếu bạn cần thêm thông tin hoặc muốn xem máy, hãy cho mình biết nhé!","[SẢN PHẨM]
+Tên: iPhone 15
+Hãng: Apple
+
+[THÔNG SỐ]
+- Chip: Apple A16 Bionic
+- Pin: 3349 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 128GB:
+  + Màu sắc: Đen (17,590,000 VND, tồn kho 20)
+  + Màu sắc: Xanh (17,590,000 VND, tồn kho 12)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 17,590,000 VND
+- Cao nhất: 17,590,000 VND
+
+[MÔ TẢ]
+iPhone 15 đánh dấu sự lột xác của dòng tiêu chuẩn với màn hình Dynamic Island hiện đại, thay thế hoàn toàn phần tai thỏ truyền thống. Máy sở hữu thiết kế bền bỉ với mặt lưng kính pha màu nhám mờ sang trọn...",10.0,10.0,10.0,10.0,"1. 'iPhone 13 với giá 11,990,000 VND' - Đúng, có trong context. 2. 'lựa chọn ""ngon - bổ - rẻ""' - Đúng, có trong context. 3. 'chip A15 Bionic' - Đúng, có trong context. 4. 'màn hình Super Retina XDR 6.1 inch' - Đúng, có trong context. 5. 'camera kép 12MP' - Đúng, có trong context. 6. 'thời lượng pin lên đến 19 giờ khi xem video' - Đúng, có trong context. 7. 'Máy có màu Đen' - Đúng, có trong context. 8. 'đang có sẵn trong kho' - Đúng, có trong context.","Câu hỏi hỏi về các điện thoại trong khoảng giá 10–15 triệu. Answer chỉ đề cập đến iPhone 13, đúng với yêu cầu về giá. Không có thông tin thừa hoặc thiếu.","Context có chứa thông tin về iPhone 13, iPhone 14, và iPhone 15. Thông tin về iPhone 13 là đủ để trả lời câu hỏi về điện thoại trong khoảng giá 10–15 triệu.",product,
+Điện thoại dưới 15 triệu có gì?,"Hiện tại, chúng tôi có một số mẫu điện thoại dưới 15 triệu như sau:
+
+1. **Xiaomi Redmi Note 15**:
+   - **Giá**: 5,190,000 VND
+   - **Bộ nhớ**: 128GB
+   - **Màu sắc**: Đen
+   - **Pin**: 6000 mAh
+   - **Chip**: Helio G100-Ultra
+
+2. **Xiaomi Redmi Note 15 Pro**:
+   - **Giá**: 8,990,000 VND
+   - **Bộ nhớ**: 256GB
+   - **Màu sắc**: Đen
+   - **Pin**: 6500 mAh
+   - **Chip**: Helio G100-Ultra
+
+3. **OPPO Reno15 F 5G**:
+   - **Giá**: 10,990,000 VND
+   - **Bộ nhớ**: 256GB
+   - **Màu sắc**: Đen
+   - **Pin**: 7000 mAh
+   - **Chip**: Dimensity 8350
+
+Bạn có thể tham khảo các sản phẩm này để tìm được chiếc điện thoại phù hợp với nhu cầu của mình!","[SẢN PHẨM]
+Tên: iPhone 15
+Hãng: Apple
+
+[THÔNG SỐ]
+- Chip: Apple A16 Bionic
+- Pin: 3349 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 128GB:
+  + Màu sắc: Đen (17,590,000 VND, tồn kho 20)
+  + Màu sắc: Xanh (17,590,000 VND, tồn kho 12)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 17,590,000 VND
+- Cao nhất: 17,590,000 VND
+
+[MÔ TẢ]
+iPhone 15 đánh dấu sự lột xác của dòng tiêu chuẩn với màn hình Dynamic Island hiện đại, thay thế hoàn toàn phần tai thỏ truyền thống. Máy sở hữu thiết kế bền bỉ với mặt lưng kính pha màu nhám mờ sang trọn...",4.0,7.0,8.0,6.33,"- Xiaomi Redmi Note 15: Giá 5,190,000 VND, bộ nhớ 128GB, màu sắc Đen, pin 6000 mAh, chip Helio G100-Ultra: Không có trong context, thông tin bịa.
+- Xiaomi Redmi Note 15 Pro: Giá 8,990,000 VND, bộ nhớ 256GB, màu sắc Đen, pin 6500 mAh, chip Helio G100-Ultra: Đúng theo context.
+- OPPO Reno15 F 5G: Giá 10,990,000 VND, bộ nhớ 256GB, màu sắc Đen, pin 7000 mAh, chip Dimensity 8350: Đúng theo context.","Câu hỏi yêu cầu liệt kê các điện thoại dưới 15 triệu. Answer đã liệt kê đúng các mẫu điện thoại dưới 15 triệu, nhưng có thông tin bịa về Xiaomi Redmi Note 15 không có trong context.","Context chứa thông tin về các điện thoại dưới 15 triệu như Xiaomi Redmi Note 15 Pro và OPPO Reno15 F 5G. Tuy nhiên, không có thông tin về Xiaomi Redmi Note 15 như trong answer.",product,
+iPhone rẻ nhất thuộc nhóm giá nào?,"iPhone rẻ nhất hiện có là iPhone 13 với giá 11,990,000 VND.","[SẢN PHẨM]
+Tên: iPhone 15
+Hãng: Apple
+
+[THÔNG SỐ]
+- Chip: Apple A16 Bionic
+- Pin: 3349 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 128GB:
+  + Màu sắc: Đen (17,590,000 VND, tồn kho 20)
+  + Màu sắc: Xanh (17,590,000 VND, tồn kho 12)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 17,590,000 VND
+- Cao nhất: 17,590,000 VND
+
+[MÔ TẢ]
+iPhone 15 đánh dấu sự lột xác của dòng tiêu chuẩn với màn hình Dynamic Island hiện đại, thay thế hoàn toàn phần tai thỏ truyền thống. Máy sở hữu thiết kế bền bỉ với mặt lưng kính pha màu nhám mờ sang trọn...",0.0,0.0,10.0,3.33,"Thông tin trong answer nói về iPhone 13 với giá 11,990,000 VND không có trong context. Context chỉ cung cấp thông tin về iPhone 15, iPhone 17, và iPhone 17 Pro với các mức giá khác nhau, nhưng không có thông tin nào về iPhone 13.",Câu hỏi yêu cầu xác định nhóm giá của iPhone rẻ nhất hiện có. Answer không trả lời đúng câu hỏi vì nó đề cập đến một sản phẩm không có trong context và không xác định nhóm giá của iPhone rẻ nhất trong context.,"Context chứa thông tin về các mẫu iPhone 15, iPhone 17, và iPhone 17 Pro, cùng với giá của chúng. Do đó, context có chứa thông tin cần thiết để trả lời câu hỏi về nhóm giá của iPhone rẻ nhất.",product,
+Điện thoại 15–20 triệu có gì?,"Trong khoảng giá từ 15 đến 20 triệu, bạn có thể tham khảo các sản phẩm sau:
+
+1. **iPhone 16**:
+   - Giá: 20,890,000 VND
+   - Bộ nhớ: 128GB
+   - Màu sắc: Đen, Trắng
+   - Chip: Apple A18
+   - Pin: 3561 mAh
+
+2. **iPhone 15**:
+   - Giá: 17,590,000 VND
+   - Bộ nhớ: 128GB
+   - Màu sắc: Đen, Xanh
+   - Chip: Apple A16 Bionic
+   - Pin: 3349 mAh
+
+Cả hai sản phẩm đều sở hữu thiết kế sang trọng, hiệu năng mạnh mẽ và thời lượng pin tốt, phù hợp cho nhu cầu sử dụng hàng ngày. Nếu bạn cần thêm thông tin chi tiết về từng sản phẩm, hãy cho mình biết nhé!","[SẢN PHẨM]
+Tên: iPhone 15
+Hãng: Apple
+
+[THÔNG SỐ]
+- Chip: Apple A16 Bionic
+- Pin: 3349 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 128GB:
+  + Màu sắc: Đen (17,590,000 VND, tồn kho 20)
+  + Màu sắc: Xanh (17,590,000 VND, tồn kho 12)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 17,590,000 VND
+- Cao nhất: 17,590,000 VND
+
+[MÔ TẢ]
+iPhone 15 đánh dấu sự lột xác của dòng tiêu chuẩn với màn hình Dynamic Island hiện đại, thay thế hoàn toàn phần tai thỏ truyền thống. Máy sở hữu thiết kế bền bỉ với mặt lưng kính pha màu nhám mờ sang trọn...",8.0,7.0,9.0,8.0,"- iPhone 16: Giá 20,890,000 VND, bộ nhớ 128GB, màu sắc Đen, Trắng, chip Apple A18, pin 3561 mAh: Đúng theo context.
+- iPhone 15: Giá 17,590,000 VND, bộ nhớ 128GB, màu sắc Đen, Xanh, chip Apple A16 Bionic, pin 3349 mAh: Đúng theo context.
+- Nhận xét về thiết kế sang trọng, hiệu năng mạnh mẽ và thời lượng pin tốt: Không có trong context, suy diễn chủ quan.","Câu hỏi yêu cầu liệt kê các điện thoại trong khoảng giá 15–20 triệu. Answer đã liệt kê đúng hai sản phẩm iPhone 15 và iPhone 16, nhưng iPhone 16 có giá 20,890,000 VND, vượt quá khoảng giá yêu cầu.","Context chứa thông tin chi tiết về các sản phẩm iPhone 15 và iPhone 16, bao gồm giá cả, thông số kỹ thuật và mô tả, nhưng không có sản phẩm nào khác trong khoảng giá 15–20 triệu.",product,
+Điện thoại khoảng 20 triệu có gì?,"Hiện tại, trong khoảng giá khoảng 20 triệu, chúng tôi có hai sản phẩm nổi bật:
+
+1. **iPhone 16**:
+   - **Bộ nhớ**: 128GB
+   - **Màu sắc**: Đen (20,890,000 VND, tồn kho 15) và Trắng (20,890,000 VND, tồn kho 10)
+   - **Thông số**: Chip Apple A18, pin 3561 mAh.
+   - **Mô tả**: Màn hình Super Retina XDR 6.1 inch, camera chính 48MP Fusion, thiết kế bền bỉ với mặt kính Ceramic Shield.
+
+2. **Samsung Galaxy S26**:
+   - **Bộ nhớ**: 256GB
+   - **Màu sắc**: Đen (20,990,000 VND, tồn kho 10) và Bạc (20,990,000 VND, tồn kho 6)
+   - **Thông số**: Chip Exynos 2600, pin 4300 mAh.
+   - **Mô tả**: Màn hình Dynamic AMOLED 2X 6.3 inch, camera 50MP, thiết kế siêu mỏng và nhẹ.
+
+Nếu bạn cần thêm thông tin chi tiết về một sản phẩm cụ thể, hãy cho mình biết nhé!","[SẢN PHẨM]
+Tên: iPhone 16
+Hãng: Apple
+
+[THÔNG SỐ]
+- Chip: Apple A18
+- Pin: 3561 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 128GB:
+  + Màu sắc: Đen (20,890,000 VND, tồn kho 15)
+  + Màu sắc: Trắng (20,890,000 VND, tồn kho 10)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 20,890,000 VND
+- Cao nhất: 20,890,000 VND
+
+[MÔ TẢ]
+iPhone 16 là bước tiến mới với hiệu năng đột phá từ chip A18 (tiến trình 3nm), mang lại khả năng xử lý mượt mà cho mọi tác vụ từ giải trí đến làm việc. Máy sở hữu màn hình Super Retina XDR 6.1 inch sắc nét, độ ...",5.0,7.0,7.0,6.33,"- iPhone 16: Thông tin về bộ nhớ, màu sắc, giá, chip, pin, và mô tả đều đúng với context.
+- Samsung Galaxy S26: Không có trong context, thông tin về sản phẩm này là bịa.","Câu hỏi hỏi về các điện thoại trong khoảng giá 20 triệu. Answer đã cung cấp thông tin về iPhone 16, đúng với câu hỏi. Tuy nhiên, thông tin về Samsung Galaxy S26 là không cần thiết và không có trong context.","Context chứa thông tin về iPhone 16, iPhone 17, và iPhone 15, nhưng không có thông tin về Samsung Galaxy S26. Do đó, context có thông tin cần thiết nhưng answer đã thêm thông tin không có trong context.",product,
+Người dùng cần điện thoại chơi game ổn định giá rẻ thì chọn gì?,"Nếu bạn cần một điện thoại chơi game ổn định với giá rẻ, mình gợi ý TECNO POVA 6 Neo. Máy có chip MediaTek Helio G99 Ultimate mạnh mẽ, RAM 8GB (có thể mở rộng lên 16GB) giúp chơi game mượt mà. Pin 7000 mAh cho thời gian sử dụng lâu, sạc nhanh 45W chỉ mất 50 phút để đầy. Giá của TECNO POVA 6 Neo là 3,890,000 VND, rất hợp lý cho một gaming phone.","[SẢN PHẨM]
+Tên: realme GT Neo6 SE 5G
+Hãng: realme
+
+[THÔNG SỐ]
+- Chip: Snapdragon 7+ Gen 3
+- Pin: 5500 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 256GB:
+  + Màu sắc: Đen (6,990,000 VND, tồn kho 10)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 6,990,000 VND
+- Cao nhất: 6,990,000 VND
+
+[MÔ TẢ]
+realme GT Neo6 SE 5G nổi bật màn LTPO AMOLED 6.78 inch 1.5K 6000 nits sáng nhất tầm giá, tần số 1-120Hz tiết kiệm pin. Chip Snapdragon 7+ Gen 3 siêu mạnh RAM 12GB LPDDR5X chơi game max frame không nóng. Camera Sony IMX882 50MP OIS chụp đêm...",10.0,10.0,10.0,10.0,"1. 'TECNO POVA 6 Neo có chip MediaTek Helio G99 Ultimate mạnh mẽ' - Đúng, có trong context. 2. 'RAM 8GB (có thể mở rộng lên 16GB)' - Đúng, có trong context. 3. 'Pin 7000 mAh cho thời gian sử dụng lâu' - Đúng, có trong context. 4. 'Sạc nhanh 45W chỉ mất 50 phút để đầy' - Đúng, có trong context. 5. 'Giá của TECNO POVA 6 Neo là 3,890,000 VND' - Đúng, có trong context.","Câu hỏi yêu cầu tư vấn điện thoại chơi game ổn định giá rẻ. Answer đã gợi ý TECNO POVA 6 Neo với các thông số phù hợp cho chơi game và giá rẻ, đáp ứng đúng yêu cầu của câu hỏi.","Context chứa đầy đủ thông tin về TECNO POVA 6 Neo, bao gồm thông số kỹ thuật, giá cả và các đặc điểm nổi bật, phù hợp để trả lời câu hỏi.",product,
+Người dùng cần điện thoại 5G giá rẻ thì chọn gì?,"Nếu bạn đang tìm kiếm một chiếc điện thoại 5G giá rẻ, mình gợi ý bạn nên xem xét **Samsung Galaxy A06 5G**. Máy có giá chỉ **3,090,000 VND**, sở hữu màn hình Super AMOLED 6.7 inch 90Hz, chip Exynos 1330 5G, và pin 5000mAh cho thời gian sử dụng cả ngày dài. Đây là lựa chọn phù hợp cho học sinh, sinh viên và người dùng cơ bản cần một smartphone 5G với mức giá hợp lý.","[SẢN PHẨM]
+Tên: realme GT Neo6 SE 5G
+Hãng: realme
+
+[THÔNG SỐ]
+- Chip: Snapdragon 7+ Gen 3
+- Pin: 5500 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 256GB:
+  + Màu sắc: Đen (6,990,000 VND, tồn kho 10)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 6,990,000 VND
+- Cao nhất: 6,990,000 VND
+
+[MÔ TẢ]
+realme GT Neo6 SE 5G nổi bật màn LTPO AMOLED 6.78 inch 1.5K 6000 nits sáng nhất tầm giá, tần số 1-120Hz tiết kiệm pin. Chip Snapdragon 7+ Gen 3 siêu mạnh RAM 12GB LPDDR5X chơi game max frame không nóng. Camera Sony IMX882 50MP OIS chụp đêm...",0.0,0.0,7.0,2.33,"Thông tin về Samsung Galaxy A06 5G không có trong context. Giá 3,090,000 VND, màn hình Super AMOLED 6.7 inch 90Hz, chip Exynos 1330 5G, và pin 5000mAh đều không được đề cập trong context. Đây là thông tin bịa đặt.",Câu hỏi yêu cầu tư vấn điện thoại 5G giá rẻ. Answer không trả lời đúng câu hỏi vì đề cập đến một sản phẩm không có trong context và không có thông tin chính xác.,"Context chứa thông tin về các sản phẩm 5G giá rẻ như realme GT Neo6 SE 5G, Samsung Galaxy A35 5G, và Samsung Galaxy A36 5G. Tuy nhiên, không có thông tin về Samsung Galaxy A06 5G.",product,
+Người dùng cần điện thoại chụp ảnh 200MP thì chọn gì?,"Người dùng cần điện thoại chụp ảnh 200MP có thể chọn Samsung Galaxy S26 Ultra. Máy sở hữu hệ thống camera ""quái vật"" với cảm biến chính 200MP kết hợp ống kính tele 50MP hỗ trợ zoom quang học 5x, mang lại khả năng nhiếp ảnh di động không đối thủ.","[SẢN PHẨM]
+Tên: iPhone 16 Pro Max
+Hãng: Apple
+
+[THÔNG SỐ]
+- Chip: Apple A18 Pro
+- Pin: 4676 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 256GB:
+  + Màu sắc: Tím (30,790,000 VND, tồn kho 9)
+  + Màu sắc: Trắng (30,790,000 VND, tồn kho 5)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 30,790,000 VND
+- Cao nhất: 30,790,000 VND
+
+[MÔ TẢ]
+iPhone 16 Pro Max là phiên bản cao cấp nhất series iPhone 16, mang đến nâng cấp toàn diện về màn hình lớn, camera chuyên nghiệp, hiệu năng mạnh mẽ và thời lượng pin ấn tượng. Máy sở hữu thiết kế cao c...",2.0,5.0,4.0,3.67,"Thông tin về Samsung Galaxy S26 Ultra có camera chính 200MP không có trong context. Context không cung cấp thông tin chi tiết về hệ thống camera của Samsung Galaxy S26 Ultra, chỉ dừng lại ở thông tin về chip và pin. Do đó, thông tin này có thể bị coi là bịa đặt hoặc suy diễn không có căn cứ từ context.","Câu hỏi yêu cầu tư vấn điện thoại có camera 200MP. Answer đã cố gắng trả lời đúng câu hỏi bằng cách đề xuất Samsung Galaxy S26 Ultra, nhưng thông tin về camera 200MP không được xác nhận trong context, dẫn đến câu trả lời không hoàn toàn chính xác.",Context không chứa thông tin về camera 200MP của Samsung Galaxy S26 Ultra. Context chỉ cung cấp thông tin về các sản phẩm khác và thông số kỹ thuật không liên quan đến yêu cầu của câu hỏi.,product,
+Người dùng cần điện thoại chụp zoom xa tốt nhất thì chọn gì?,"Nếu bạn cần một chiếc điện thoại chụp zoom xa tốt nhất, mình khuyên bạn nên chọn **Xiaomi 17 Ultra**. Máy sở hữu camera Leica 1 inch với khả năng zoom lên đến 120x, mang lại chất lượng hình ảnh tuyệt vời khi chụp xa. Đây là lựa chọn hoàn hảo cho những ai yêu thích nhiếp ảnh và cần zoom mạnh mẽ.","[SẢN PHẨM]
+Tên: Xiaomi 14T
+Hãng: Xiaomi
+
+[THÔNG SỐ]
+- Chip: Dimensity 9300+
+- Pin: 5000 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 256GB:
+  + Màu sắc: Đen (11,950,000 VND, tồn kho 6)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 11,950,000 VND
+- Cao nhất: 11,950,000 VND
+
+[MÔ TẢ]
+Xiaomi 14T là flagship camera với bộ ba Leica Authentic Look: cảm biến Light Fusion 900 50MP (OIS) + tele APO 50MP zoom quang 3.2x + góc siêu rộng 12MP f/2.2, Master Portrait sắc nét. Màn hình CrystalRes AMOLED 6.67 inch 144Hz độ sáng 4000 nits, Dolby...",2.0,3.0,4.0,3.0,"- Xiaomi 17 Ultra có được nhắc đến trong context nhưng không có thông tin về khả năng zoom 120x. Do đó, thông tin này là bịa.
+- Không có thông tin nào trong context về camera Leica 1 inch của Xiaomi 17 Ultra. Thông tin này cũng là bịa.
+- Không có thông tin nào trong context về chất lượng hình ảnh tuyệt vời khi chụp xa của Xiaomi 17 Ultra. Đây là suy diễn không có căn cứ.","Câu hỏi yêu cầu tư vấn điện thoại có khả năng chụp zoom xa tốt nhất. Answer đã đưa ra một lựa chọn là Xiaomi 17 Ultra, nhưng không có thông tin trong context để hỗ trợ cho lựa chọn này. Do đó, answer không trả lời đúng câu hỏi.","Context có chứa thông tin về các sản phẩm điện thoại, nhưng không có thông tin cụ thể về khả năng zoom xa của Xiaomi 17 Ultra. Do đó, context không đủ để trả lời câu hỏi.",product,
+Người dùng cần iPhone giá rẻ nhất thì chọn gì?,"Người dùng cần iPhone giá rẻ nhất có thể chọn iPhone 13 phiên bản 128GB với màu Đen, giá 11,990,000 VND. Đây là lựa chọn hợp lý với hiệu năng tốt và thiết kế đẹp mắt.","[SẢN PHẨM]
+Tên: iPhone 13
+Hãng: Apple
+
+[THÔNG SỐ]
+- Chip: Apple A15 Bionic
+- Pin: 3227 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 128GB:
+  + Màu sắc: Đen (11,990,000 VND, tồn kho 25)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 11,990,000 VND
+- Cao nhất: 11,990,000 VND
+
+[MÔ TẢ]
+iPhone 13 tiếp tục là một trong những lựa chọn ""ngon - bổ - rẻ"" nhất của Apple nhờ sự cân bằng tuyệt vời giữa thiết kế thời thượng và hiệu năng bền bỉ. Máy giữ nguyên ngôn ngữ thiết kế vuông vức từ khung nhôm cao cấp kết hợp mặt lưng kính bóng bẩy, đi...",8.0,9.0,10.0,9.0,"Thông tin trong answer: 'iPhone 13 phiên bản 128GB với màu Đen, giá 11,990,000 VND' là đúng theo context. 'Đây là lựa chọn hợp lý với hiệu năng tốt và thiết kế đẹp mắt' là một đánh giá chủ quan, không có trong context.","Câu hỏi yêu cầu tư vấn iPhone giá rẻ nhất. Answer đã trả lời đúng câu hỏi bằng cách chỉ ra iPhone 13 là lựa chọn rẻ nhất. Tuy nhiên, phần đánh giá 'hiệu năng tốt và thiết kế đẹp mắt' là thừa so với yêu cầu của câu hỏi.","Context chứa đầy đủ thông tin về giá cả và các phiên bản iPhone, đủ để trả lời câu hỏi về iPhone giá rẻ nhất.",product,
+Người dùng cần iPhone pin trâu nhất thì chọn gì?,"Nếu bạn cần một chiếc iPhone với pin trâu nhất, bạn nên chọn iPhone 17 Pro Max. Máy sở hữu pin dung lượng 5088 mAh, cho phép phát video lên tới 37 giờ, rất phù hợp cho những ai cần sử dụng lâu dài mà không lo hết pin.","[SẢN PHẨM]
+Tên: iPhone 16 Pro Max
+Hãng: Apple
+
+[THÔNG SỐ]
+- Chip: Apple A18 Pro
+- Pin: 4676 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 256GB:
+  + Màu sắc: Tím (30,790,000 VND, tồn kho 9)
+  + Màu sắc: Trắng (30,790,000 VND, tồn kho 5)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 30,790,000 VND
+- Cao nhất: 30,790,000 VND
+
+[MÔ TẢ]
+iPhone 16 Pro Max là phiên bản cao cấp nhất series iPhone 16, mang đến nâng cấp toàn diện về màn hình lớn, camera chuyên nghiệp, hiệu năng mạnh mẽ và thời lượng pin ấn tượng. Máy sở hữu thiết kế cao c...",0.0,0.0,7.0,2.33,Thông tin về iPhone 17 Pro Max và pin dung lượng 5088 mAh không có trong context. Context chỉ đề cập đến iPhone 16 Pro Max với pin 4676 mAh và iPhone 17 Pro với pin 4252 mAh. Thông tin về thời lượng phát video 37 giờ cũng không có trong context.,Câu hỏi yêu cầu tư vấn về iPhone có pin trâu nhất. Answer không trả lời đúng vì đề cập đến một model không có trong context và thông tin về dung lượng pin không chính xác.,"Context có chứa thông tin về các model iPhone 16 Pro Max và iPhone 17 Pro, cùng với dung lượng pin của chúng. Tuy nhiên, không có thông tin về iPhone 17 Pro Max hay pin 5088 mAh.",product,
+Người dùng cần điện thoại màn hình lớn nhất iPhone thì chọn gì?,"Người dùng cần điện thoại màn hình lớn nhất trong dòng iPhone thì nên chọn **iPhone 16 Pro Max**. Máy sở hữu màn hình Super Retina XDR 6.9 inch, mang lại trải nghiệm xem cực kỳ sắc nét và mượt mà.","[SẢN PHẨM]
+Tên: iPhone 16 Pro Max
+Hãng: Apple
+
+[THÔNG SỐ]
+- Chip: Apple A18 Pro
+- Pin: 4676 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 256GB:
+  + Màu sắc: Tím (30,790,000 VND, tồn kho 9)
+  + Màu sắc: Trắng (30,790,000 VND, tồn kho 5)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 30,790,000 VND
+- Cao nhất: 30,790,000 VND
+
+[MÔ TẢ]
+iPhone 16 Pro Max là phiên bản cao cấp nhất series iPhone 16, mang đến nâng cấp toàn diện về màn hình lớn, camera chuyên nghiệp, hiệu năng mạnh mẽ và thời lượng pin ấn tượng. Máy sở hữu thiết kế cao c...",10.0,10.0,10.0,10.0,"Thông tin trong answer: 'Người dùng cần điện thoại màn hình lớn nhất trong dòng iPhone thì nên chọn iPhone 16 Pro Max.' và 'Máy sở hữu màn hình Super Retina XDR 6.9 inch, mang lại trải nghiệm xem cực kỳ sắc nét và mượt mà.' đều có trong context. Context xác nhận iPhone 16 Pro Max có màn hình 6.9 inch và là phiên bản cao cấp nhất với màn hình lớn.",Câu hỏi yêu cầu tư vấn về điện thoại iPhone có màn hình lớn nhất. Answer đã trả lời đúng câu hỏi bằng cách chỉ ra iPhone 16 Pro Max là lựa chọn phù hợp với màn hình 6.9 inch. Không có thông tin thừa hoặc thiếu.,"Context chứa đầy đủ thông tin cần thiết để trả lời câu hỏi, bao gồm thông tin về kích thước màn hình của iPhone 16 Pro Max và các phiên bản khác.",product,
+Người dùng cần Samsung flagship mạnh nhất thì chọn gì?,"Người dùng cần Samsung flagship mạnh nhất thì nên chọn **Samsung Galaxy S26 Ultra**. Máy được trang bị chip **Snapdragon 8 Elite Gen 5**, viên pin **5000 mAh** và hệ thống camera ""quái vật"" 200MP, cùng nhiều tính năng cao cấp khác. Phiên bản bộ nhớ 256GB có hai màu sắc là Đen và Bạc, với giá 30,490,000 VND. Đây thực sự là lựa chọn hàng đầu cho những ai tìm kiếm sức mạnh và hiệu năng tối ưu trong một chiếc smartphone flagship.","[SẢN PHẨM]
+Tên: Samsung Galaxy S26 Ultra
+Hãng: Samsung
+
+[THÔNG SỐ]
+- Chip: Snapdragon 8 Elite Gen 5
+- Pin: 5000 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 256GB:
+  + Màu sắc: Đen (30,490,000 VND, tồn kho 7)
+  + Màu sắc: Bạc (30,490,000 VND, tồn kho 4)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 30,490,000 VND
+- Cao nhất: 30,490,000 VND
+
+[MÔ TẢ]
+Samsung Galaxy S26 Ultra tái định nghĩa tiêu chuẩn flagship với sức mạnh tuyệt đối từ vi xử lý Snapdragon 8 Elite Gen 5 chuyên biệt cho Galaxy. Máy sở hữu màn hình 6.9 inch cực đại v...",10.0,10.0,10.0,10.0,"1. 'Samsung Galaxy S26 Ultra' là flagship mạnh nhất: Đúng, context mô tả S26 Ultra là tiêu chuẩn flagship với sức mạnh tuyệt đối. 2. Chip 'Snapdragon 8 Elite Gen 5': Đúng, có trong context. 3. Pin '5000 mAh': Đúng, có trong context. 4. Hệ thống camera 'quái vật' 200MP: Đúng, có trong context. 5. Phiên bản bộ nhớ 256GB có hai màu sắc là Đen và Bạc: Đúng, có trong context. 6. Giá 30,490,000 VND: Đúng, có trong context. 7. 'Đây thực sự là lựa chọn hàng đầu cho những ai tìm kiếm sức mạnh và hiệu năng tối ưu trong một chiếc smartphone flagship': Đúng, suy diễn hợp lý từ context.","Câu hỏi yêu cầu tư vấn Samsung flagship mạnh nhất. Answer đã trả lời chính xác bằng cách đề xuất Samsung Galaxy S26 Ultra, nêu rõ các thông số và tính năng nổi bật, không thừa không thiếu.","Context chứa đầy đủ thông tin về các sản phẩm Samsung flagship, đặc biệt là Samsung Galaxy S26 Ultra, bao gồm thông số kỹ thuật, giá cả và các tính năng nổi bật, đủ để trả lời câu hỏi.",product,
+Người dùng cần điện thoại gập thời trang thì chọn gì?,"Nếu bạn đang tìm kiếm một chiếc điện thoại gập thời trang, mình gợi ý bạn nên chọn **Samsung Galaxy Z Flip7 5G**. Máy có thiết kế hiện đại với màn hình phụ FlexWindow 4.1 inch và màn hình chính 6.9 inch, cùng với độ sáng lên đến 2600 nits. Ngoài ra, máy còn được trang bị chip Exynos 2500 mạnh mẽ và viên pin 4300 mAh, đảm bảo bạn có trải nghiệm sử dụng tốt trong suốt cả ngày. Giá của sản phẩm là 23,690,000 VND.","[SẢN PHẨM]
+Tên: Samsung Galaxy S24 FE 5G
+Hãng: Samsung
+
+[THÔNG SỐ]
+- Chip: Exynos 2400e
+- Pin: 4700 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 256GB:
+  + Màu sắc: Đen (11,990,000 VND, tồn kho 8)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 11,990,000 VND
+- Cao nhất: 11,990,000 VND
+
+[MÔ TẢ]
+Samsung Galaxy S24 FE kế thừa thiết kế vuông vức cao cấp dòng Galaxy S với khung kim loại chắc chắn, mặt lưng nhám chống bám vân tay, kính Gorilla Glass Victus 2. Màn hình Dynamic AMOLED 2X 6.7 inch FHD+ 120Hz sáng 1900 nits hỗ trợ HDR10+,...",0.0,2.0,1.0,1.0,"The answer mentions 'Samsung Galaxy Z Flip7 5G', which is not present in the context. The context only provides information about Samsung Galaxy S24 FE 5G, realme C75, and iPhone 16. The specifications such as 'màn hình phụ FlexWindow 4.1 inch', 'màn hình chính 6.9 inch', 'độ sáng lên đến 2600 nits', 'chip Exynos 2500', 'pin 4300 mAh', and the price '23,690,000 VND' are all fabricated and not found in the context.","The question asks for a recommendation for a stylish foldable phone. The answer provides a suggestion for a foldable phone, but it is not based on the context provided. Therefore, while it attempts to answer the question, it does so with fabricated information.","The context does not contain any information about foldable phones or the Samsung Galaxy Z Flip7 5G. It only includes details about Samsung Galaxy S24 FE 5G, realme C75, and iPhone 16, none of which are foldable phones.",product,
+Người dùng cần điện thoại Xiaomi pin lớn và sạc nhanh thì chọn gì?,"Nếu bạn cần một chiếc điện thoại Xiaomi với pin lớn và sạc nhanh, mình gợi ý bạn nên xem xét **Xiaomi Redmi Note 15 Pro 5G**. Máy có viên pin dung lượng 6.580mAh và hỗ trợ sạc nhanh 90W, giúp bạn luôn sẵn sàng sử dụng cả ngày dài mà không lo hết pin. Ngoài ra, nếu bạn muốn một lựa chọn khác, **Xiaomi Redmi Note 15** cũng là một lựa chọn tốt với pin 6.000mAh và màn hình AMOLED lớn.","[SẢN PHẨM]
+Tên: Xiaomi Redmi 14C
+Hãng: Xiaomi
+
+[THÔNG SỐ]
+- Chip: MediaTek Helio G81 Ultra
+- Pin: 5160 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 128GB:
+  + Màu sắc: Đen (3,290,000 VND, tồn kho 25)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 3,290,000 VND
+- Cao nhất: 3,290,000 VND
+
+[MÔ TẢ]
+Xiaomi Redmi 14C nổi bật với màn hình LCD 6.88 inch độ sáng 450 nits, tần số quét 120Hz cho trải nghiệm giải trí mượt mà, xem phim sắc nét. Chip Helio G81 Ultra hiệu năng mạnh mẽ xử lý đa nhiệm, chơi game nhẹ Liên Quân ổn định không giật ...",2.0,5.0,7.0,4.67,"1. Xiaomi Redmi Note 15 Pro 5G: Context không cung cấp thông tin về sạc nhanh 90W. 2. Pin 6.580mAh của Xiaomi Redmi Note 15 Pro 5G là đúng theo context. 3. Xiaomi Redmi Note 15: Context không có thông tin về model này, nên thông tin về pin 6.000mAh và màn hình AMOLED là bịa.","Câu hỏi yêu cầu tư vấn điện thoại Xiaomi có pin lớn và sạc nhanh. Answer đã đề xuất Xiaomi Redmi Note 15 Pro 5G với pin lớn và sạc nhanh, nhưng thông tin về sạc nhanh không có trong context. Ngoài ra, đề xuất Xiaomi Redmi Note 15 là không phù hợp vì không có trong context.","Context có chứa thông tin về các mẫu điện thoại Xiaomi với thông số pin và sạc nhanh, nhưng không có thông tin về Xiaomi Redmi Note 15 và sạc nhanh 90W cho Xiaomi Redmi Note 15 Pro 5G.",product,
+Người dùng cần điện thoại iPhone để quay video chuyên nghiệp thì chọn gì?,"Nếu bạn cần một chiếc iPhone để quay video chuyên nghiệp, mình gợi ý bạn nên chọn **iPhone 17 Pro Max**. Máy sở hữu hệ thống camera 48MP Pro Fusion với khả năng quay video 4K 120fps Dolby Vision, mang lại chất lượng hình ảnh sắc nét và chuyên nghiệp. Thêm vào đó, pin dung lượng lớn 5088 mAh cho phép bạn quay video liên tục lâu hơn. Thiết kế cao cấp và hiệu năng mạnh mẽ từ chip A19 Pro cũng giúp bạn có trải nghiệm tốt nhất trong việc sáng tạo nội dung.","[SẢN PHẨM]
+Tên: iPhone 17 Pro
+Hãng: Apple
+
+[THÔNG SỐ]
+- Chip: Apple A19 Pro
+- Pin: 4252 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 256GB:
+  + Màu sắc: Cam (33,990,000 VND, tồn kho 8)
+  + Màu sắc: Xanh (33,990,000 VND, tồn kho 5)
+  + Màu sắc: Bạc (33,990,000 VND, tồn kho 5)
+- Bộ nhớ: 512GB:
+  + Màu sắc: Cam (39,990,000 VND, tồn kho 5)
+  + Màu sắc: Xanh (39,990,000 VND, tồn kho 10)
+  + Màu sắc: Bạc (39,990,000 VND, tồn kho 6)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 33,990,000 VND
+- Cao nhất: 39,990,000 VND
+
+[MÔ TẢ]
+iPhone...",2.0,7.0,9.0,6.0,"1. 'iPhone 17 Pro Max': Context chỉ đề cập đến iPhone 17 Pro, không có thông tin về iPhone 17 Pro Max. Đây là thông tin bịa. 2. 'Hệ thống camera 48MP Pro Fusion với khả năng quay video 4K 120fps Dolby Vision': Thông tin này đúng theo context. 3. 'Pin dung lượng lớn 5088 mAh': Context ghi pin là 4252 mAh, thông tin này sai. 4. 'Thiết kế cao cấp và hiệu năng mạnh mẽ từ chip A19 Pro': Thông tin này đúng theo context.","Câu hỏi yêu cầu tư vấn iPhone để quay video chuyên nghiệp. Answer đã trả lời đúng trọng tâm bằng cách đề xuất iPhone 17 Pro (dù nhầm thành Pro Max) với các tính năng quay video chuyên nghiệp. Tuy nhiên, có thông tin sai về model và dung lượng pin.","Context chứa đầy đủ thông tin về iPhone 17 Pro, bao gồm thông số camera, chip, và pin, phù hợp để trả lời câu hỏi về quay video chuyên nghiệp. Tuy nhiên, không có thông tin về iPhone 17 Pro Max.",product,
+iPhone 17 Pro Max có màu vàng không?,"Mình chưa có thông tin chi tiết về điều này. Tuy nhiên, iPhone 17 Pro Max hiện có các màu sắc Cam, Xanh và Bạc. Nếu bạn cần thêm thông tin nào khác, hãy cho mình biết nhé!","[SẢN PHẨM]
+Tên: iPhone 17 Pro Max
+Hãng: Apple
+
+[THÔNG SỐ]
+- Chip: Apple A19 Pro
+- Pin: 5088 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 256GB:
+  + Màu sắc: Cam (36,790,000 VND, tồn kho 10)
+  + Màu sắc: Xanh (36,790,000 VND, tồn kho 6)
+  + Màu sắc: Bạc (36,790,000 VND, tồn kho 5)
+- Bộ nhớ: 512GB:
+  + Màu sắc: Cam (42,790,000 VND, tồn kho 5)
+  + Màu sắc: Xanh (42,790,000 VND, tồn kho 10)
+  + Màu sắc: Bạc (42,790,000 VND, tồn kho 6)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 36,790,000 VND
+- Cao nhất: 42,790,000 VND
+
+[MÔ TẢ]
+i...",10.0,10.0,10.0,10.0,"Thông tin trong answer: 'iPhone 17 Pro Max hiện có các màu sắc Cam, Xanh và Bạc.' Đối chiếu với context: Đúng, context liệt kê iPhone 17 Pro Max có các màu Cam, Xanh và Bạc. Answer không có thông tin sai hoặc bịa.","Câu hỏi hỏi về màu sắc của iPhone 17 Pro Max, cụ thể là có màu vàng không. Answer trả lời đúng trọng tâm câu hỏi bằng cách liệt kê các màu hiện có (Cam, Xanh, Bạc) và không có màu vàng. Answer không thừa hoặc thiếu thông tin.","Context có chứa thông tin về màu sắc của iPhone 17 Pro Max, cụ thể là các màu Cam, Xanh và Bạc. Không có thông tin thừa hoặc thiếu liên quan đến câu hỏi.",product,
+iPhone 17 Pro có bản 1TB không?,Mình chưa có thông tin chi tiết về điều này.,"[SẢN PHẨM]
+Tên: iPhone 17 Pro
+Hãng: Apple
+
+[THÔNG SỐ]
+- Chip: Apple A19 Pro
+- Pin: 4252 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 256GB:
+  + Màu sắc: Cam (33,990,000 VND, tồn kho 8)
+  + Màu sắc: Xanh (33,990,000 VND, tồn kho 5)
+  + Màu sắc: Bạc (33,990,000 VND, tồn kho 5)
+- Bộ nhớ: 512GB:
+  + Màu sắc: Cam (39,990,000 VND, tồn kho 5)
+  + Màu sắc: Xanh (39,990,000 VND, tồn kho 10)
+  + Màu sắc: Bạc (39,990,000 VND, tồn kho 6)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 33,990,000 VND
+- Cao nhất: 39,990,000 VND
+
+[MÔ TẢ]
+iPhone...",10.0,5.0,4.0,6.33,"Answer không cung cấp thông tin nào từ context, chỉ nói rằng không có thông tin chi tiết về điều này. Điều này là đúng vì context không đề cập đến phiên bản 1TB của iPhone 17 Pro.","Câu hỏi hỏi về việc iPhone 17 Pro có phiên bản 1TB hay không. Answer không trả lời trực tiếp câu hỏi mà chỉ nói rằng không có thông tin chi tiết, điều này có thể được coi là một cách trả lời gián tiếp nhưng không đầy đủ.","Context không chứa thông tin về phiên bản 1TB của iPhone 17 Pro, chỉ có thông tin về các phiên bản 256GB và 512GB. Do đó, context không có thông tin cần thiết để trả lời câu hỏi.",product,
+Samsung Galaxy S26 Ultra có bản 1TB không?,Mình chưa có thông tin chi tiết về điều này. Samsung Galaxy S26 Ultra hiện có phiên bản bộ nhớ 256GB.,"[SẢN PHẨM]
+Tên: Samsung Galaxy S26 Ultra
+Hãng: Samsung
+
+[THÔNG SỐ]
+- Chip: Snapdragon 8 Elite Gen 5
+- Pin: 5000 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 256GB:
+  + Màu sắc: Đen (30,490,000 VND, tồn kho 7)
+  + Màu sắc: Bạc (30,490,000 VND, tồn kho 4)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 30,490,000 VND
+- Cao nhất: 30,490,000 VND
+
+[MÔ TẢ]
+Samsung Galaxy S26 Ultra tái định nghĩa tiêu chuẩn flagship với sức mạnh tuyệt đối từ vi xử lý Snapdragon 8 Elite Gen 5 chuyên biệt cho Galaxy. Máy sở hữu màn hình 6.9 inch cực đại v...",5.0,3.0,7.0,5.0,"Answer nói rằng Samsung Galaxy S26 Ultra hiện có phiên bản bộ nhớ 256GB, điều này đúng với context. Tuy nhiên, answer nói 'Mình chưa có thông tin chi tiết về điều này' là không chính xác vì context đã cung cấp thông tin về các phiên bản bộ nhớ có sẵn.","Câu hỏi hỏi về việc Samsung Galaxy S26 Ultra có bản 1TB không. Answer không trả lời trực tiếp câu hỏi này mà chỉ nói về phiên bản 256GB, do đó không trả lời đúng câu hỏi.","Context có chứa thông tin về các phiên bản bộ nhớ của Samsung Galaxy S26 Ultra, nhưng không có thông tin về phiên bản 1TB. Do đó, context không hoàn toàn đủ để trả lời câu hỏi.",product,
+Xiaomi 17 Ultra có màu đỏ không?,"Xiaomi 17 Ultra không có màu đỏ. Máy chỉ có hai màu sắc là Đen và Trắng. Nếu bạn cần thêm thông tin gì khác, hãy cho mình biết nhé!","[SẢN PHẨM]
+Tên: Xiaomi 17 Ultra
+Hãng: Xiaomi
+
+[THÔNG SỐ]
+- Chip: Snapdragon 8 Elite Gen 5
+- Pin: 6000 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 512GB:
+  + Màu sắc: Đen (31,990,000 VND, tồn kho 5)
+  + Màu sắc: Trắng (31,990,000 VND, tồn kho 3)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 31,990,000 VND
+- Cao nhất: 31,990,000 VND
+
+[MÔ TẢ]
+Xiaomi 17 Ultra (2026) đỉnh cao với camera Leica 1 inch, zoom 120x, màn HyperRGB 2K+, Snapdragon 8 Elite, sạc 90W và khung Titan.
+[SẢN PHẨM]
+Tên: Xiaomi 15 Ultra
+Hãng: Xiaomi
+
+[THÔNG SỐ]
+- C...",10.0,10.0,10.0,10.0,"Thông tin 'Xiaomi 17 Ultra không có màu đỏ' là đúng theo context, vì chỉ có hai màu sắc là Đen và Trắng. Thông tin 'Máy chỉ có hai màu sắc là Đen và Trắng' cũng đúng theo context.","Câu hỏi hỏi về màu sắc của Xiaomi 17 Ultra, cụ thể là có màu đỏ không. Answer trả lời đúng câu hỏi, không thừa không thiếu.","Context có chứa thông tin về màu sắc của Xiaomi 17 Ultra, cụ thể là Đen và Trắng, đủ để trả lời câu hỏi.",product,
+iPhone 16 Pro Max có chip A19 không?,"iPhone 16 Pro Max sử dụng chip Apple A18 Pro, không phải chip A19. Nếu bạn cần thêm thông tin nào khác, hãy cho mình biết nhé!","[SẢN PHẨM]
+Tên: iPhone 16 Pro
+Hãng: Apple
+
+[THÔNG SỐ]
+- Chip: Apple A18 Pro
+- Pin: 3582 mAh
+
+[PHIÊN BẢN]
+- Bộ nhớ: 128GB:
+  + Màu sắc: Đen (24,990,000 VND, tồn kho 10)
+  + Màu sắc: Xanh (24,990,000 VND, tồn kho 6)
+
+
+[GIÁ THAM KHẢO]
+- Thấp nhất: 24,990,000 VND
+- Cao nhất: 24,990,000 VND
+
+[MÔ TẢ]
+iPhone 16 Pro là phiên bản Pro nhỏ gọn nhưng được nâng cấp toàn diện trong series iPhone 16 của Apple, mang đến sự cân bằng hoàn hảo giữa kích thước dễ cầm nắm, màn hình lớn hơn, camera chuyên nghiệp, hiệ...",10.0,10.0,10.0,10.0,"Thông tin trong answer: 'iPhone 16 Pro Max sử dụng chip Apple A18 Pro, không phải chip A19.' Đối chiếu với context: iPhone 16 Pro Max có chip Apple A18 Pro. Thông tin này đúng và có trong context.","Câu hỏi hỏi về việc iPhone 16 Pro Max có chip A19 không. Answer trả lời đúng trọng tâm câu hỏi, xác nhận rằng iPhone 16 Pro Max không sử dụng chip A19 mà là chip A18 Pro. Không thừa không thiếu.","Context có chứa thông tin về chip của iPhone 16 Pro Max, cụ thể là chip Apple A18 Pro. Không có thông tin thừa hoặc thiếu liên quan đến câu hỏi.",product,
+Thời gian bảo hành sản phẩm mới là bao lâu?,Mình chưa có thông tin chi tiết về điều này.,"[CHÍNH SÁCH]
+Tiêu đề: Thời gian tiếp nhận bảo hành
+
+Nội dung:
+Khách có thể mang sản phẩm đến cửa hàng Hoàng Hà theo giờ làm việc hoặc đến trung tâm bảo hành hãng theo thời gian làm việc của hãng
+[CHÍNH SÁCH]
+Tiêu đề: Thời gian đổi sản phẩm
+
+Nội dung:
+Trong 15 hoặc 30 ngày đầu tùy sản phẩm khách hàng được đổi mới miễn phí nếu lỗi do nhà sản xuất thời gian xử lý khoảng 30 phút tại cửa hàng sau thời gian này khách có thể chọn bảo hành chính hãng đổi máy tương đương hoặc tham gia chương trình thu cũ...",10.0,10.0,7.0,9.0,Answer nói 'Mình chưa có thông tin chi tiết về điều này.' là đúng vì context không cung cấp thông tin cụ thể về thời gian bảo hành sản phẩm mới.,"Câu hỏi hỏi về thời gian bảo hành sản phẩm mới. Answer nói không có thông tin chi tiết, điều này đúng vì context không cung cấp thông tin về thời gian bảo hành cụ thể.","Context không chứa thông tin cụ thể về thời gian bảo hành sản phẩm mới, chỉ có thông tin về thời gian đổi sản phẩm và nguyên tắc bảo hành.",policy,
+Máy cũ được bảo hành trong bao lâu?,"Máy cũ được bảo hành trong 6 tháng hoặc theo quy định của hãng. Nếu bạn cần thêm thông tin, hãy cho mình biết nhé!","[CHÍNH SÁCH]
+Tiêu đề: Nguyên tắc bảo hành
+
+Nội dung:
+Sản phẩm được bảo hành miễn phí nếu còn thời hạn bảo hành tính từ ngày mua khi đổi máy thời hạn bảo hành còn lại được giữ nguyên bảo hành chỉ áp dụng với sản phẩm do Hoàng Hà cung cấp lỗi do nhà sản xuất trong điều kiện sử dụng bình thường
+[CHÍNH SÁCH]
+Tiêu đề: Chính sách bảo hành sản phẩm
+
+Nội dung:
+Tất cả sản phẩm đều là hàng chính hãng và được bảo hành theo quy định khách có thể bảo hành tại trung tâm hãng hoặc cửa hàng Hoàng Hà thời gian b...",10.0,10.0,10.0,10.0,Thông tin 'Máy cũ được bảo hành trong 6 tháng' có trong context: 'thời gian bảo hành máy mới 12 tháng máy cũ 6 tháng hoặc theo hãng'. Thông tin 'hoặc theo quy định của hãng' cũng có trong context. Cả hai thông tin đều đúng và có nguồn gốc từ context.,Câu hỏi hỏi về thời gian bảo hành của máy cũ. Answer đã trả lời đúng câu hỏi này bằng cách cung cấp thông tin về thời gian bảo hành là 6 tháng hoặc theo quy định của hãng. Không có thông tin thừa hoặc thiếu.,"Context chứa đầy đủ thông tin cần thiết để trả lời câu hỏi về thời gian bảo hành của máy cũ, bao gồm cả thời gian bảo hành cụ thể và khả năng bảo hành theo quy định của hãng.",policy,
+Bảo hành được áp dụng khi nào?,"Bảo hành được áp dụng khi sản phẩm còn thời hạn bảo hành tính từ ngày mua và lỗi do nhà sản xuất trong điều kiện sử dụng bình thường. Nếu bạn đổi máy, thời hạn bảo hành còn lại sẽ được giữ nguyên.","[CHÍNH SÁCH]
+Tiêu đề: Chính sách bảo hành chung
+
+Nội dung:
+Áp dụng từ ngày 29 tháng 09 năm 2025 Hoàng Hà Mobile chân thành cảm ơn quý khách hàng dưới đây là chi tiết chính sách bảo hành áp dụng với tất cả các sản phẩm Hoàng Hà Mobile luôn nỗ lực mang đến chất lượng dịch vụ tốt nhất
+[CHÍNH SÁCH]
+Tiêu đề: Thời gian tiếp nhận bảo hành
+
+Nội dung:
+Khách có thể mang sản phẩm đến cửa hàng Hoàng Hà theo giờ làm việc hoặc đến trung tâm bảo hành hãng theo thời gian làm việc của hãng
+[CHÍNH SÁCH]
+Tiêu đề: ...",10.0,10.0,10.0,10.0,"Thông tin 'Bảo hành được áp dụng khi sản phẩm còn thời hạn bảo hành tính từ ngày mua' là đúng theo context. Thông tin 'lỗi do nhà sản xuất trong điều kiện sử dụng bình thường' cũng đúng theo context. Thông tin 'Nếu bạn đổi máy, thời hạn bảo hành còn lại sẽ được giữ nguyên' cũng có trong context.","Câu hỏi hỏi về điều kiện áp dụng bảo hành. Answer đã trả lời đúng câu hỏi này bằng cách liệt kê các điều kiện cần thiết để bảo hành được áp dụng, không thừa không thiếu.","Context chứa đầy đủ thông tin về điều kiện áp dụng bảo hành, thời hạn bảo hành, và các nguyên tắc bảo hành. Không có thông tin thừa.",policy,
+Sản phẩm đổi mới có giữ thời gian bảo hành không?,"Sản phẩm đổi mới sẽ giữ nguyên thời gian bảo hành như sản phẩm ban đầu. Nếu bạn có thêm câu hỏi nào khác, hãy cho mình biết nhé!","[CHÍNH SÁCH]
+Tiêu đề: Thời gian đổi sản phẩm
+
+Nội dung:
+Trong 15 hoặc 30 ngày đầu tùy sản phẩm khách hàng được đổi mới miễn phí nếu lỗi do nhà sản xuất thời gian xử lý khoảng 30 phút tại cửa hàng sau thời gian này khách có thể chọn bảo hành chính hãng đổi máy tương đương hoặc tham gia chương trình thu cũ đổi mới
+[CHÍNH SÁCH]
+Tiêu đề: Thời gian tiếp nhận bảo hành
+
+Nội dung:
+Khách có thể mang sản phẩm đến cửa hàng Hoàng Hà theo giờ làm việc hoặc đến trung tâm bảo hành hãng theo thời gian làm việc ...",2.0,5.0,4.0,3.67,Thông tin 'Sản phẩm đổi mới sẽ giữ nguyên thời gian bảo hành như sản phẩm ban đầu' không có trong context. Context không đề cập đến việc thời gian bảo hành có được giữ nguyên khi đổi mới sản phẩm hay không.,"Câu hỏi hỏi về việc sản phẩm đổi mới có giữ thời gian bảo hành không. Answer trả lời trực tiếp câu hỏi nhưng thông tin không có trong context, do đó không thể xác nhận tính chính xác.",Context không chứa thông tin về việc thời gian bảo hành có được giữ nguyên khi đổi mới sản phẩm hay không. Context chỉ nói về thời gian đổi sản phẩm và chính sách bảo hành nhưng không đề cập đến việc giữ thời gian bảo hành.,policy,
+Trường hợp nào không được bảo hành?,"Trường hợp không được bảo hành bao gồm: hỏng do rơi vỡ, va đập, cháy nổ, sử dụng sai cách, ngấm nước, can thiệp phần cứng hoặc phần mềm, tự ý sửa chữa máy, mất số serial hoặc không xác định được nguồn gốc mua tại Hoàng Hà.","[CHÍNH SÁCH]
+Tiêu đề: Trường hợp không bảo hành
+
+Nội dung:
+Không bảo hành với các trường hợp hỏng do rơi vỡ va đập cháy nổ sử dụng sai cách ngấm nước can thiệp phần cứng hoặc phần mềm tự ý sửa chữa máy mất số serial hoặc không xác định được nguồn gốc mua tại Hoàng Hà
+[CHÍNH SÁCH]
+Tiêu đề: Nguyên tắc bảo hành
+
+Nội dung:
+Sản phẩm được bảo hành miễn phí nếu còn thời hạn bảo hành tính từ ngày mua khi đổi máy thời hạn bảo hành còn lại được giữ nguyên bảo hành chỉ áp dụng với sản phẩm do Hoàng Hà cung...",10.0,10.0,10.0,10.0,"Answer liệt kê các trường hợp không được bảo hành: hỏng do rơi vỡ, va đập, cháy nổ, sử dụng sai cách, ngấm nước, can thiệp phần cứng hoặc phần mềm, tự ý sửa chữa máy, mất số serial hoặc không xác định được nguồn gốc mua tại Hoàng Hà. Tất cả các thông tin này đều có trong context.",Câu hỏi yêu cầu liệt kê các trường hợp không được bảo hành. Answer đã trả lời đúng và đầy đủ các trường hợp này mà không thừa hoặc thiếu thông tin nào.,"Context chứa đầy đủ thông tin về các trường hợp không được bảo hành, không có thông tin thừa hoặc thiếu.",policy,
+Có bảo hành nếu máy bị vào nước không?,"Chào bạn! Rất tiếc, máy sẽ không được bảo hành nếu bị hỏng do ngấm nước, vì đây là trường hợp không được bảo hành theo chính sách của chúng tôi. Nếu bạn có thêm câu hỏi nào khác, hãy cho mình biết nhé!","[CHÍNH SÁCH]
+Tiêu đề: Nguyên tắc bảo hành
+
+Nội dung:
+Sản phẩm được bảo hành miễn phí nếu còn thời hạn bảo hành tính từ ngày mua khi đổi máy thời hạn bảo hành còn lại được giữ nguyên bảo hành chỉ áp dụng với sản phẩm do Hoàng Hà cung cấp lỗi do nhà sản xuất trong điều kiện sử dụng bình thường
+[CHÍNH SÁCH]
+Tiêu đề: Trường hợp không bảo hành
+
+Nội dung:
+Không bảo hành với các trường hợp hỏng do rơi vỡ va đập cháy nổ sử dụng sai cách ngấm nước can thiệp phần cứng hoặc phần mềm tự ý sửa chữa máy mất s...",10.0,10.0,10.0,10.0,"Thông tin trong answer: 'máy sẽ không được bảo hành nếu bị hỏng do ngấm nước' là đúng theo context, vì trong phần 'Trường hợp không bảo hành' có ghi rõ 'Không bảo hành với các trường hợp hỏng do... ngấm nước'. Answer không có thông tin sai hoặc bịa đặt.",Câu hỏi hỏi về việc bảo hành trong trường hợp máy bị vào nước. Answer đã trả lời đúng câu hỏi này bằng cách xác nhận rằng máy sẽ không được bảo hành nếu bị hỏng do ngấm nước. Answer không thừa hoặc thiếu thông tin.,"Context có chứa thông tin cần thiết để trả lời câu hỏi, cụ thể là phần 'Trường hợp không bảo hành' đã nêu rõ rằng ngấm nước không được bảo hành. Context không có thông tin thừa.",policy,
+Có bảo hành nếu tự sửa máy không?,"Chào bạn! Theo chính sách bảo hành của Hoàng Hà Mobile, sản phẩm sẽ không được bảo hành nếu có can thiệp phần cứng hoặc phần mềm tự ý sửa chữa. Vì vậy, nếu bạn tự sửa máy, sản phẩm của bạn sẽ không còn được bảo hành. Nếu cần thêm thông tin, bạn cứ hỏi nhé!","[CHÍNH SÁCH]
+Tiêu đề: Nguyên tắc bảo hành
+
+Nội dung:
+Sản phẩm được bảo hành miễn phí nếu còn thời hạn bảo hành tính từ ngày mua khi đổi máy thời hạn bảo hành còn lại được giữ nguyên bảo hành chỉ áp dụng với sản phẩm do Hoàng Hà cung cấp lỗi do nhà sản xuất trong điều kiện sử dụng bình thường
+[CHÍNH SÁCH]
+Tiêu đề: Trường hợp không bảo hành
+
+Nội dung:
+Không bảo hành với các trường hợp hỏng do rơi vỡ va đập cháy nổ sử dụng sai cách ngấm nước can thiệp phần cứng hoặc phần mềm tự ý sửa chữa máy mất s...",10.0,10.0,10.0,10.0,"Thông tin 'sản phẩm sẽ không được bảo hành nếu có can thiệp phần cứng hoặc phần mềm tự ý sửa chữa' là đúng theo context, cụ thể trong phần 'Trường hợp không bảo hành'. Answer không có thông tin sai hoặc bịa đặt.","Câu hỏi hỏi về việc có bảo hành nếu tự sửa máy không. Answer trả lời đúng trọng tâm câu hỏi, giải thích rõ ràng rằng tự sửa máy sẽ không được bảo hành. Không có thông tin thừa hoặc thiếu.","Context chứa đầy đủ thông tin cần thiết để trả lời câu hỏi, cụ thể là phần 'Trường hợp không bảo hành' nêu rõ việc tự sửa chữa sẽ không được bảo hành.",policy,
+Root hoặc jailbreak có được bảo hành không?,"Chào bạn! Theo chính sách bảo hành của Hoàng Hà, các trường hợp root, jailbreak hoặc cài phần mềm ngoài hệ thống sẽ không được bảo hành. Nếu bạn cần thêm thông tin gì khác, hãy cho mình biết nhé!","[CHÍNH SÁCH]
+Tiêu đề: Lưu ý bảo hành
+
+Nội dung:
+Khách cần sao lưu dữ liệu trước khi bảo hành Hoàng Hà không chịu trách nhiệm mất dữ liệu không chịu trách nhiệm với phụ kiện ngoài máy khách cần đăng xuất tài khoản trước khi bảo hành các trường hợp root jailbreak hoặc cài phần mềm ngoài hệ thống sẽ không được bảo hành
+[CHÍNH SÁCH]
+Tiêu đề: Trường hợp không bảo hành
+
+Nội dung:
+Không bảo hành với các trường hợp hỏng do rơi vỡ va đập cháy nổ sử dụng sai cách ngấm nước can thiệp phần cứng hoặc phần mề...",10.0,10.0,10.0,10.0,"Thông tin trong answer: 'các trường hợp root, jailbreak hoặc cài phần mềm ngoài hệ thống sẽ không được bảo hành' là đúng theo context, cụ thể là từ phần 'các trường hợp root jailbreak hoặc cài phần mềm ngoài hệ thống sẽ không được bảo hành'.","Câu hỏi hỏi về việc root hoặc jailbreak có được bảo hành không. Answer đã trả lời đúng câu hỏi này bằng cách khẳng định rằng các trường hợp root, jailbreak hoặc cài phần mềm ngoài hệ thống sẽ không được bảo hành. Không có thông tin thừa hoặc thiếu.",Context chứa đầy đủ thông tin cần thiết để trả lời câu hỏi về việc root hoặc jailbreak có được bảo hành không. Không có thông tin thừa.,policy,
+Hoàng Hà có chịu trách nhiệm mất dữ liệu khi bảo hành không?,Hoàng Hà không chịu trách nhiệm mất dữ liệu khi bảo hành. Khách hàng cần sao lưu dữ liệu trước khi gửi máy bảo hành.,"[CHÍNH SÁCH]
+Tiêu đề: Lưu ý bảo hành
+
+Nội dung:
+Khách cần sao lưu dữ liệu trước khi bảo hành Hoàng Hà không chịu trách nhiệm mất dữ liệu không chịu trách nhiệm với phụ kiện ngoài máy khách cần đăng xuất tài khoản trước khi bảo hành các trường hợp root jailbreak hoặc cài phần mềm ngoài hệ thống sẽ không được bảo hành
+[CHÍNH SÁCH]
+Tiêu đề: Trường hợp không bảo hành
+
+Nội dung:
+Không bảo hành với các trường hợp hỏng do rơi vỡ va đập cháy nổ sử dụng sai cách ngấm nước can thiệp phần cứng hoặc phần mề...",10.0,10.0,10.0,10.0,Thông tin 'Hoàng Hà không chịu trách nhiệm mất dữ liệu khi bảo hành' có trong context: 'Khách cần sao lưu dữ liệu trước khi bảo hành Hoàng Hà không chịu trách nhiệm mất dữ liệu'. Thông tin 'Khách hàng cần sao lưu dữ liệu trước khi gửi máy bảo hành' cũng có trong context: 'Khách cần sao lưu dữ liệu trước khi bảo hành'. Cả hai thông tin đều đúng và có nguồn gốc từ context.,Câu hỏi hỏi về việc Hoàng Hà có chịu trách nhiệm mất dữ liệu khi bảo hành không. Answer trả lời đúng câu hỏi này bằng cách khẳng định Hoàng Hà không chịu trách nhiệm và nhắc nhở khách hàng cần sao lưu dữ liệu trước khi bảo hành. Answer không thừa không thiếu.,Context chứa thông tin cần thiết để trả lời câu hỏi về trách nhiệm của Hoàng Hà đối với việc mất dữ liệu khi bảo hành. Không có thông tin thừa hoặc thiếu liên quan đến câu hỏi.,policy,
+Khi gửi bảo hành có cần đăng xuất tài khoản không?,"Có, khi gửi bảo hành, khách cần đăng xuất tài khoản trước khi mang sản phẩm đến. Hoàng Hà không chịu trách nhiệm về dữ liệu nếu không thực hiện điều này.","[CHÍNH SÁCH]
+Tiêu đề: Lưu ý bảo hành
+
+Nội dung:
+Khách cần sao lưu dữ liệu trước khi bảo hành Hoàng Hà không chịu trách nhiệm mất dữ liệu không chịu trách nhiệm với phụ kiện ngoài máy khách cần đăng xuất tài khoản trước khi bảo hành các trường hợp root jailbreak hoặc cài phần mềm ngoài hệ thống sẽ không được bảo hành
+[CHÍNH SÁCH]
+Tiêu đề: Thời gian tiếp nhận bảo hành
+
+Nội dung:
+Khách có thể mang sản phẩm đến cửa hàng Hoàng Hà theo giờ làm việc hoặc đến trung tâm bảo hành hãng theo thời gian làm v...",8.0,9.0,10.0,9.0,"1. 'Có, khi gửi bảo hành, khách cần đăng xuất tài khoản trước khi mang sản phẩm đến.' - Đúng, thông tin này có trong context. 2. 'Hoàng Hà không chịu trách nhiệm về dữ liệu nếu không thực hiện điều này.' - Sai, context chỉ nói Hoàng Hà không chịu trách nhiệm mất dữ liệu, không liên quan đến việc đăng xuất tài khoản.","Câu hỏi hỏi về việc có cần đăng xuất tài khoản khi gửi bảo hành không. Answer trả lời đúng yêu cầu của câu hỏi là cần đăng xuất tài khoản, nhưng thêm thông tin không chính xác về trách nhiệm dữ liệu.",Context có chứa thông tin cần thiết để trả lời câu hỏi về việc cần đăng xuất tài khoản khi bảo hành.,policy,
+Có cần giữ phụ kiện khi bảo hành không?,"Chào bạn! Khi bảo hành, Hoàng Hà không chịu trách nhiệm với phụ kiện ngoài máy, vì vậy bạn không cần giữ phụ kiện khi mang sản phẩm đi bảo hành. Tuy nhiên, hãy nhớ sao lưu dữ liệu và đăng xuất tài khoản trước khi bảo hành nhé! Nếu cần thêm thông tin gì, bạn cứ hỏi mình nhé!","[CHÍNH SÁCH]
+Tiêu đề: Lưu ý bảo hành
+
+Nội dung:
+Khách cần sao lưu dữ liệu trước khi bảo hành Hoàng Hà không chịu trách nhiệm mất dữ liệu không chịu trách nhiệm với phụ kiện ngoài máy khách cần đăng xuất tài khoản trước khi bảo hành các trường hợp root jailbreak hoặc cài phần mềm ngoài hệ thống sẽ không được bảo hành
+[CHÍNH SÁCH]
+Tiêu đề: Nguyên tắc bảo hành
+
+Nội dung:
+Sản phẩm được bảo hành miễn phí nếu còn thời hạn bảo hành tính từ ngày mua khi đổi máy thời hạn bảo hành còn lại được giữ nguyên ...",10.0,10.0,10.0,10.0,Thông tin 'Hoàng Hà không chịu trách nhiệm với phụ kiện ngoài máy' có trong context. Thông tin 'bạn không cần giữ phụ kiện khi mang sản phẩm đi bảo hành' là suy diễn hợp lý từ thông tin trên. Thông tin 'hãy nhớ sao lưu dữ liệu và đăng xuất tài khoản trước khi bảo hành' cũng có trong context.,"Câu hỏi hỏi về việc có cần giữ phụ kiện khi bảo hành không. Answer trả lời đúng trọng tâm câu hỏi, giải thích rõ ràng lý do không cần giữ phụ kiện. Ngoài ra, answer còn nhắc nhở về việc sao lưu dữ liệu và đăng xuất tài khoản, điều này không thừa vì liên quan đến quy trình bảo hành.","Context chứa thông tin về việc không chịu trách nhiệm với phụ kiện ngoài máy, sao lưu dữ liệu và đăng xuất tài khoản, tất cả đều cần thiết để trả lời câu hỏi.",policy,
+Khi bảo hành có cần sao lưu dữ liệu không?,"Khi bảo hành, khách cần sao lưu dữ liệu trước. Hoàng Hà không chịu trách nhiệm về việc mất dữ liệu trong quá trình bảo hành.","[CHÍNH SÁCH]
+Tiêu đề: Lưu ý bảo hành
+
+Nội dung:
+Khách cần sao lưu dữ liệu trước khi bảo hành Hoàng Hà không chịu trách nhiệm mất dữ liệu không chịu trách nhiệm với phụ kiện ngoài máy khách cần đăng xuất tài khoản trước khi bảo hành các trường hợp root jailbreak hoặc cài phần mềm ngoài hệ thống sẽ không được bảo hành
+[CHÍNH SÁCH]
+Tiêu đề: Thời gian tiếp nhận bảo hành
+
+Nội dung:
+Khách có thể mang sản phẩm đến cửa hàng Hoàng Hà theo giờ làm việc hoặc đến trung tâm bảo hành hãng theo thời gian làm v...",10.0,10.0,10.0,10.0,"Thông tin 'Khi bảo hành, khách cần sao lưu dữ liệu trước' có trong context. Thông tin 'Hoàng Hà không chịu trách nhiệm về việc mất dữ liệu trong quá trình bảo hành' cũng có trong context. Cả hai thông tin đều đúng và có nguồn gốc từ context.",Câu hỏi hỏi về việc có cần sao lưu dữ liệu khi bảo hành không. Answer trả lời đúng câu hỏi này và không thừa không thiếu thông tin nào.,Context chứa đầy đủ thông tin cần thiết để trả lời câu hỏi về việc sao lưu dữ liệu khi bảo hành. Không có thông tin thừa.,policy,
+Sản phẩm có nguồn gốc không rõ có được bảo hành không?,"Sản phẩm có nguồn gốc không rõ sẽ không được bảo hành. Theo chính sách, nếu không xác định được nguồn gốc mua tại Hoàng Hà, sản phẩm sẽ không đủ điều kiện để được bảo hành.","[CHÍNH SÁCH]
+Tiêu đề: Nguyên tắc bảo hành
+
+Nội dung:
+Sản phẩm được bảo hành miễn phí nếu còn thời hạn bảo hành tính từ ngày mua khi đổi máy thời hạn bảo hành còn lại được giữ nguyên bảo hành chỉ áp dụng với sản phẩm do Hoàng Hà cung cấp lỗi do nhà sản xuất trong điều kiện sử dụng bình thường
+[CHÍNH SÁCH]
+Tiêu đề: Trường hợp không bảo hành
+
+Nội dung:
+Không bảo hành với các trường hợp hỏng do rơi vỡ va đập cháy nổ sử dụng sai cách ngấm nước can thiệp phần cứng hoặc phần mềm tự ý sửa chữa máy mất s...",10.0,10.0,10.0,10.0,"Thông tin trong answer: 'Sản phẩm có nguồn gốc không rõ sẽ không được bảo hành.' và 'nếu không xác định được nguồn gốc mua tại Hoàng Hà, sản phẩm sẽ không đủ điều kiện để được bảo hành.' đều có trong context. Context nêu rõ rằng sản phẩm không xác định được nguồn gốc mua tại Hoàng Hà sẽ không được bảo hành.","Câu hỏi hỏi về việc sản phẩm có nguồn gốc không rõ có được bảo hành không. Answer trả lời đúng trọng tâm câu hỏi, không thừa không thiếu, và giải thích rõ ràng lý do không được bảo hành.",Context chứa đầy đủ thông tin cần thiết để trả lời câu hỏi về chính sách bảo hành đối với sản phẩm có nguồn gốc không rõ. Không có thông tin thừa.,policy,
+Sản phẩm hết hạn bảo hành có được hỗ trợ không?,Mình chưa có thông tin chi tiết về điều này.,"[CHÍNH SÁCH]
+Tiêu đề: Thời gian tiếp nhận bảo hành
+
+Nội dung:
+Khách có thể mang sản phẩm đến cửa hàng Hoàng Hà theo giờ làm việc hoặc đến trung tâm bảo hành hãng theo thời gian làm việc của hãng
+Nội dung:
+Hoàng Hà Mobile hỗ trợ chi phí vận chuyển cho các trường hợp lỗi trong 15 ngày khách cần thoát tài khoản trước khi gửi bảo hành thời gian đổi mới tính từ ngày nhận hàng khách liên hệ tổng đài để được hướng dẫn sau khi nhận sản phẩm sẽ có bộ phận tiếp nhận và xử lý trong thời gian sớm nhất chỉ c...",10.0,9.0,7.0,8.67,Answer states 'Mình chưa có thông tin chi tiết về điều này.' which is accurate as the context does not provide specific information about support for products out of warranty.,"The question asks if products out of warranty are supported. The answer states a lack of information, which is relevant given the context does not provide an answer to the question.","The context provides information about warranty policies but does not specifically address support for products out of warranty, making it partially relevant.",policy,
+Sản phẩm lỗi do nhà sản xuất được xử lý thế nào?,"Nếu sản phẩm của bạn bị lỗi do nhà sản xuất, bạn có thể mang sản phẩm cùng hộp và phụ kiện đến cửa hàng. Nhân viên sẽ kiểm tra và xác nhận lỗi. Nếu không thể khắc phục, bạn sẽ được đổi máy mới miễn phí theo chính sách lỗi đổi liền của Hoàng Hà Mobile. Hãy yên tâm, chúng tôi cam kết mang đến trải nghiệm mua sắm an tâm cho bạn!","[CHÍNH SÁCH]
+Tiêu đề: Quy trình đổi lỗi
+
+Nội dung:
+Khách mang sản phẩm cùng hộp và phụ kiện đến cửa hàng nhân viên kiểm tra và xác nhận lỗi nếu không thể khắc phục sẽ đổi máy mới hoặc đề xuất phương án khác sau đó hoàn tất thủ tục và bàn giao máy mới sản phẩm lỗi sẽ được chuyển về trung tâm xử lý
+[CHÍNH SÁCH]
+Tiêu đề: Cam kết lỗi đổi liền
+
+Nội dung:
+Hoàng Hà Mobile triển khai chương trình lỗi đổi liền áp dụng toàn hệ thống nhằm mang đến trải nghiệm mua sắm an tâm khách hàng sẽ được đổi mới miễn ...",10.0,10.0,10.0,10.0,"1. 'Nếu sản phẩm của bạn bị lỗi do nhà sản xuất, bạn có thể mang sản phẩm cùng hộp và phụ kiện đến cửa hàng.' - Đúng, có trong context. 2. 'Nhân viên sẽ kiểm tra và xác nhận lỗi.' - Đúng, có trong context. 3. 'Nếu không thể khắc phục, bạn sẽ được đổi máy mới miễn phí theo chính sách lỗi đổi liền của Hoàng Hà Mobile.' - Đúng, có trong context. 4. 'Hãy yên tâm, chúng tôi cam kết mang đến trải nghiệm mua sắm an tâm cho bạn!' - Đúng, có trong context.","Câu hỏi hỏi về cách xử lý sản phẩm lỗi do nhà sản xuất. Answer đã trả lời đúng cách xử lý: mang sản phẩm đến cửa hàng, kiểm tra lỗi, và đổi máy mới nếu không thể khắc phục. Không thiếu hoặc thừa thông tin.","Context chứa đầy đủ thông tin về quy trình xử lý sản phẩm lỗi do nhà sản xuất, bao gồm việc mang sản phẩm đến cửa hàng, kiểm tra lỗi, và chính sách đổi mới.",policy,
+"Khi đổi máy mới, bảo hành có bị reset không?","Khi đổi máy mới, thời hạn bảo hành sẽ không bị reset mà sẽ giữ nguyên thời gian bảo hành còn lại tính từ ngày mua. Điều này áp dụng với sản phẩm do Hoàng Hà cung cấp và lỗi do nhà sản xuất. Nếu bạn cần thêm thông tin, hãy cho mình biết nhé!","[CHÍNH SÁCH]
+Tiêu đề: Nguyên tắc bảo hành
+
+Nội dung:
+Sản phẩm được bảo hành miễn phí nếu còn thời hạn bảo hành tính từ ngày mua khi đổi máy thời hạn bảo hành còn lại được giữ nguyên bảo hành chỉ áp dụng với sản phẩm do Hoàng Hà cung cấp lỗi do nhà sản xuất trong điều kiện sử dụng bình thường
+[CHÍNH SÁCH]
+Tiêu đề: Thời gian đổi sản phẩm
+
+Nội dung:
+Trong 15 hoặc 30 ngày đầu tùy sản phẩm khách hàng được đổi mới miễn phí nếu lỗi do nhà sản xuất thời gian xử lý khoảng 30 phút tại cửa hàng sau thời gi...",10.0,10.0,10.0,10.0,"Thông tin 'thời hạn bảo hành sẽ không bị reset mà sẽ giữ nguyên thời gian bảo hành còn lại tính từ ngày mua' là đúng theo context. Thông tin 'áp dụng với sản phẩm do Hoàng Hà cung cấp và lỗi do nhà sản xuất' cũng đúng theo context. Phần 'Nếu bạn cần thêm thông tin, hãy cho mình biết nhé!' không có trong context nhưng không ảnh hưởng đến độ chính xác của thông tin chính.","Câu hỏi hỏi về việc bảo hành có bị reset khi đổi máy mới không. Answer đã trả lời đúng câu hỏi này, không thừa không thiếu.",Context chứa đầy đủ thông tin cần thiết để trả lời câu hỏi về việc bảo hành có bị reset khi đổi máy mới không.,policy,
+Khách có thể bảo hành ở đâu?,Khách có thể mang sản phẩm đến cửa hàng Hoàng Hà theo giờ làm việc hoặc đến trung tâm bảo hành của hãng theo thời gian làm việc của hãng.,"[CHÍNH SÁCH]
+Tiêu đề: Thời gian tiếp nhận bảo hành
+
+Nội dung:
+Khách có thể mang sản phẩm đến cửa hàng Hoàng Hà theo giờ làm việc hoặc đến trung tâm bảo hành hãng theo thời gian làm việc của hãng
+[CHÍNH SÁCH]
+Tiêu đề: Chính sách bảo hành sản phẩm
+
+Nội dung:
+Tất cả sản phẩm đều là hàng chính hãng và được bảo hành theo quy định khách có thể bảo hành tại trung tâm hãng hoặc cửa hàng Hoàng Hà thời gian bảo hành máy mới 12 tháng máy cũ 6 tháng hoặc theo hãng
+[CHÍNH SÁCH]
+Tiêu đề: Nguyên tắc bảo hành
+
+...",10.0,10.0,10.0,10.0,Thông tin trong answer: 'Khách có thể mang sản phẩm đến cửa hàng Hoàng Hà theo giờ làm việc hoặc đến trung tâm bảo hành của hãng theo thời gian làm việc của hãng.' Đối chiếu với context: <1> 'Khách có thể mang sản phẩm đến cửa hàng Hoàng Hà theo giờ làm việc' - đúng với context. <2> 'hoặc đến trung tâm bảo hành của hãng theo thời gian làm việc của hãng' - đúng với context.,"Câu hỏi hỏi về địa điểm bảo hành. Answer đã trả lời đúng câu hỏi, không thừa không thiếu, cung cấp đầy đủ thông tin về các địa điểm bảo hành có thể.","Context chứa đầy đủ thông tin cần thiết để trả lời câu hỏi về địa điểm bảo hành, không có thông tin thừa.",policy,
+Thời gian tiếp nhận bảo hành là khi nào?,Thời gian tiếp nhận bảo hành là trong giờ làm việc của cửa hàng Hoàng Hà hoặc tại trung tâm bảo hành của hãng theo thời gian làm việc của họ. Bạn có thể mang sản phẩm đến bất kỳ lúc nào trong thời gian đó!,"[CHÍNH SÁCH]
+Tiêu đề: Thời gian tiếp nhận bảo hành
+
+Nội dung:
+Khách có thể mang sản phẩm đến cửa hàng Hoàng Hà theo giờ làm việc hoặc đến trung tâm bảo hành hãng theo thời gian làm việc của hãng
+[CHÍNH SÁCH]
+Tiêu đề: Nguyên tắc bảo hành
+
+Nội dung:
+Sản phẩm được bảo hành miễn phí nếu còn thời hạn bảo hành tính từ ngày mua khi đổi máy thời hạn bảo hành còn lại được giữ nguyên bảo hành chỉ áp dụng với sản phẩm do Hoàng Hà cung cấp lỗi do nhà sản xuất trong điều kiện sử dụng bình thường
+[CHÍNH SÁCH]...",9.0,9.0,10.0,9.33,"Thông tin 'Thời gian tiếp nhận bảo hành là trong giờ làm việc của cửa hàng Hoàng Hà hoặc tại trung tâm bảo hành của hãng theo thời gian làm việc của họ' là đúng theo context. Tuy nhiên, phần 'Bạn có thể mang sản phẩm đến bất kỳ lúc nào trong thời gian đó!' không có trong context và là suy diễn.",Câu hỏi hỏi về thời gian tiếp nhận bảo hành. Answer đã trả lời đúng câu hỏi này bằng cách nêu rõ thời gian là trong giờ làm việc của cửa hàng Hoàng Hà hoặc trung tâm bảo hành của hãng. Phần cuối 'Bạn có thể mang sản phẩm đến bất kỳ lúc nào trong thời gian đó!' là thừa.,"Context có chứa thông tin cần thiết về thời gian tiếp nhận bảo hành, cụ thể là trong giờ làm việc của cửa hàng Hoàng Hà hoặc trung tâm bảo hành của hãng.",policy,
+Có bảo hành phụ kiện không?,"Mình xin thông tin là phụ kiện ngoài máy sẽ không được bảo hành. Hoàng Hà chỉ hỗ trợ đổi trong 15 ngày nếu có lỗi với quà tặng, nhưng một số phụ kiện như ốp lưng, kính cường lực sẽ không được bảo hành. Nếu bạn cần thêm thông tin, hãy cho mình biết nhé!","[CHÍNH SÁCH]
+Tiêu đề: Nguyên tắc bảo hành
+
+Nội dung:
+Sản phẩm được bảo hành miễn phí nếu còn thời hạn bảo hành tính từ ngày mua khi đổi máy thời hạn bảo hành còn lại được giữ nguyên bảo hành chỉ áp dụng với sản phẩm do Hoàng Hà cung cấp lỗi do nhà sản xuất trong điều kiện sử dụng bình thường
+[CHÍNH SÁCH]
+Tiêu đề: Lưu ý bảo hành
+
+Nội dung:
+Khách cần sao lưu dữ liệu trước khi bảo hành Hoàng Hà không chịu trách nhiệm mất dữ liệu không chịu trách nhiệm với phụ kiện ngoài máy khách cần đăng xuất tài ...",10.0,10.0,10.0,10.0,"Thông tin 'phụ kiện ngoài máy sẽ không được bảo hành' là đúng theo context 'không chịu trách nhiệm với phụ kiện ngoài máy'. Thông tin 'Hoàng Hà chỉ hỗ trợ đổi trong 15 ngày nếu có lỗi với quà tặng' là đúng theo context 'quà tặng là sản phẩm điện tử được đổi trong 15 ngày nếu lỗi'. Thông tin 'một số phụ kiện như ốp lưng, kính cường lực sẽ không được bảo hành' là đúng theo context 'một số quà tặng như ốp lưng kính cường lực không hỗ trợ bảo hành'.","Câu hỏi hỏi về bảo hành phụ kiện. Answer đã trả lời đúng trọng tâm câu hỏi, nêu rõ rằng phụ kiện ngoài máy không được bảo hành và cung cấp thêm thông tin về chính sách đổi trả quà tặng, không thừa không thiếu.","Context chứa đầy đủ thông tin cần thiết để trả lời câu hỏi về chính sách bảo hành phụ kiện, không có thông tin thừa.",policy,
+Quà tặng có được bảo hành không?,"Quà tặng là sản phẩm điện tử được đổi trong 15 ngày nếu có lỗi. Sau thời gian đó, quà tặng nhỏ không có bảo hành, chỉ hỗ trợ đổi trong 15 ngày. Một số quà tặng như ốp lưng kính cường lực cũng không hỗ trợ bảo hành. Nếu bạn có thắc mắc thêm, hãy cho mình biết nhé!","[CHÍNH SÁCH]
+Tiêu đề: Bảo hành quà tặng
+
+Nội dung:
+Quà tặng là sản phẩm điện tử được đổi trong 15 ngày nếu lỗi sau đó bảo hành theo hãng quà tặng nhỏ không có bảo hành chỉ hỗ trợ đổi trong 15 ngày một số quà tặng như ốp lưng kính cường lực không hỗ trợ bảo hành
+[CHÍNH SÁCH]
+Tiêu đề: Nguyên tắc bảo hành
+
+Nội dung:
+Sản phẩm được bảo hành miễn phí nếu còn thời hạn bảo hành tính từ ngày mua khi đổi máy thời hạn bảo hành còn lại được giữ nguyên bảo hành chỉ áp dụng với sản phẩm do Hoàng Hà cung cấp l...",10.0,10.0,10.0,10.0,"Thông tin 'Quà tặng là sản phẩm điện tử được đổi trong 15 ngày nếu có lỗi' là đúng theo context. Thông tin 'Sau thời gian đó, quà tặng nhỏ không có bảo hành, chỉ hỗ trợ đổi trong 15 ngày' cũng đúng. Thông tin 'Một số quà tặng như ốp lưng kính cường lực cũng không hỗ trợ bảo hành' là chính xác theo context. Phần 'Nếu bạn có thắc mắc thêm, hãy cho mình biết nhé!' không có trong context nhưng không ảnh hưởng đến độ chính xác của thông tin.",Câu hỏi hỏi về việc quà tặng có được bảo hành không. Answer đã trả lời đúng câu hỏi này bằng cách nêu rõ điều kiện bảo hành và đổi trả của quà tặng. Không có thông tin thừa hoặc thiếu.,"Context chứa đầy đủ thông tin cần thiết để trả lời câu hỏi về chính sách bảo hành quà tặng, không có thông tin thừa.",policy,
+Ốp lưng hoặc kính cường lực có bảo hành không?,Mình chưa có thông tin chi tiết về điều này.,"[CHÍNH SÁCH]
+Tiêu đề: Thời gian tiếp nhận bảo hành
+
+Nội dung:
+Khách có thể mang sản phẩm đến cửa hàng Hoàng Hà theo giờ làm việc hoặc đến trung tâm bảo hành hãng theo thời gian làm việc của hãng
+[CHÍNH SÁCH]
+Tiêu đề: Chính sách bảo hành sản phẩm
+
+Nội dung:
+Tất cả sản phẩm đều là hàng chính hãng và được bảo hành theo quy định khách có thể bảo hành tại trung tâm hãng hoặc cửa hàng Hoàng Hà thời gian bảo hành máy mới 12 tháng máy cũ 6 tháng hoặc theo hãng
+[CHÍNH SÁCH]
+Tiêu đề: Nguyên tắc bảo hành
+
+...",5.0,3.0,4.0,4.0,"Answer không cung cấp thông tin nào từ context, chỉ nói rằng không có thông tin chi tiết về điều này.","Câu hỏi hỏi về việc ốp lưng hoặc kính cường lực có bảo hành không. Answer không trả lời trực tiếp câu hỏi này mà chỉ nói rằng không có thông tin chi tiết, điều này không giúp giải đáp thắc mắc của người hỏi.","Context không chứa thông tin cụ thể về việc ốp lưng hoặc kính cường lực có bảo hành hay không. Context chỉ nói về chính sách bảo hành chung cho sản phẩm, không đề cập đến phụ kiện như ốp lưng hoặc kính cường lực.",policy,
+Điều kiện để được đổi trả/bảo hành hợp lệ là gì?,"Để được đổi trả hoặc bảo hành hợp lệ tại Hoàng Hà Mobile, sản phẩm của bạn cần đáp ứng các điều kiện sau:
+
+1. Sản phẩm và hộp còn như mới, đầy đủ phụ kiện.
+2. Không có dấu hiệu móp méo, cong vênh hoặc bị tác động bên ngoài.
+3. Không có dấu hiệu vào nước.
+4. Đã đăng xuất các tài khoản cá nhân trên thiết bị.
+5. Màn hình không có lỗi điểm chết và phải đạt tiêu chuẩn theo quy định.
+
+Nếu sản phẩm lỗi do nhà sản xuất trong vòng 15 ngày, bạn cũng sẽ được hỗ trợ chi phí vận chuyển khi gửi bảo hành.","[CHÍNH SÁCH]
+Tiêu đề: Chính sách đổi trả sản phẩm
+
+Nội dung:
+Áp dụng đổi mới theo chính sách bảo hành như tại cửa hàng Hoàng Hà Mobile hỗ trợ chi phí vận chuyển nếu sản phẩm lỗi trong 15 ngày Khi gửi bảo hành khách cần thoát tài khoản trên thiết bị và liên hệ tổng đài để được hướng dẫn
+[CHÍNH SÁCH]
+Tiêu đề: Lưu ý đổi trả
+
+Nội dung:
+Không áp dụng đổi mới với lỗi do người dùng như rơi vỡ vào nước hoặc can thiệp sửa chữa ngoài hệ thống phụ kiện dưới một triệu đồng sẽ được kiểm tra và đổi ngay nếu đ...",10.0,10.0,10.0,10.0,"1. 'Sản phẩm và hộp còn như mới, đầy đủ phụ kiện.' - Đúng, có trong context. 2. 'Không có dấu hiệu móp méo, cong vênh hoặc bị tác động bên ngoài.' - Đúng, có trong context. 3. 'Không có dấu hiệu vào nước.' - Đúng, có trong context. 4. 'Đã đăng xuất các tài khoản cá nhân trên thiết bị.' - Đúng, có trong context. 5. 'Màn hình không có lỗi điểm chết và phải đạt tiêu chuẩn theo quy định.' - Đúng, có trong context. 6. 'Nếu sản phẩm lỗi do nhà sản xuất trong vòng 15 ngày, bạn cũng sẽ được hỗ trợ chi phí vận chuyển khi gửi bảo hành.' - Đúng, có trong context.","Câu hỏi yêu cầu điều kiện để đổi trả/bảo hành hợp lệ. Answer đã liệt kê đầy đủ các điều kiện cần thiết theo context, không thừa không thiếu.","Context chứa đầy đủ thông tin về điều kiện đổi trả/bảo hành, không có thông tin thừa.",policy,
+Nếu thiếu phụ kiện khi bảo hành thì sao?,Mình chưa có thông tin chi tiết về điều này.,"[CHÍNH SÁCH]
+Tiêu đề: Nguyên tắc bảo hành
+
+Nội dung:
+Sản phẩm được bảo hành miễn phí nếu còn thời hạn bảo hành tính từ ngày mua khi đổi máy thời hạn bảo hành còn lại được giữ nguyên bảo hành chỉ áp dụng với sản phẩm do Hoàng Hà cung cấp lỗi do nhà sản xuất trong điều kiện sử dụng bình thường
+[CHÍNH SÁCH]
+Tiêu đề: Lưu ý bảo hành
+
+Nội dung:
+Khách cần sao lưu dữ liệu trước khi bảo hành Hoàng Hà không chịu trách nhiệm mất dữ liệu không chịu trách nhiệm với phụ kiện ngoài máy khách cần đăng xuất tài ...",10.0,10.0,9.0,9.67,Answer states 'Mình chưa có thông tin chi tiết về điều này.' This is accurate as the context does not provide specific information about missing accessories during warranty.,"The question asks about the procedure if accessories are missing during warranty. The answer correctly states the lack of information, which is relevant given the context.","The context provides general warranty policies but does not specifically address missing accessories during warranty, which aligns with the answer's statement of lacking detailed information.",policy,
+Chính sách bảo hành lỗi đổi liền áp dụng thế nào?,"Chính sách bảo hành lỗi đổi liền của Hoàng Hà Mobile áp dụng cho tất cả sản phẩm như điện thoại, máy tính bảng, đồng hồ thông minh và các thiết bị đeo thông minh mua mới tại cửa hàng. Nếu sản phẩm phát sinh lỗi phần cứng hoặc phần mềm do nhà sản xuất, khách hàng sẽ được đổi mới miễn phí. Hãy yên tâm khi mua sắm tại Hoàng Hà Mobile!","[CHÍNH SÁCH]
+Tiêu đề: Nguyên tắc bảo hành
+
+Nội dung:
+Sản phẩm được bảo hành miễn phí nếu còn thời hạn bảo hành tính từ ngày mua khi đổi máy thời hạn bảo hành còn lại được giữ nguyên bảo hành chỉ áp dụng với sản phẩm do Hoàng Hà cung cấp lỗi do nhà sản xuất trong điều kiện sử dụng bình thường
+[CHÍNH SÁCH]
+Tiêu đề: Chính sách đổi trả sản phẩm
+
+Nội dung:
+Áp dụng đổi mới theo chính sách bảo hành như tại cửa hàng Hoàng Hà Mobile hỗ trợ chi phí vận chuyển nếu sản phẩm lỗi trong 15 ngày Khi gửi bảo hàn...",9.0,9.0,10.0,9.33,"Thông tin trong answer: 1) 'Chính sách bảo hành lỗi đổi liền của Hoàng Hà Mobile áp dụng cho tất cả sản phẩm như điện thoại, máy tính bảng, đồng hồ thông minh và các thiết bị đeo thông minh mua mới tại cửa hàng.' - Đúng, có trong context. 2) 'Nếu sản phẩm phát sinh lỗi phần cứng hoặc phần mềm do nhà sản xuất, khách hàng sẽ được đổi mới miễn phí.' - Đúng, có trong context. 3) 'Hãy yên tâm khi mua sắm tại Hoàng Hà Mobile!' - Đây là một đánh giá chủ quan không có trong context.","Câu hỏi hỏi về chính sách bảo hành lỗi đổi liền. Answer đã trả lời đúng về điều kiện áp dụng và các loại sản phẩm được áp dụng, nhưng có thêm một câu đánh giá chủ quan không cần thiết.","Context có chứa đầy đủ thông tin về chính sách bảo hành lỗi đổi liền, bao gồm điều kiện áp dụng và các loại sản phẩm được áp dụng.",policy,
+Cam kết dịch vụ bảo hành của Hoàng Hà là gì?,"Cam kết dịch vụ bảo hành của Hoàng Hà là thẩm định nhanh minh bạch, hỗ trợ đổi máy mới hoặc cho mượn máy trong thời gian chờ bảo hành. Chúng tôi luôn đặt trải nghiệm khách hàng lên hàng đầu.","[CHÍNH SÁCH]
+Tiêu đề: Thời gian tiếp nhận bảo hành
+
+Nội dung:
+Khách có thể mang sản phẩm đến cửa hàng Hoàng Hà theo giờ làm việc hoặc đến trung tâm bảo hành hãng theo thời gian làm việc của hãng
+[CHÍNH SÁCH]
+Tiêu đề: Cam kết dịch vụ
+
+Nội dung:
+Thẩm định nhanh minh bạch hỗ trợ đổi máy mới hoặc cho mượn máy trong thời gian chờ bảo hành luôn đặt trải nghiệm khách hàng lên hàng đầu
+[CHÍNH SÁCH]
+Tiêu đề: Nguyên tắc bảo hành
+
+Nội dung:
+Sản phẩm được bảo hành miễn phí nếu còn thời hạn bảo hành tính từ ...",10.0,10.0,10.0,10.0,"Thông tin 'thẩm định nhanh minh bạch, hỗ trợ đổi máy mới hoặc cho mượn máy trong thời gian chờ bảo hành' có trong context. Thông tin 'luôn đặt trải nghiệm khách hàng lên hàng đầu' cũng có trong context. Không có thông tin nào sai hoặc bịa.","Câu hỏi yêu cầu cam kết dịch vụ bảo hành của Hoàng Hà. Answer đã trả lời đúng và đầy đủ về cam kết dịch vụ bảo hành, không thừa không thiếu.","Context chứa đầy đủ thông tin về cam kết dịch vụ bảo hành của Hoàng Hà, không có thông tin thừa.",policy,
+Khi nào khách được đổi máy mới?,Khách hàng được đổi máy mới trong 15 hoặc 30 ngày đầu tùy sản phẩm nếu sản phẩm bị lỗi do nhà sản xuất. Thời gian xử lý đổi máy tại cửa hàng khoảng 30 phút.,"[CHÍNH SÁCH]
+Tiêu đề: Thời gian đổi sản phẩm
+
+Nội dung:
+Trong 15 hoặc 30 ngày đầu tùy sản phẩm khách hàng được đổi mới miễn phí nếu lỗi do nhà sản xuất thời gian xử lý khoảng 30 phút tại cửa hàng sau thời gian này khách có thể chọn bảo hành chính hãng đổi máy tương đương hoặc tham gia chương trình thu cũ đổi mới
+[CHÍNH SÁCH]
+Tiêu đề: Điều kiện đổi mới
+
+Nội dung:
+Sản phẩm phải lỗi do nhà sản xuất máy còn nguyên vẹn không trầy xước móp méo không vào nước không bị can thiệp phần cứng hoặc phần mềm ...",10.0,10.0,10.0,10.0,"1. 'Khách hàng được đổi máy mới trong 15 hoặc 30 ngày đầu tùy sản phẩm nếu sản phẩm bị lỗi do nhà sản xuất' - Đúng, thông tin này có trong context. 2. 'Thời gian xử lý đổi máy tại cửa hàng khoảng 30 phút' - Đúng, thông tin này có trong context.","Câu hỏi hỏi về thời gian khách được đổi máy mới. Answer trả lời đúng câu hỏi, nêu rõ thời gian đổi máy là trong 15 hoặc 30 ngày đầu tùy sản phẩm và điều kiện lỗi do nhà sản xuất. Không thừa không thiếu.",Context chứa đầy đủ thông tin cần thiết để trả lời câu hỏi về thời gian và điều kiện đổi máy mới.,policy,
+Thời gian đổi mới sản phẩm là bao lâu?,"Thời gian đổi mới sản phẩm là trong 15 hoặc 30 ngày đầu tùy vào loại sản phẩm. Nếu sản phẩm lỗi do nhà sản xuất, khách hàng có thể đổi mới miễn phí và thời gian xử lý tại cửa hàng khoảng 30 phút.","[CHÍNH SÁCH]
+Tiêu đề: Thời gian đổi sản phẩm
+
+Nội dung:
+Trong 15 hoặc 30 ngày đầu tùy sản phẩm khách hàng được đổi mới miễn phí nếu lỗi do nhà sản xuất thời gian xử lý khoảng 30 phút tại cửa hàng sau thời gian này khách có thể chọn bảo hành chính hãng đổi máy tương đương hoặc tham gia chương trình thu cũ đổi mới
+[CHÍNH SÁCH]
+Tiêu đề: Chính sách đổi trả sản phẩm
+
+Nội dung:
+Áp dụng đổi mới theo chính sách bảo hành như tại cửa hàng Hoàng Hà Mobile hỗ trợ chi phí vận chuyển nếu sản phẩm lỗi trong 15...",10.0,10.0,10.0,10.0,"1. 'Thời gian đổi mới sản phẩm là trong 15 hoặc 30 ngày đầu tùy vào loại sản phẩm.' - Đúng, context có thông tin này. 2. 'Nếu sản phẩm lỗi do nhà sản xuất, khách hàng có thể đổi mới miễn phí' - Đúng, context có thông tin này. 3. 'Thời gian xử lý tại cửa hàng khoảng 30 phút.' - Đúng, context có thông tin này.","Câu hỏi hỏi về thời gian đổi mới sản phẩm. Answer trả lời đúng câu hỏi, cung cấp thông tin về thời gian đổi mới và điều kiện đổi mới, không thừa không thiếu.","Context chứa đầy đủ thông tin về thời gian đổi mới sản phẩm, điều kiện đổi mới và thời gian xử lý, không có thông tin thừa.",policy,
+Đổi máy mới mất bao lâu xử lý tại cửa hàng?,"Thời gian xử lý đổi máy mới tại cửa hàng khoảng 30 phút, nếu sản phẩm lỗi do nhà sản xuất. Bạn chỉ cần mang sản phẩm cùng hộp và phụ kiện đến cửa hàng để nhân viên kiểm tra và xác nhận lỗi.","[CHÍNH SÁCH]
+Tiêu đề: Thời gian đổi sản phẩm
+
+Nội dung:
+Trong 15 hoặc 30 ngày đầu tùy sản phẩm khách hàng được đổi mới miễn phí nếu lỗi do nhà sản xuất thời gian xử lý khoảng 30 phút tại cửa hàng sau thời gian này khách có thể chọn bảo hành chính hãng đổi máy tương đương hoặc tham gia chương trình thu cũ đổi mới
+[CHÍNH SÁCH]
+Tiêu đề: Quy trình đổi lỗi
+
+Nội dung:
+Khách mang sản phẩm cùng hộp và phụ kiện đến cửa hàng nhân viên kiểm tra và xác nhận lỗi nếu không thể khắc phục sẽ đổi máy mới hoặc đề...",10.0,10.0,10.0,10.0,Thông tin 'Thời gian xử lý đổi máy mới tại cửa hàng khoảng 30 phút' là đúng theo context. Thông tin 'nếu sản phẩm lỗi do nhà sản xuất' cũng đúng theo context. Thông tin 'Bạn chỉ cần mang sản phẩm cùng hộp và phụ kiện đến cửa hàng để nhân viên kiểm tra và xác nhận lỗi' cũng đúng theo context.,Câu hỏi hỏi về thời gian xử lý đổi máy mới tại cửa hàng. Answer đã trả lời đúng câu hỏi này và không thừa không thiếu thông tin nào.,Context chứa đầy đủ thông tin cần thiết để trả lời câu hỏi về thời gian xử lý đổi máy mới tại cửa hàng.,policy,
+Điều kiện để được đổi máy mới là gì?,"Để được đổi máy mới, sản phẩm của bạn phải đáp ứng các điều kiện sau:
+
+1. Lỗi do nhà sản xuất.
+2. Máy còn nguyên vẹn, không trầy xước, móp méo, không vào nước.
+3. Không bị can thiệp phần cứng hoặc phần mềm.
+4. Có đầy đủ hộp và phụ kiện; nếu thiếu sẽ bị trừ phí.
+
+Nếu bạn đáp ứng đủ các điều kiện này, bạn có thể thực hiện đổi mới sản phẩm.","[CHÍNH SÁCH]
+Tiêu đề: Điều kiện đổi mới
+
+Nội dung:
+Sản phẩm phải lỗi do nhà sản xuất máy còn nguyên vẹn không trầy xước móp méo không vào nước không bị can thiệp phần cứng hoặc phần mềm và có đầy đủ hộp phụ kiện nếu thiếu sẽ trừ phí
+[CHÍNH SÁCH]
+Tiêu đề: Thời gian đổi sản phẩm
+
+Nội dung:
+Trong 15 hoặc 30 ngày đầu tùy sản phẩm khách hàng được đổi mới miễn phí nếu lỗi do nhà sản xuất thời gian xử lý khoảng 30 phút tại cửa hàng sau thời gian này khách có thể chọn bảo hành chính hãng đổi máy tương đ...",10.0,10.0,10.0,10.0,"1. 'Lỗi do nhà sản xuất' - Đúng, có trong context. 2. 'Máy còn nguyên vẹn, không trầy xước, móp méo, không vào nước' - Đúng, có trong context. 3. 'Không bị can thiệp phần cứng hoặc phần mềm' - Đúng, có trong context. 4. 'Có đầy đủ hộp và phụ kiện; nếu thiếu sẽ bị trừ phí' - Đúng, có trong context.","Câu hỏi hỏi về điều kiện để được đổi máy mới. Answer đã liệt kê đầy đủ các điều kiện cần thiết theo context, không thiếu không thừa.","Context chứa đầy đủ thông tin về điều kiện đổi máy mới, không có thông tin thừa.",policy,
+Nếu thiếu phụ kiện khi đổi trả thì sao?,"Nếu sản phẩm và hộp không còn đầy đủ phụ kiện, chúng tôi sẽ không thể áp dụng chính sách đổi trả. Để được đổi trả, sản phẩm cần phải còn như mới và đầy đủ phụ kiện. Nếu bạn có thêm câu hỏi nào khác, hãy cho mình biết nhé!","[CHÍNH SÁCH]
+Tiêu đề: Lưu ý đổi trả
+
+Nội dung:
+Không áp dụng đổi mới với lỗi do người dùng như rơi vỡ vào nước hoặc can thiệp sửa chữa ngoài hệ thống phụ kiện dưới một triệu đồng sẽ được kiểm tra và đổi ngay nếu đủ điều kiện
+[CHÍNH SÁCH]
+Tiêu đề: Điều kiện đổi trả chung
+
+Nội dung:
+Sản phẩm và hộp còn như mới đầy đủ phụ kiện không móp méo không cong vênh không bị tác động bên ngoài không có dấu hiệu vào nước đã đăng xuất các tài khoản cá nhân màn hình lỗi điểm chết phải đạt tiêu chuẩn theo quy đị...",8.0,8.0,9.0,8.33,"Thông tin 'sản phẩm và hộp không còn đầy đủ phụ kiện, chúng tôi sẽ không thể áp dụng chính sách đổi trả' là đúng theo context, vì context yêu cầu sản phẩm và hộp phải còn như mới và đầy đủ phụ kiện. Thông tin 'sản phẩm cần phải còn như mới và đầy đủ phụ kiện' cũng đúng theo context. Tuy nhiên, answer không đề cập đến việc có thể kiểm tra và đổi ngay nếu phụ kiện dưới một triệu đồng, điều này có thể gây hiểu nhầm rằng thiếu phụ kiện sẽ không được đổi trả trong mọi trường hợp.","Câu hỏi hỏi về việc thiếu phụ kiện khi đổi trả thì sao. Answer đã trả lời rằng không thể áp dụng chính sách đổi trả nếu thiếu phụ kiện, điều này đúng nhưng chưa đầy đủ vì không đề cập đến trường hợp phụ kiện dưới một triệu đồng có thể được kiểm tra và đổi ngay.","Context có chứa thông tin về điều kiện đổi trả, bao gồm yêu cầu sản phẩm và hộp phải còn như mới và đầy đủ phụ kiện. Tuy nhiên, context cũng có thông tin về việc phụ kiện dưới một triệu đồng có thể được kiểm tra và đổi ngay, điều này không được đề cập trong answer.",policy,
+Có hỗ trợ chi phí vận chuyển khi đổi trả không?,"Có, Hoàng Hà Mobile hỗ trợ chi phí vận chuyển nếu sản phẩm lỗi trong vòng 15 ngày theo chính sách đổi trả sản phẩm. Khi gửi bảo hành, khách cần thoát tài khoản trên thiết bị và liên hệ tổng đài để được hướng dẫn.","[CHÍNH SÁCH]
+Tiêu đề: Chính sách đổi trả sản phẩm
+
+Nội dung:
+Áp dụng đổi mới theo chính sách bảo hành như tại cửa hàng Hoàng Hà Mobile hỗ trợ chi phí vận chuyển nếu sản phẩm lỗi trong 15 ngày Khi gửi bảo hành khách cần thoát tài khoản trên thiết bị và liên hệ tổng đài để được hướng dẫn
+[CHÍNH SÁCH]
+Tiêu đề: Thời gian vận chuyển
+
+Nội dung:
+Đơn dưới 300000 đồng phí vận chuyển 20000 đồng từ 300000 đồng trở lên miễn phí nội thành Hà Nội và thành phố Hồ Chí Minh giao trong ngày nếu xác nhận trước 14 ...",10.0,10.0,10.0,10.0,"Thông tin 'Hoàng Hà Mobile hỗ trợ chi phí vận chuyển nếu sản phẩm lỗi trong vòng 15 ngày' là đúng theo context. Thông tin 'Khi gửi bảo hành, khách cần thoát tài khoản trên thiết bị và liên hệ tổng đài để được hướng dẫn' cũng đúng theo context.","Câu hỏi hỏi về việc có hỗ trợ chi phí vận chuyển khi đổi trả không. Answer đã trả lời đúng câu hỏi này, không thừa không thiếu.","Context có chứa thông tin cần thiết về việc hỗ trợ chi phí vận chuyển khi sản phẩm lỗi trong 15 ngày, không có thông tin thừa.",policy,
+Khách cần làm gì trước khi gửi đổi trả?,"Trước khi gửi đổi trả, khách cần thực hiện các bước sau:
+
+1. Đảm bảo sản phẩm và hộp còn như mới, đầy đủ phụ kiện, không móp méo, không cong vênh và không có dấu hiệu vào nước.
+2. Đăng xuất các tài khoản cá nhân trên thiết bị.
+3. Nếu sản phẩm có lỗi, hãy liên hệ tổng đài để được hướng dẫn cụ thể về quy trình gửi bảo hành.
+
+Nếu có bất kỳ thắc mắc nào khác, khách cứ thoải mái hỏi nhé!","[CHÍNH SÁCH]
+Tiêu đề: Lưu ý đổi trả
+
+Nội dung:
+Không áp dụng đổi mới với lỗi do người dùng như rơi vỡ vào nước hoặc can thiệp sửa chữa ngoài hệ thống phụ kiện dưới một triệu đồng sẽ được kiểm tra và đổi ngay nếu đủ điều kiện
+[CHÍNH SÁCH]
+Tiêu đề: Điều kiện đổi trả chung
+
+Nội dung:
+Sản phẩm và hộp còn như mới đầy đủ phụ kiện không móp méo không cong vênh không bị tác động bên ngoài không có dấu hiệu vào nước đã đăng xuất các tài khoản cá nhân màn hình lỗi điểm chết phải đạt tiêu chuẩn theo quy đị...",9.0,9.0,10.0,9.33,"1. 'Đảm bảo sản phẩm và hộp còn như mới, đầy đủ phụ kiện, không móp méo, không cong vênh và không có dấu hiệu vào nước' - Đúng, có trong context. 2. 'Đăng xuất các tài khoản cá nhân trên thiết bị' - Đúng, có trong context. 3. 'Nếu sản phẩm có lỗi, hãy liên hệ tổng đài để được hướng dẫn cụ thể về quy trình gửi bảo hành' - Đúng, có trong context. 4. 'Nếu có bất kỳ thắc mắc nào khác, khách cứ thoải mái hỏi nhé!' - Không có trong context, là một lời khuyên thêm không cần thiết.","Câu hỏi yêu cầu biết khách cần làm gì trước khi gửi đổi trả. Answer đã trả lời đúng các bước cần thiết theo context, nhưng có thêm một câu không cần thiết về việc hỏi thêm thắc mắc.","Context chứa đầy đủ thông tin cần thiết để trả lời câu hỏi về các bước cần thực hiện trước khi gửi đổi trả, không có thông tin thừa.",policy,
